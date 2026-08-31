@@ -1,0 +1,35 @@
+PHASE 8.5 — FINAL INTERPRETATION & PROJECT CONCLUSION
+======================================================================
+
+MAIN FINDINGS
+----------------------------------------------------------------------
+• Best external Macro-F1: M2 + M3 (18.26%).
+• Best external Balanced Accuracy: M2 (20.56%).
+• Strongest observed R3 mitigation: M3, reducing R3 probe BA by 14.39 percentage points.
+• M2 + M3 achieved 41.90% prediction coverage on the harmonized DDI space.
+
+RQ-WISE INTERPRETATION
+----------------------------------------------------------------------
+
+RQ1:
+Skin-tone bias is evidenced through differences in skin-tone representation, disease distribution, and model behavior across groups. The representation probe provides direct evidence that skin-tone information is predictable from the learned representation.
+
+RQ2:
+The mitigation experiments show that diagnostic performance and fairness are not optimized by the same intervention. Class-weighting (M2) primarily targets disease/class imbalance, while representation mitigation (M3) directly reduces skin-tone representation predictability.
+
+RQ3:
+The strongest observed R3 reduction is produced by M3. On DDI, R3 probe balanced accuracy decreases from 60.42% to 46.03% (14.39 percentage points), indicating reduced skin-tone representation predictability.
+
+LIMITATIONS
+----------------------------------------------------------------------
+• DDI external evaluation used a harmonized 14-class label space; therefore, external multi-class performance is not directly comparable to the full 114-class Fitzpatrick17k task.
+• The DDI evaluation contains substantial out-of-space predictions. The M2 + M3 model mapped only 41.90% of predictions, with 122 of 210 predictions outside the harmonized 14-class space.
+• Because of the limited prediction coverage on DDI, M2 + M3 external performance should be interpreted cautiously and should not be presented as evidence of clinical readiness.
+• M3 and M2 + M3 do not have equivalent internal Fitzpatrick17k performance records in the current consolidated table, so full internal-to-external generalization cannot be claimed for those models.
+• The DDI dataset represents an external domain and may differ from Fitzpatrick17k in disease distribution, image characteristics, clinical setting, and image quality.
+• Fairness metrics can move in different directions simultaneously; therefore, no single fairness metric should be used as the sole definition of fairness.
+• The study evaluates research models on public datasets and does not establish clinical deployment readiness.
+
+FINAL CONCLUSION
+----------------------------------------------------------------------
+Overall, the experiments show that fairness mitigation in skin-disease classification involves a trade-off between diagnostic performance and representation bias. M2, based on class weighting, improves the external balanced-accuracy measure relative to the baseline, indicating that addressing disease-class imbalance can improve performance across classes. M3 provides the strongest observed reduction in skin-tone representation predictability, demonstrating that representation-level mitigation can directly reduce the amount of skin-tone information encoded in the learned representation. The combined M2 + M3 model achieves the strongest external Macro-F1 among the evaluated DDI models, but its substantial out-of-space prediction rate limits the strength of that conclusion. Therefore, the results support the framework as a bias-aware strategy-selection approach rather than evidence of a universally optimal mitigation method. External DDI testing demonstrates that performance and fairness behavior can change substantially under dataset shift, highlighting the importance of external validation.

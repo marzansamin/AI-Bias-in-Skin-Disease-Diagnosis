@@ -1,0 +1,12 @@
+{
+  "training_function": "train_one_epoch",
+  "optimizer_step": true,
+  "gradient_clipping": true,
+  "gradient_clip_value": 1.0,
+  "track_metrics": [
+    "train_loss",
+    "train_accuracy",
+    "learning_rate"
+  ],
+  "device": "cuda"
+}

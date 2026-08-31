@@ -1,0 +1,16 @@
+{
+    "model": "EfficientNet-B0",
+    "method": "M1 + M2",
+    "m1_strategy": "Mixup + Synthetic Image Generation",
+    "m2_strategy": "Adaptive Disease-Class Reweighting",
+    "training_samples": 15134,
+    "validation_samples": 2513,
+    "epochs": 10,
+    "batch_size": 32,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "best_epoch": 1,
+    "best_validation_loss": 2.70741073344269,
+    "best_validation_accuracy": 0.42737763629128533,
+    "m2_weight_formula": "sqrt(N / (K * n_c))"
+}

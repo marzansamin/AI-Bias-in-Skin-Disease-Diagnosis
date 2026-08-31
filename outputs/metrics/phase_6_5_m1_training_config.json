@@ -1,0 +1,16 @@
+{
+    "model": "EfficientNet-B0",
+    "method": "M1",
+    "strategy": "Mixup + Synthetic Image Generation",
+    "training_samples": 15134,
+    "validation_samples": 2513,
+    "epochs": 10,
+    "batch_size": 32,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "mixup_alpha": 0.4,
+    "mixup_probability": 0.5,
+    "best_epoch": 3,
+    "best_validation_loss": 2.5604858075865606,
+    "best_validation_accuracy": 0.44926382809391163
+}

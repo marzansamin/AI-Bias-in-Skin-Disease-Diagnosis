@@ -1,0 +1,4 @@
+Bias Rule,Mitigation,Internal Decision
+R1,M1 — Skin-tone Data Augmentation,CONDITIONAL / MIXED EVIDENCE
+R2,M2 — Disease-Class Adaptive Reweighting,MIXED / PARTIAL EVIDENCE
+R1 + R2,M1 + M2 — Combined Mitigation,NOT SUPPORTED BY FORMAL FAIRNESS METRICS

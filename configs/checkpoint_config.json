@@ -1,0 +1,9 @@
+{
+  "monitor": "validation_loss",
+  "mode": "min",
+  "best_checkpoint": "/content/skin-tone-fairness/outputs/checkpoints/baseline_best.pt",
+  "last_checkpoint": "/content/skin-tone-fairness/outputs/checkpoints/baseline_last.pt",
+  "save_optimizer_state": true,
+  "save_scheduler_state": true,
+  "save_training_metrics": true
+}

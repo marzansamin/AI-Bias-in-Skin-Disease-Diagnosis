@@ -1,0 +1,4 @@
+Model,R3 Probe Balanced Accuracy (%),Change vs Baseline (pp)
+Baseline,60.42,0.0
+M3,46.03,-14.39
+M2 + M3,52.14,-8.280000000000001

@@ -1,0 +1,23 @@
+{
+    "model": "EfficientNet-B0 + M2 + M3",
+    "dataset": "DDI",
+    "evaluation_samples": 210,
+    "disease_classes": 14,
+    "accuracy": 0.09523809523809523,
+    "balanced_accuracy": 0.20103622447143857,
+    "macro_precision": 0.37596371882086166,
+    "macro_recall": 0.20103622447143857,
+    "macro_f1": 0.18260650639682896,
+    "weighted_f1": 0.12964660787241433,
+    "prediction_coverage": 0.41904761904761906,
+    "invalid_prediction_count": 122,
+    "WGA": 0.5352941176470588,
+    "EOD": 0.19575163398692813,
+    "DPD": 0.02832671530150521,
+    "EqOD": 0.5,
+    "accuracy_gap": 0.05106658047834518,
+    "macro_f1_gap": 0.1523809523809524,
+    "R3_probe_balanced_accuracy": 0.5214,
+    "R3_vs_baseline_change_pp": -8.28,
+    "R3_mitigation_supported": true
+}

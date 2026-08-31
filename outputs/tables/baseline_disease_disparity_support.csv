@@ -1,0 +1,6 @@
+class_id,disease,light_n,medium_n,dark_n,best_accuracy,worst_accuracy,gap_percentage_points,minimum_known_tone_support,support_category
+48,lichen planus,23,31,18,0.6774193548387096,0.1739130434782608,50.35063113604488,18,Low support
+51,lupus erythematosus,23,23,14,0.7142857142857143,0.217391304347826,49.68944099378882,14,Low support
+92,scabies,16,20,11,0.75,0.3125,43.75,11,Low support
+98,squamous cell carcinoma,42,29,10,0.6896551724137931,0.3333333333333333,35.63218390804598,10,Low support
+86,psoriasis,52,29,13,0.5384615384615384,0.4423076923076923,9.615384615384617,13,Low support

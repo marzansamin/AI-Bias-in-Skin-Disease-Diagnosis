@@ -1,0 +1,16 @@
+{
+    "task": "114-class disease classification",
+    "formulation": "One-vs-Rest macro formulation",
+    "metrics": {
+        "WGA": "Minimum skin-tone-group accuracy.",
+        "EOD": "Macro-average absolute difference in one-vs-rest TPR across skin-tone groups.",
+        "DPD": "Macro-average absolute difference in one-vs-rest positive prediction rates across skin-tone groups.",
+        "EqOD": "Macro-average of the average TPR and FPR disparities across skin-tone groups."
+    },
+    "direction": {
+        "WGA": "higher_is_better",
+        "EOD": "closer_to_zero",
+        "DPD": "closer_to_zero",
+        "EqOD": "closer_to_zero"
+    }
+}

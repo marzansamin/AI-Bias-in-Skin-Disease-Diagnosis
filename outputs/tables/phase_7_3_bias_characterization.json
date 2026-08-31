@@ -1,0 +1,21 @@
+{
+    "phase": "7.3",
+    "dataset": "DDI",
+    "R1_detected": false,
+    "R1_severity": "Not Detected",
+    "R1_minimum_group_percentage": 31.554878048780488,
+    "R1_thresholds": {
+        "moderate_below_percent": 20.0,
+        "severe_below_percent": 10.0
+    },
+    "R2_detected": true,
+    "R2_severity": "Severe",
+    "R2_imbalance_ratio": 119.0,
+    "R2_thresholds": {
+        "moderate_at_least_ratio": 5.0,
+        "severe_at_least_ratio": 10.0
+    },
+    "R3": "Not evaluated in Phase 7.3",
+    "R3_reason": "R3 requires model-dependent representation evidence.",
+    "next_phase": "Phase 7.4 \u2014 DDI Baseline External Prediction"
+}

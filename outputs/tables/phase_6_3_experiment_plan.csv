@@ -1,0 +1,5 @@
+experiment_id,experiment_name,target_bias,strategy,status
+B0,Baseline,None,Standard EfficientNet-B0 training,Reference
+M1,Skin-tone augmentation,R1,Mixup + Synthetic Image Generation,Activated
+M2,Disease-class balancing,R2,Adaptive Reweighting / Resampling,Activated
+M3,Representation-bias mitigation,R3,Reserved for DDI validation,Pending

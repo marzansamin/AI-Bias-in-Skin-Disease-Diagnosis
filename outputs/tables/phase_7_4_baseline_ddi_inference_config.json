@@ -1,0 +1,16 @@
+{
+    "phase": "7.4",
+    "model": "EfficientNet-B0",
+    "model_type": "Baseline",
+    "dataset": "DDI",
+    "samples": 656,
+    "classes": 114,
+    "batch_size": 32,
+    "shuffle": false,
+    "training_performed": false,
+    "fine_tuning_performed": false,
+    "external_test_only": true,
+    "checkpoint": "/content/skin-tone-fairness/outputs/checkpoints/baseline_best.pt",
+    "image_size": 224,
+    "next_phase": "Phase 7.5 \u2014 Baseline DDI Diagnostic and Fairness Evaluation"
+}

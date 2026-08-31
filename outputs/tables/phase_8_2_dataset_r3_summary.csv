@@ -1,0 +1,5 @@
+Model,Internal R3 Probe BA (%),DDI R3 Probe BA (%),R3 Reduction — Internal (pp),R3 Reduction — DDI (pp),R3 Better Mitigation Dataset
+Baseline,,60.42,,0.0,
+M2,,,,,
+M3,,46.03,,14.39,
+M2 + M3,,52.14,,8.280000000000001,

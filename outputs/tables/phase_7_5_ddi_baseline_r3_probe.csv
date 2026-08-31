@@ -1,0 +1,6 @@
+metric,value
+probe_accuracy,0.5989847715736041
+probe_balanced_accuracy,0.6041986687147978
+probe_macro_f1,0.6051389752471329
+majority_baseline,0.3681917211328976
+probe_lift,0.23079305044070647

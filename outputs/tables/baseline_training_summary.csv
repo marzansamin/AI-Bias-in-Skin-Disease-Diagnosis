@@ -1,0 +1,15 @@
+Metric,Value
+Model,EfficientNet-B0
+Number of Classes,114
+Training Epochs,10
+Batch Size,32
+Initial Learning Rate,0.0001
+Final Training Loss,1.3207422100348385
+Final Training Accuracy,0.6804514517101748
+Final Validation Loss,2.5520922554189163
+Final Validation Accuracy,0.4337445284520493
+Best Validation Loss,2.5520922554189163
+Best Validation Loss Epoch,10
+Best Validation Accuracy,0.4337445284520493
+Best Validation Accuracy Epoch,10
+Accuracy Gap,0.24670692325812554

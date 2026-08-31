@@ -1,0 +1,16 @@
+,acne,allergic contact dermatitis,basal cell carcinoma,eczema,erythema multiforme,folliculitis,lichen planus,lupus erythematosus,melanoma,neutrophilic dermatoses,photodermatoses,psoriasis,sarcoidosis,scleroderma,squamous cell carcinoma
+acne,3,2,1,1,0,1,0,2,0,0,0,1,0,0,0
+allergic contact dermatitis,0,24,2,4,1,1,0,1,1,1,0,3,2,0,0
+basal cell carcinoma,0,2,28,0,0,2,0,3,3,1,0,0,2,0,10
+eczema,0,0,0,4,0,4,1,0,0,0,1,3,1,1,0
+erythema multiforme,0,0,0,0,15,1,0,0,0,3,2,2,0,0,0
+folliculitis,0,0,0,1,0,38,1,0,0,2,0,0,0,0,0
+lichen planus,0,1,0,1,2,1,37,2,0,0,2,2,1,0,1
+lupus erythematosus,1,0,0,1,0,1,1,29,1,1,2,1,2,0,1
+melanoma,0,0,4,0,0,1,0,0,12,0,0,3,0,3,3
+neutrophilic dermatoses,0,2,0,0,2,1,1,1,0,30,0,1,2,1,2
+photodermatoses,0,6,1,3,0,5,1,0,0,2,12,0,0,2,0
+psoriasis,0,3,0,3,3,0,5,3,0,2,1,47,1,1,0
+sarcoidosis,2,2,0,0,2,2,1,4,1,2,0,1,16,0,0
+scleroderma,0,2,0,1,0,0,2,0,1,0,2,2,0,14,0
+squamous cell carcinoma,0,1,7,4,0,4,1,0,2,1,0,3,1,0,41

@@ -1,0 +1,2455 @@
+true_disease,true_label,predicted_label,predicted_disease,skin_tone_group
+lichen simplex,49,49,lichen simplex,Light
+basal cell carcinoma,8,54,lymphangioma,Light
+urticaria pigmentosa,110,110,urticaria pigmentosa,Light
+drug eruption,19,92,scabies,Dark
+lupus erythematosus,51,51,lupus erythematosus,Medium
+keratosis pilaris,44,44,keratosis pilaris,Medium
+dermatomyositis,17,52,lupus subacute,Light
+seborrheic keratosis,96,103,superficial spreading melanoma ssm,Dark
+psoriasis,86,86,psoriasis,Medium
+pilar cyst,76,55,malignant melanoma,Light
+sarcoidosis,91,91,sarcoidosis,Dark
+acne,1,2,acne vulgaris,Light
+eczema,22,47,lichen amyloidosis,Medium
+erythema multiforme,28,100,stevens johnson syndrome,Light
+eczema,22,109,urticaria,Medium
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+psoriasis,86,91,sarcoidosis,Light
+myiasis,61,68,neutrophilic dermatoses,Dark
+lichen planus,48,48,lichen planus,Dark
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Medium
+erythema elevatum diutinum,27,86,psoriasis,Light
+scleroderma,93,93,scleroderma,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Dark
+erythema multiforme,28,28,erythema multiforme,Dark
+seborrheic keratosis,96,68,neutrophilic dermatoses,Light
+scabies,92,0,acanthosis nigricans,Unknown
+melanoma,56,107,tuberous sclerosis,Medium
+lichen planus,48,51,lupus erythematosus,Dark
+psoriasis,86,86,psoriasis,Medium
+allergic contact dermatitis,6,90,rosacea,Light
+syringoma,104,104,syringoma,Medium
+fixed eruptions,31,8,basal cell carcinoma,Light
+mycosis fungoides,60,60,mycosis fungoides,Light
+neutrophilic dermatoses,68,25,epidermolysis bullosa,Medium
+acanthosis nigricans,0,31,fixed eruptions,Dark
+urticaria,109,28,erythema multiforme,Light
+erythema multiforme,28,28,erythema multiforme,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+scabies,92,92,scabies,Medium
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Medium
+actinic keratosis,5,93,scleroderma,Light
+dariers disease,15,15,dariers disease,Medium
+lupus erythematosus,51,51,lupus erythematosus,Medium
+mucinosis,58,19,drug eruption,Light
+lyme disease,53,44,keratosis pilaris,Medium
+malignant melanoma,55,103,superficial spreading melanoma ssm,Light
+telangiectases,105,65,neurodermatitis,Light
+psoriasis,86,28,erythema multiforme,Light
+pityriasis lichenoides chronica,78,78,pityriasis lichenoides chronica,Light
+stevens johnson syndrome,100,100,stevens johnson syndrome,Dark
+scleroderma,93,93,scleroderma,Medium
+lupus erythematosus,51,51,lupus erythematosus,Unknown
+squamous cell carcinoma,98,108,tungiasis,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+pityriasis rubra pilaris,80,111,vitiligo,Light
+malignant melanoma,55,55,malignant melanoma,Medium
+neurodermatitis,65,63,necrobiosis lipoidica,Light
+mycosis fungoides,60,93,scleroderma,Light
+urticaria,109,109,urticaria,Light
+kaposi sarcoma,42,42,kaposi sarcoma,Dark
+granuloma annulare,34,34,granuloma annulare,Light
+necrobiosis lipoidica,63,26,erythema annulare centrifigum,Medium
+striae,101,75,photodermatoses,Medium
+lichen simplex,49,49,lichen simplex,Medium
+keloid,43,43,keloid,Dark
+pediculosis lids,73,73,pediculosis lids,Unknown
+lupus subacute,52,93,scleroderma,Light
+psoriasis,86,17,dermatomyositis,Dark
+acne vulgaris,2,2,acne vulgaris,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+nematode infection,64,64,nematode infection,Dark
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+lupus erythematosus,51,70,nevus sebaceous of jadassohn,Dark
+behcets disease,11,59,mucous cyst,Light
+allergic contact dermatitis,6,79,pityriasis rosea,Light
+seborrheic dermatitis,95,95,seborrheic dermatitis,Light
+becker nevus,10,10,becker nevus,Light
+squamous cell carcinoma,98,29,erythema nodosum,Light
+melanoma,56,82,porokeratosis of mibelli,Unknown
+pediculosis lids,73,73,pediculosis lids,Medium
+granuloma annulare,34,19,drug eruption,Medium
+erythema annulare centrifigum,26,92,scabies,Medium
+pyogenic granuloma,88,28,erythema multiforme,Light
+disseminated actinic porokeratosis,18,78,pityriasis lichenoides chronica,Light
+lichen planus,48,8,basal cell carcinoma,Medium
+paronychia,72,59,mucous cyst,Light
+neurodermatitis,65,25,epidermolysis bullosa,Light
+calcinosis cutis,12,12,calcinosis cutis,Light
+neutrophilic dermatoses,68,74,perioral dermatitis,Light
+psoriasis,86,86,psoriasis,Light
+allergic contact dermatitis,6,99,stasis edema,Light
+mycosis fungoides,60,93,scleroderma,Light
+vitiligo,111,111,vitiligo,Medium
+sarcoidosis,91,113,xeroderma pigmentosum,Light
+erythema multiforme,28,58,mucinosis,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+folliculitis,32,52,lupus subacute,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+acne vulgaris,2,1,acne,Light
+mucous cyst,59,59,mucous cyst,Medium
+drug eruption,19,7,aplasia cutis,Light
+acrodermatitis enteropathica,4,63,necrobiosis lipoidica,Medium
+psoriasis,86,86,psoriasis,Medium
+basal cell carcinoma,8,106,tick bite,Light
+squamous cell carcinoma,98,100,stevens johnson syndrome,Unknown
+perioral dermatitis,74,74,perioral dermatitis,Medium
+incontinentia pigmenti,40,40,incontinentia pigmenti,Light
+nevus sebaceous of jadassohn,70,41,juvenile xanthogranuloma,Light
+psoriasis,86,83,porphyria,Light
+psoriasis,86,86,psoriasis,Light
+langerhans cell histiocytosis,45,92,scabies,Medium
+congenital nevus,14,14,congenital nevus,Light
+photodermatoses,75,99,stasis edema,Medium
+pustular psoriasis,87,100,stevens johnson syndrome,Medium
+erythema nodosum,29,29,erythema nodosum,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+scabies,92,92,scabies,Dark
+stevens johnson syndrome,100,83,porphyria,Medium
+pityriasis rosea,79,79,pityriasis rosea,Light
+mycosis fungoides,60,1,acne,Light
+port wine stain,84,84,port wine stain,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+erythema multiforme,28,28,erythema multiforme,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+acquired autoimmune bullous diseaseherpes gestationis,3,4,acrodermatitis enteropathica,Light
+malignant melanoma,55,54,lymphangioma,Light
+tick bite,106,16,dermatofibroma,Light
+basal cell carcinoma,8,88,pyogenic granuloma,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+fixed eruptions,31,0,acanthosis nigricans,Light
+sarcoidosis,91,91,sarcoidosis,Light
+lichen planus,48,48,lichen planus,Medium
+keratosis pilaris,44,57,milia,Light
+melanoma,56,98,squamous cell carcinoma,Medium
+erythema multiforme,28,40,incontinentia pigmenti,Medium
+epidermal nevus,24,24,epidermal nevus,Light
+squamous cell carcinoma,98,4,acrodermatitis enteropathica,Dark
+tuberous sclerosis,107,48,lichen planus,Light
+langerhans cell histiocytosis,45,91,sarcoidosis,Dark
+naevus comedonicus,62,98,squamous cell carcinoma,Medium
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Dark
+lichen simplex,49,49,lichen simplex,Medium
+stevens johnson syndrome,100,100,stevens johnson syndrome,Light
+lichen amyloidosis,47,93,scleroderma,Medium
+lyme disease,53,109,urticaria,Medium
+acanthosis nigricans,0,0,acanthosis nigricans,Dark
+psoriasis,86,13,cheilitis,Light
+neutrophilic dermatoses,68,91,sarcoidosis,Medium
+keloid,43,113,xeroderma pigmentosum,Light
+scleroderma,93,108,tungiasis,Light
+lyme disease,53,53,lyme disease,Light
+lupus erythematosus,51,52,lupus subacute,Dark
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+mycosis fungoides,60,60,mycosis fungoides,Medium
+stasis edema,99,77,pilomatricoma,Light
+urticaria pigmentosa,110,110,urticaria pigmentosa,Medium
+neutrophilic dermatoses,68,26,erythema annulare centrifigum,Medium
+folliculitis,32,32,folliculitis,Medium
+prurigo nodularis,85,48,lichen planus,Dark
+eczema,22,4,acrodermatitis enteropathica,Light
+neutrophilic dermatoses,68,64,nematode infection,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+perioral dermatitis,74,1,acne,Light
+lupus subacute,52,74,perioral dermatitis,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+drug induced pigmentary changes,20,51,lupus erythematosus,Medium
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Medium
+melanoma,56,8,basal cell carcinoma,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+psoriasis,86,4,acrodermatitis enteropathica,Light
+fordyce spots,33,93,scleroderma,Light
+actinic keratosis,5,5,actinic keratosis,Light
+basal cell carcinoma,8,98,squamous cell carcinoma,Medium
+basal cell carcinoma,8,15,dariers disease,Light
+ichthyosis vulgaris,39,47,lichen amyloidosis,Medium
+factitial dermatitis,30,75,photodermatoses,Light
+seborrheic dermatitis,95,51,lupus erythematosus,Medium
+mycosis fungoides,60,60,mycosis fungoides,Light
+seborrheic keratosis,96,113,xeroderma pigmentosum,Light
+lentigo maligna,46,103,superficial spreading melanoma ssm,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Unknown
+lyme disease,53,101,striae,Medium
+calcinosis cutis,12,69,nevocytic nevus,Light
+neurofibromatosis,66,1,acne,Light
+acne vulgaris,2,2,acne vulgaris,Light
+sarcoidosis,91,64,nematode infection,Light
+drug induced pigmentary changes,20,12,calcinosis cutis,Medium
+acrodermatitis enteropathica,4,90,rosacea,Light
+folliculitis,32,32,folliculitis,Medium
+xanthomas,112,111,vitiligo,Dark
+allergic contact dermatitis,6,19,drug eruption,Medium
+sarcoidosis,91,58,mucinosis,Medium
+drug eruption,19,50,livedo reticularis,Light
+sarcoidosis,91,107,tuberous sclerosis,Light
+lichen planus,48,48,lichen planus,Medium
+scabies,92,92,scabies,Medium
+congenital nevus,14,14,congenital nevus,Medium
+sarcoidosis,91,51,lupus erythematosus,Dark
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+solid cystic basal cell carcinoma,97,97,solid cystic basal cell carcinoma,Light
+myiasis,61,61,myiasis,Medium
+hailey hailey disease,36,36,hailey hailey disease,Medium
+folliculitis,32,32,folliculitis,Medium
+sarcoidosis,91,107,tuberous sclerosis,Medium
+incontinentia pigmenti,40,64,nematode infection,Medium
+acne vulgaris,2,2,acne vulgaris,Light
+scabies,92,92,scabies,Medium
+psoriasis,86,86,psoriasis,Dark
+hailey hailey disease,36,36,hailey hailey disease,Light
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Dark
+pilar cyst,76,76,pilar cyst,Medium
+pediculosis lids,73,73,pediculosis lids,Medium
+mycosis fungoides,60,60,mycosis fungoides,Medium
+scleroderma,93,109,urticaria,Light
+superficial spreading melanoma ssm,103,66,neurofibromatosis,Light
+lichen planus,48,86,psoriasis,Light
+sarcoidosis,91,47,lichen amyloidosis,Dark
+erythema multiforme,28,28,erythema multiforme,Light
+naevus comedonicus,62,58,mucinosis,Light
+acne vulgaris,2,2,acne vulgaris,Light
+psoriasis,86,28,erythema multiforme,Medium
+tungiasis,108,11,behcets disease,Unknown
+seborrheic dermatitis,95,90,rosacea,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Dark
+urticaria pigmentosa,110,109,urticaria,Light
+pityriasis lichenoides chronica,78,78,pityriasis lichenoides chronica,Medium
+seborrheic dermatitis,95,2,acne vulgaris,Light
+psoriasis,86,6,allergic contact dermatitis,Light
+disseminated actinic porokeratosis,18,85,prurigo nodularis,Light
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+lentigo maligna,46,46,lentigo maligna,Medium
+pityriasis rosea,79,3,acquired autoimmune bullous diseaseherpes gestationis,Medium
+erythema multiforme,28,32,folliculitis,Medium
+nevus sebaceous of jadassohn,70,47,lichen amyloidosis,Dark
+folliculitis,32,68,neutrophilic dermatoses,Light
+pyogenic granuloma,88,88,pyogenic granuloma,Dark
+neurofibromatosis,66,66,neurofibromatosis,Dark
+hailey hailey disease,36,38,hidradenitis,Light
+tungiasis,108,108,tungiasis,Medium
+pediculosis lids,73,73,pediculosis lids,Medium
+actinic keratosis,5,60,mycosis fungoides,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+keloid,43,43,keloid,Medium
+scabies,92,92,scabies,Medium
+halo nevus,37,41,juvenile xanthogranuloma,Light
+granuloma annulare,34,34,granuloma annulare,Medium
+xanthomas,112,113,xeroderma pigmentosum,Light
+calcinosis cutis,12,98,squamous cell carcinoma,Light
+erythema multiforme,28,28,erythema multiforme,Light
+psoriasis,86,86,psoriasis,Light
+lupus erythematosus,51,17,dermatomyositis,Light
+lupus erythematosus,51,91,sarcoidosis,Medium
+milia,57,79,pityriasis rosea,Medium
+photodermatoses,75,75,photodermatoses,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+acne,1,51,lupus erythematosus,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+erythema multiforme,28,28,erythema multiforme,Medium
+lichen planus,48,34,granuloma annulare,Light
+dyshidrotic eczema,21,28,erythema multiforme,Light
+livedo reticularis,50,50,livedo reticularis,Light
+seborrheic dermatitis,95,95,seborrheic dermatitis,Medium
+acanthosis nigricans,0,24,epidermal nevus,Dark
+rhinophyma,89,6,allergic contact dermatitis,Medium
+squamous cell carcinoma,98,41,juvenile xanthogranuloma,Light
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+scabies,92,92,scabies,Light
+milia,57,1,acne,Light
+psoriasis,86,86,psoriasis,Medium
+fixed eruptions,31,50,livedo reticularis,Medium
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+scabies,92,92,scabies,Medium
+pilar cyst,76,93,scleroderma,Light
+urticaria,109,79,pityriasis rosea,Light
+psoriasis,86,86,psoriasis,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+allergic contact dermatitis,6,15,dariers disease,Medium
+lichen planus,48,113,xeroderma pigmentosum,Medium
+urticaria pigmentosa,110,110,urticaria pigmentosa,Medium
+lichen planus,48,48,lichen planus,Medium
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Unknown
+seborrheic keratosis,96,79,pityriasis rosea,Light
+lichen planus,48,33,fordyce spots,Dark
+pityriasis rosea,79,79,pityriasis rosea,Medium
+dariers disease,15,22,eczema,Light
+nematode infection,64,64,nematode infection,Medium
+perioral dermatitis,74,74,perioral dermatitis,Light
+nematode infection,64,64,nematode infection,Dark
+squamous cell carcinoma,98,88,pyogenic granuloma,Light
+pustular psoriasis,87,86,psoriasis,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+allergic contact dermatitis,6,52,lupus subacute,Medium
+calcinosis cutis,12,52,lupus subacute,Light
+lupus erythematosus,51,51,lupus erythematosus,Medium
+sarcoidosis,91,93,scleroderma,Medium
+eczema,22,23,ehlers danlos syndrome,Light
+actinic keratosis,5,22,eczema,Light
+acne,1,1,acne,Light
+keloid,43,86,psoriasis,Light
+acne,1,22,eczema,Light
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Dark
+pyogenic granuloma,88,51,lupus erythematosus,Medium
+lymphangioma,54,9,basal cell carcinoma morpheiform,Light
+scabies,92,92,scabies,Dark
+syringoma,104,57,milia,Light
+paronychia,72,68,neutrophilic dermatoses,Light
+nevus sebaceous of jadassohn,70,4,acrodermatitis enteropathica,Light
+epidermal nevus,24,109,urticaria,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+nematode infection,64,64,nematode infection,Medium
+pediculosis lids,73,73,pediculosis lids,Light
+psoriasis,86,3,acquired autoimmune bullous diseaseherpes gestationis,Light
+psoriasis,86,86,psoriasis,Dark
+telangiectases,105,105,telangiectases,Dark
+neurodermatitis,65,6,allergic contact dermatitis,Light
+lichen planus,48,72,paronychia,Dark
+fordyce spots,33,33,fordyce spots,Medium
+melanoma,56,56,melanoma,Dark
+dermatofibroma,16,16,dermatofibroma,Light
+acne vulgaris,2,86,psoriasis,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Light
+myiasis,61,61,myiasis,Medium
+port wine stain,84,51,lupus erythematosus,Dark
+folliculitis,32,4,acrodermatitis enteropathica,Light
+neurofibromatosis,66,66,neurofibromatosis,Dark
+acquired autoimmune bullous diseaseherpes gestationis,3,3,acquired autoimmune bullous diseaseherpes gestationis,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+sarcoidosis,91,91,sarcoidosis,Medium
+neutrophilic dermatoses,68,52,lupus subacute,Light
+folliculitis,32,32,folliculitis,Light
+nematode infection,64,51,lupus erythematosus,Light
+superficial spreading melanoma ssm,103,69,nevocytic nevus,Light
+papilomatosis confluentes and reticulate,71,100,stevens johnson syndrome,Light
+melanoma,56,4,acrodermatitis enteropathica,Dark
+photodermatoses,75,59,mucous cyst,Light
+psoriasis,86,86,psoriasis,Light
+scleroderma,93,98,squamous cell carcinoma,Dark
+seborrheic keratosis,96,103,superficial spreading melanoma ssm,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Light
+vitiligo,111,93,scleroderma,Light
+psoriasis,86,28,erythema multiforme,Medium
+actinic keratosis,5,98,squamous cell carcinoma,Medium
+lupus erythematosus,51,98,squamous cell carcinoma,Unknown
+lupus erythematosus,51,51,lupus erythematosus,Medium
+lichen amyloidosis,47,47,lichen amyloidosis,Dark
+neurofibromatosis,66,66,neurofibromatosis,Medium
+prurigo nodularis,85,85,prurigo nodularis,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Dark
+lupus erythematosus,51,74,perioral dermatitis,Light
+lichen planus,48,48,lichen planus,Dark
+urticaria,109,109,urticaria,Medium
+becker nevus,10,94,scleromyxedema,Medium
+acne,1,86,psoriasis,Light
+keloid,43,43,keloid,Dark
+neurofibromatosis,66,68,neutrophilic dermatoses,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+malignant melanoma,55,15,dariers disease,Light
+scabies,92,0,acanthosis nigricans,Medium
+psoriasis,86,29,erythema nodosum,Light
+neurofibromatosis,66,66,neurofibromatosis,Dark
+lentigo maligna,46,46,lentigo maligna,Light
+nematode infection,64,64,nematode infection,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+nematode infection,64,64,nematode infection,Light
+fordyce spots,33,45,langerhans cell histiocytosis,Light
+allergic contact dermatitis,6,4,acrodermatitis enteropathica,Light
+solid cystic basal cell carcinoma,97,9,basal cell carcinoma morpheiform,Light
+nevus sebaceous of jadassohn,70,4,acrodermatitis enteropathica,Medium
+photodermatoses,75,75,photodermatoses,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+allergic contact dermatitis,6,75,photodermatoses,Light
+psoriasis,86,19,drug eruption,Light
+neurofibromatosis,66,66,neurofibromatosis,Dark
+erythema multiforme,28,28,erythema multiforme,Light
+naevus comedonicus,62,62,naevus comedonicus,Medium
+lichen planus,48,12,calcinosis cutis,Light
+lentigo maligna,46,46,lentigo maligna,Light
+acrodermatitis enteropathica,4,75,photodermatoses,Light
+psoriasis,86,20,drug induced pigmentary changes,Medium
+congenital nevus,14,4,acrodermatitis enteropathica,Light
+psoriasis,86,48,lichen planus,Dark
+urticaria pigmentosa,110,45,langerhans cell histiocytosis,Light
+psoriasis,86,68,neutrophilic dermatoses,Light
+nevocytic nevus,69,71,papilomatosis confluentes and reticulate,Medium
+granuloma annulare,34,113,xeroderma pigmentosum,Dark
+seborrheic keratosis,96,66,neurofibromatosis,Medium
+acne vulgaris,2,2,acne vulgaris,Light
+pyogenic granuloma,88,88,pyogenic granuloma,Light
+tungiasis,108,108,tungiasis,Unknown
+malignant melanoma,55,55,malignant melanoma,Medium
+pilar cyst,76,15,dariers disease,Light
+lentigo maligna,46,46,lentigo maligna,Light
+tick bite,106,18,disseminated actinic porokeratosis,Light
+behcets disease,11,103,superficial spreading melanoma ssm,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+lichen planus,48,91,sarcoidosis,Light
+drug induced pigmentary changes,20,13,cheilitis,Light
+rhinophyma,89,89,rhinophyma,Light
+telangiectases,105,73,pediculosis lids,Medium
+telangiectases,105,75,photodermatoses,Medium
+acne vulgaris,2,2,acne vulgaris,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+pilomatricoma,77,10,becker nevus,Light
+basal cell carcinoma,8,21,dyshidrotic eczema,Medium
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Dark
+mycosis fungoides,60,15,dariers disease,Dark
+cheilitis,13,6,allergic contact dermatitis,Light
+scleroderma,93,93,scleroderma,Light
+tungiasis,108,108,tungiasis,Medium
+sun damaged skin,102,90,rosacea,Light
+folliculitis,32,32,folliculitis,Medium
+cheilitis,13,74,perioral dermatitis,Medium
+pityriasis rosea,79,66,neurofibromatosis,Medium
+urticaria,109,109,urticaria,Medium
+scabies,92,92,scabies,Dark
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+nematode infection,64,24,epidermal nevus,Medium
+neutrophilic dermatoses,68,48,lichen planus,Light
+nevocytic nevus,69,103,superficial spreading melanoma ssm,Light
+mucous cyst,59,52,lupus subacute,Dark
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+fixed eruptions,31,86,psoriasis,Medium
+lichen planus,48,48,lichen planus,Medium
+seborrheic dermatitis,95,95,seborrheic dermatitis,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Light
+pyogenic granuloma,88,25,epidermolysis bullosa,Light
+tuberous sclerosis,107,107,tuberous sclerosis,Dark
+sarcoidosis,91,98,squamous cell carcinoma,Light
+squamous cell carcinoma,98,73,pediculosis lids,Dark
+porphyria,83,66,neurofibromatosis,Medium
+folliculitis,32,19,drug eruption,Medium
+pityriasis rosea,79,79,pityriasis rosea,Light
+ichthyosis vulgaris,39,81,porokeratosis actinic,Medium
+scabies,92,92,scabies,Light
+congenital nevus,14,62,naevus comedonicus,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Light
+milia,57,75,photodermatoses,Light
+malignant melanoma,55,103,superficial spreading melanoma ssm,Light
+eczema,22,71,papilomatosis confluentes and reticulate,Light
+xeroderma pigmentosum,113,100,stevens johnson syndrome,Dark
+striae,101,95,seborrheic dermatitis,Light
+psoriasis,86,51,lupus erythematosus,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+sun damaged skin,102,29,erythema nodosum,Light
+pityriasis rubra pilaris,80,34,granuloma annulare,Dark
+melanoma,56,80,pityriasis rubra pilaris,Dark
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+lupus erythematosus,51,53,lyme disease,Light
+drug eruption,19,53,lyme disease,Light
+granuloma annulare,34,10,becker nevus,Light
+psoriasis,86,87,pustular psoriasis,Medium
+port wine stain,84,38,hidradenitis,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+hailey hailey disease,36,36,hailey hailey disease,Light
+pyogenic granuloma,88,25,epidermolysis bullosa,Medium
+acquired autoimmune bullous diseaseherpes gestationis,3,28,erythema multiforme,Light
+hidradenitis,38,38,hidradenitis,Light
+stevens johnson syndrome,100,72,paronychia,Medium
+drug eruption,19,19,drug eruption,Light
+lupus erythematosus,51,4,acrodermatitis enteropathica,Medium
+neutrophilic dermatoses,68,4,acrodermatitis enteropathica,Unknown
+melanoma,56,24,epidermal nevus,Light
+nevocytic nevus,69,76,pilar cyst,Light
+lupus erythematosus,51,51,lupus erythematosus,Dark
+fordyce spots,33,64,nematode infection,Medium
+becker nevus,10,71,papilomatosis confluentes and reticulate,Light
+xanthomas,112,24,epidermal nevus,Light
+squamous cell carcinoma,98,8,basal cell carcinoma,Light
+granuloma pyogenic,35,107,tuberous sclerosis,Light
+photodermatoses,75,19,drug eruption,Light
+melanoma,56,56,melanoma,Medium
+neurotic excoriations,67,109,urticaria,Medium
+factitial dermatitis,30,30,factitial dermatitis,Dark
+scabies,92,68,neutrophilic dermatoses,Light
+hidradenitis,38,17,dermatomyositis,Light
+fixed eruptions,31,109,urticaria,Medium
+scleroderma,93,90,rosacea,Light
+photodermatoses,75,75,photodermatoses,Medium
+allergic contact dermatitis,6,6,allergic contact dermatitis,Dark
+tungiasis,108,108,tungiasis,Medium
+acne vulgaris,2,107,tuberous sclerosis,Light
+necrobiosis lipoidica,63,56,melanoma,Light
+lichen amyloidosis,47,64,nematode infection,Light
+stasis edema,99,99,stasis edema,Unknown
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+nematode infection,64,23,ehlers danlos syndrome,Dark
+erythema multiforme,28,28,erythema multiforme,Medium
+mucous cyst,59,6,allergic contact dermatitis,Light
+neurodermatitis,65,4,acrodermatitis enteropathica,Unknown
+pityriasis rosea,79,79,pityriasis rosea,Medium
+malignant melanoma,55,103,superficial spreading melanoma ssm,Light
+scleroderma,93,12,calcinosis cutis,Light
+lupus erythematosus,51,51,lupus erythematosus,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Medium
+neurofibromatosis,66,66,neurofibromatosis,Light
+dariers disease,15,2,acne vulgaris,Medium
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Light
+fixed eruptions,31,17,dermatomyositis,Medium
+cheilitis,13,13,cheilitis,Medium
+rhinophyma,89,89,rhinophyma,Medium
+urticaria pigmentosa,110,23,ehlers danlos syndrome,Dark
+acne,1,80,pityriasis rubra pilaris,Medium
+acne vulgaris,2,2,acne vulgaris,Medium
+eczema,22,99,stasis edema,Dark
+erythema multiforme,28,44,keratosis pilaris,Medium
+dermatofibroma,16,4,acrodermatitis enteropathica,Medium
+photodermatoses,75,100,stevens johnson syndrome,Medium
+squamous cell carcinoma,98,15,dariers disease,Medium
+rhinophyma,89,89,rhinophyma,Medium
+folliculitis,32,32,folliculitis,Dark
+sun damaged skin,102,82,porokeratosis of mibelli,Medium
+tuberous sclerosis,107,53,lyme disease,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+squamous cell carcinoma,98,33,fordyce spots,Unknown
+scabies,92,92,scabies,Dark
+rhinophyma,89,89,rhinophyma,Light
+hailey hailey disease,36,36,hailey hailey disease,Light
+psoriasis,86,19,drug eruption,Light
+lupus erythematosus,51,51,lupus erythematosus,Medium
+porokeratosis of mibelli,82,82,porokeratosis of mibelli,Medium
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+psoriasis,86,86,psoriasis,Light
+acne vulgaris,2,93,scleroderma,Light
+pediculosis lids,73,0,acanthosis nigricans,Unknown
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Dark
+erythema multiforme,28,28,erythema multiforme,Medium
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+basal cell carcinoma morpheiform,9,102,sun damaged skin,Light
+tuberous sclerosis,107,107,tuberous sclerosis,Light
+scleroderma,93,48,lichen planus,Light
+erythema multiforme,28,100,stevens johnson syndrome,Light
+ichthyosis vulgaris,39,88,pyogenic granuloma,Dark
+photodermatoses,75,40,incontinentia pigmenti,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+congenital nevus,14,14,congenital nevus,Light
+neurotic excoriations,67,34,granuloma annulare,Medium
+dermatofibroma,16,14,congenital nevus,Light
+scabies,92,73,pediculosis lids,Light
+psoriasis,86,86,psoriasis,Dark
+mucinosis,58,40,incontinentia pigmenti,Medium
+pilar cyst,76,76,pilar cyst,Medium
+dyshidrotic eczema,21,22,eczema,Light
+lupus erythematosus,51,51,lupus erythematosus,Dark
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+lichen amyloidosis,47,47,lichen amyloidosis,Dark
+porphyria,83,22,eczema,Light
+fordyce spots,33,93,scleroderma,Medium
+stasis edema,99,29,erythema nodosum,Light
+mycosis fungoides,60,3,acquired autoimmune bullous diseaseherpes gestationis,Light
+urticaria,109,57,milia,Light
+acquired autoimmune bullous diseaseherpes gestationis,3,52,lupus subacute,Light
+photodermatoses,75,85,prurigo nodularis,Medium
+syringoma,104,104,syringoma,Dark
+psoriasis,86,86,psoriasis,Light
+scleroderma,93,93,scleroderma,Medium
+mycosis fungoides,60,60,mycosis fungoides,Light
+pediculosis lids,73,73,pediculosis lids,Medium
+psoriasis,86,86,psoriasis,Dark
+stevens johnson syndrome,100,100,stevens johnson syndrome,Light
+mucinosis,58,7,aplasia cutis,Light
+syringoma,104,48,lichen planus,Dark
+dermatomyositis,17,80,pityriasis rubra pilaris,Dark
+dariers disease,15,19,drug eruption,Light
+lichen planus,48,51,lupus erythematosus,Dark
+pityriasis rosea,79,64,nematode infection,Light
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+allergic contact dermatitis,6,44,keratosis pilaris,Light
+lichen planus,48,68,neutrophilic dermatoses,Light
+acanthosis nigricans,0,0,acanthosis nigricans,Medium
+pustular psoriasis,87,52,lupus subacute,Medium
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+melanoma,56,72,paronychia,Light
+allergic contact dermatitis,6,42,kaposi sarcoma,Medium
+melanoma,56,93,scleroderma,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+epidermal nevus,24,24,epidermal nevus,Light
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+factitial dermatitis,30,64,nematode infection,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+acne,1,48,lichen planus,Dark
+pityriasis lichenoides chronica,78,78,pityriasis lichenoides chronica,Light
+sarcoidosis,91,26,erythema annulare centrifigum,Light
+stevens johnson syndrome,100,100,stevens johnson syndrome,Light
+urticaria pigmentosa,110,28,erythema multiforme,Light
+allergic contact dermatitis,6,93,scleroderma,Unknown
+acrodermatitis enteropathica,4,4,acrodermatitis enteropathica,Medium
+porokeratosis actinic,81,85,prurigo nodularis,Medium
+nematode infection,64,79,pityriasis rosea,Medium
+dermatofibroma,16,55,malignant melanoma,Light
+behcets disease,11,11,behcets disease,Light
+scabies,92,4,acrodermatitis enteropathica,Dark
+keratosis pilaris,44,2,acne vulgaris,Light
+lichen planus,48,48,lichen planus,Medium
+lichen planus,48,31,fixed eruptions,Light
+congenital nevus,14,14,congenital nevus,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+actinic keratosis,5,8,basal cell carcinoma,Medium
+rosacea,90,90,rosacea,Light
+kaposi sarcoma,42,100,stevens johnson syndrome,Light
+pediculosis lids,73,73,pediculosis lids,Medium
+striae,101,109,urticaria,Light
+acanthosis nigricans,0,101,striae,Medium
+nevocytic nevus,69,103,superficial spreading melanoma ssm,Medium
+lupus subacute,52,68,neutrophilic dermatoses,Dark
+psoriasis,86,19,drug eruption,Light
+prurigo nodularis,85,85,prurigo nodularis,Dark
+rhinophyma,89,89,rhinophyma,Medium
+sarcoidosis,91,51,lupus erythematosus,Light
+psoriasis,86,86,psoriasis,Light
+neurofibromatosis,66,45,langerhans cell histiocytosis,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Unknown
+xanthomas,112,112,xanthomas,Light
+hidradenitis,38,38,hidradenitis,Medium
+stasis edema,99,68,neutrophilic dermatoses,Light
+dermatofibroma,16,55,malignant melanoma,Light
+keloid,43,43,keloid,Dark
+factitial dermatitis,30,28,erythema multiforme,Light
+becker nevus,10,10,becker nevus,Light
+erythema multiforme,28,28,erythema multiforme,Light
+urticaria,109,109,urticaria,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Medium
+superficial spreading melanoma ssm,103,105,telangiectases,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Light
+pediculosis lids,73,73,pediculosis lids,Unknown
+basal cell carcinoma,8,98,squamous cell carcinoma,Light
+scleroderma,93,93,scleroderma,Light
+photodermatoses,75,75,photodermatoses,Light
+acrodermatitis enteropathica,4,2,acne vulgaris,Light
+scleroderma,93,110,urticaria pigmentosa,Medium
+lichen planus,48,48,lichen planus,Light
+photodermatoses,75,59,mucous cyst,Dark
+fixed eruptions,31,68,neutrophilic dermatoses,Light
+drug induced pigmentary changes,20,93,scleroderma,Dark
+allergic contact dermatitis,6,86,psoriasis,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Medium
+pediculosis lids,73,73,pediculosis lids,Light
+urticaria pigmentosa,110,110,urticaria pigmentosa,Light
+langerhans cell histiocytosis,45,45,langerhans cell histiocytosis,Light
+pilar cyst,76,98,squamous cell carcinoma,Medium
+mucous cyst,59,59,mucous cyst,Light
+granuloma pyogenic,35,75,photodermatoses,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+lichen planus,48,79,pityriasis rosea,Dark
+pediculosis lids,73,73,pediculosis lids,Light
+dyshidrotic eczema,21,110,urticaria pigmentosa,Light
+lichen planus,48,94,scleromyxedema,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+acne vulgaris,2,58,mucinosis,Light
+cheilitis,13,13,cheilitis,Unknown
+rosacea,90,89,rhinophyma,Light
+folliculitis,32,80,pityriasis rubra pilaris,Dark
+aplasia cutis,7,45,langerhans cell histiocytosis,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+allergic contact dermatitis,6,28,erythema multiforme,Light
+psoriasis,86,51,lupus erythematosus,Light
+allergic contact dermatitis,6,22,eczema,Medium
+psoriasis,86,68,neutrophilic dermatoses,Light
+nevus sebaceous of jadassohn,70,70,nevus sebaceous of jadassohn,Light
+lupus erythematosus,51,111,vitiligo,Medium
+cheilitis,13,58,mucinosis,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+sarcoidosis,91,27,erythema elevatum diutinum,Light
+neurotic excoriations,67,12,calcinosis cutis,Light
+scleroderma,93,23,ehlers danlos syndrome,Light
+psoriasis,86,90,rosacea,Light
+erythema multiforme,28,28,erythema multiforme,Medium
+prurigo nodularis,85,64,nematode infection,Dark
+striae,101,109,urticaria,Medium
+acne vulgaris,2,22,eczema,Light
+scleromyxedema,94,12,calcinosis cutis,Light
+melanoma,56,40,incontinentia pigmenti,Light
+becker nevus,10,10,becker nevus,Medium
+incontinentia pigmenti,40,7,aplasia cutis,Light
+mycosis fungoides,60,60,mycosis fungoides,Medium
+kaposi sarcoma,42,48,lichen planus,Light
+syringoma,104,104,syringoma,Medium
+dariers disease,15,44,keratosis pilaris,Medium
+scleromyxedema,94,4,acrodermatitis enteropathica,Light
+livedo reticularis,50,50,livedo reticularis,Medium
+scleromyxedema,94,53,lyme disease,Medium
+basal cell carcinoma,8,76,pilar cyst,Light
+neutrophilic dermatoses,68,99,stasis edema,Dark
+basal cell carcinoma,8,40,incontinentia pigmenti,Light
+milia,57,57,milia,Medium
+squamous cell carcinoma,98,33,fordyce spots,Medium
+tungiasis,108,108,tungiasis,Medium
+scleroderma,93,60,mycosis fungoides,Medium
+pyogenic granuloma,88,108,tungiasis,Medium
+nematode infection,64,40,incontinentia pigmenti,Light
+kaposi sarcoma,42,17,dermatomyositis,Dark
+eczema,22,51,lupus erythematosus,Medium
+folliculitis,32,5,actinic keratosis,Light
+photodermatoses,75,39,ichthyosis vulgaris,Light
+keloid,43,43,keloid,Light
+nematode infection,64,40,incontinentia pigmenti,Medium
+stevens johnson syndrome,100,100,stevens johnson syndrome,Medium
+eczema,22,106,tick bite,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+scleroderma,93,40,incontinentia pigmenti,Medium
+urticaria pigmentosa,110,45,langerhans cell histiocytosis,Light
+lymphangioma,54,4,acrodermatitis enteropathica,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+vitiligo,111,111,vitiligo,Dark
+stevens johnson syndrome,100,28,erythema multiforme,Light
+lupus erythematosus,51,90,rosacea,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+lentigo maligna,46,46,lentigo maligna,Light
+psoriasis,86,63,necrobiosis lipoidica,Medium
+rosacea,90,45,langerhans cell histiocytosis,Light
+dariers disease,15,2,acne vulgaris,Dark
+lichen simplex,49,49,lichen simplex,Dark
+lymphangioma,54,109,urticaria,Light
+lupus erythematosus,51,34,granuloma annulare,Dark
+eczema,22,22,eczema,Light
+photodermatoses,75,75,photodermatoses,Light
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+lupus erythematosus,51,90,rosacea,Light
+necrobiosis lipoidica,63,4,acrodermatitis enteropathica,Light
+nematode infection,64,64,nematode infection,Dark
+nevus sebaceous of jadassohn,70,7,aplasia cutis,Medium
+lymphangioma,54,4,acrodermatitis enteropathica,Medium
+lichen planus,48,25,epidermolysis bullosa,Light
+aplasia cutis,7,60,mycosis fungoides,Unknown
+sarcoidosis,91,4,acrodermatitis enteropathica,Unknown
+photodermatoses,75,75,photodermatoses,Medium
+scabies,92,92,scabies,Medium
+lichen planus,48,48,lichen planus,Medium
+actinic keratosis,5,5,actinic keratosis,Dark
+paronychia,72,86,psoriasis,Medium
+eczema,22,52,lupus subacute,Light
+folliculitis,32,60,mycosis fungoides,Medium
+sarcoidosis,91,91,sarcoidosis,Medium
+psoriasis,86,86,psoriasis,Unknown
+stevens johnson syndrome,100,100,stevens johnson syndrome,Light
+dariers disease,15,55,malignant melanoma,Light
+mycosis fungoides,60,1,acne,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+pustular psoriasis,87,60,mycosis fungoides,Light
+calcinosis cutis,12,5,actinic keratosis,Light
+mucous cyst,59,98,squamous cell carcinoma,Light
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+granuloma annulare,34,77,pilomatricoma,Light
+myiasis,61,61,myiasis,Light
+porokeratosis of mibelli,82,86,psoriasis,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+photodermatoses,75,79,pityriasis rosea,Medium
+tick bite,106,93,scleroderma,Light
+scleroderma,93,93,scleroderma,Medium
+psoriasis,86,86,psoriasis,Dark
+telangiectases,105,105,telangiectases,Light
+vitiligo,111,111,vitiligo,Medium
+lichen planus,48,34,granuloma annulare,Light
+porphyria,83,90,rosacea,Light
+lichen planus,48,48,lichen planus,Medium
+rosacea,90,90,rosacea,Medium
+folliculitis,32,19,drug eruption,Light
+scleroderma,93,111,vitiligo,Medium
+lichen planus,48,99,stasis edema,Dark
+folliculitis,32,95,seborrheic dermatitis,Light
+scabies,92,92,scabies,Dark
+disseminated actinic porokeratosis,18,18,disseminated actinic porokeratosis,Light
+dermatomyositis,17,17,dermatomyositis,Medium
+sarcoidosis,91,91,sarcoidosis,Light
+lupus subacute,52,13,cheilitis,Light
+acanthosis nigricans,0,104,syringoma,Medium
+scleroderma,93,75,photodermatoses,Light
+kaposi sarcoma,42,16,dermatofibroma,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Dark
+pyogenic granuloma,88,57,milia,Light
+porphyria,83,83,porphyria,Medium
+epidermal nevus,24,45,langerhans cell histiocytosis,Light
+langerhans cell histiocytosis,45,45,langerhans cell histiocytosis,Light
+acquired autoimmune bullous diseaseherpes gestationis,3,29,erythema nodosum,Light
+erythema elevatum diutinum,27,27,erythema elevatum diutinum,Medium
+ehlers danlos syndrome,23,43,keloid,Medium
+lichen amyloidosis,47,47,lichen amyloidosis,Light
+squamous cell carcinoma,98,1,acne,Light
+melanoma,56,55,malignant melanoma,Medium
+folliculitis,32,32,folliculitis,Medium
+langerhans cell histiocytosis,45,45,langerhans cell histiocytosis,Medium
+sarcoidosis,91,91,sarcoidosis,Light
+lupus erythematosus,51,51,lupus erythematosus,Light
+folliculitis,32,32,folliculitis,Dark
+epidermal nevus,24,70,nevus sebaceous of jadassohn,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Dark
+neurofibromatosis,66,43,keloid,Medium
+actinic keratosis,5,92,scabies,Unknown
+allergic contact dermatitis,6,65,neurodermatitis,Light
+urticaria,109,79,pityriasis rosea,Light
+pityriasis rosea,79,32,folliculitis,Medium
+urticaria,109,78,pityriasis lichenoides chronica,Light
+vitiligo,111,111,vitiligo,Medium
+squamous cell carcinoma,98,8,basal cell carcinoma,Unknown
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+mucinosis,58,22,eczema,Light
+acne vulgaris,2,84,port wine stain,Dark
+prurigo nodularis,85,85,prurigo nodularis,Medium
+scleroderma,93,48,lichen planus,Light
+lyme disease,53,108,tungiasis,Light
+becker nevus,10,78,pityriasis lichenoides chronica,Light
+tick bite,106,6,allergic contact dermatitis,Light
+psoriasis,86,86,psoriasis,Light
+urticaria,109,109,urticaria,Medium
+lichen planus,48,40,incontinentia pigmenti,Medium
+tuberous sclerosis,107,19,drug eruption,Light
+keloid,43,38,hidradenitis,Medium
+porokeratosis of mibelli,82,64,nematode infection,Light
+eczema,22,33,fordyce spots,Light
+granuloma annulare,34,34,granuloma annulare,Light
+actinic keratosis,5,6,allergic contact dermatitis,Light
+erythema multiforme,28,68,neutrophilic dermatoses,Light
+scleroderma,93,93,scleroderma,Dark
+basal cell carcinoma,8,76,pilar cyst,Medium
+urticaria,109,57,milia,Medium
+pityriasis rosea,79,53,lyme disease,Light
+milia,57,57,milia,Medium
+folliculitis,32,57,milia,Light
+photodermatoses,75,75,photodermatoses,Medium
+granuloma annulare,34,19,drug eruption,Light
+scabies,92,64,nematode infection,Medium
+neurofibromatosis,66,66,neurofibromatosis,Medium
+acne vulgaris,2,37,halo nevus,Medium
+stasis edema,99,88,pyogenic granuloma,Light
+lyme disease,53,68,neutrophilic dermatoses,Light
+incontinentia pigmenti,40,13,cheilitis,Medium
+lichen simplex,49,49,lichen simplex,Medium
+dermatomyositis,17,29,erythema nodosum,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+photodermatoses,75,90,rosacea,Medium
+prurigo nodularis,85,85,prurigo nodularis,Light
+psoriasis,86,86,psoriasis,Dark
+tungiasis,108,108,tungiasis,Unknown
+prurigo nodularis,85,85,prurigo nodularis,Medium
+nematode infection,64,77,pilomatricoma,Light
+urticaria,109,93,scleroderma,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+folliculitis,32,32,folliculitis,Medium
+lichen planus,48,63,necrobiosis lipoidica,Light
+drug eruption,19,64,nematode infection,Dark
+necrobiosis lipoidica,63,82,porokeratosis of mibelli,Medium
+porokeratosis of mibelli,82,82,porokeratosis of mibelli,Medium
+seborrheic dermatitis,95,95,seborrheic dermatitis,Medium
+erythema nodosum,29,40,incontinentia pigmenti,Light
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+superficial spreading melanoma ssm,103,68,neutrophilic dermatoses,Light
+ichthyosis vulgaris,39,21,dyshidrotic eczema,Light
+halo nevus,37,37,halo nevus,Medium
+pyogenic granuloma,88,8,basal cell carcinoma,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+eczema,22,19,drug eruption,Dark
+tick bite,106,52,lupus subacute,Dark
+keratosis pilaris,44,44,keratosis pilaris,Medium
+seborrheic keratosis,96,96,seborrheic keratosis,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+lichen planus,48,48,lichen planus,Medium
+rhinophyma,89,89,rhinophyma,Light
+actinic keratosis,5,92,scabies,Medium
+hidradenitis,38,51,lupus erythematosus,Medium
+acne vulgaris,2,90,rosacea,Light
+pityriasis rosea,79,79,pityriasis rosea,Dark
+nevocytic nevus,69,69,nevocytic nevus,Light
+urticaria pigmentosa,110,28,erythema multiforme,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+scleroderma,93,77,pilomatricoma,Medium
+lichen planus,48,93,scleroderma,Dark
+photodermatoses,75,75,photodermatoses,Medium
+pilomatricoma,77,77,pilomatricoma,Light
+sarcoidosis,91,91,sarcoidosis,Light
+acne vulgaris,2,2,acne vulgaris,Light
+melanoma,56,42,kaposi sarcoma,Medium
+prurigo nodularis,85,85,prurigo nodularis,Medium
+mycosis fungoides,60,60,mycosis fungoides,Medium
+drug eruption,19,1,acne,Light
+syringoma,104,104,syringoma,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+granuloma pyogenic,35,35,granuloma pyogenic,Light
+pustular psoriasis,87,60,mycosis fungoides,Light
+ichthyosis vulgaris,39,44,keratosis pilaris,Light
+neutrophilic dermatoses,68,89,rhinophyma,Light
+porphyria,83,83,porphyria,Medium
+tungiasis,108,108,tungiasis,Medium
+hailey hailey disease,36,36,hailey hailey disease,Medium
+psoriasis,86,93,scleroderma,Light
+porokeratosis of mibelli,82,82,porokeratosis of mibelli,Medium
+pityriasis rosea,79,79,pityriasis rosea,Medium
+neurodermatitis,65,56,melanoma,Light
+squamous cell carcinoma,98,68,neutrophilic dermatoses,Light
+mucinosis,58,22,eczema,Light
+scleroderma,93,93,scleroderma,Light
+rosacea,90,89,rhinophyma,Light
+melanoma,56,56,melanoma,Dark
+neurodermatitis,65,75,photodermatoses,Light
+syringoma,104,107,tuberous sclerosis,Medium
+lupus erythematosus,51,19,drug eruption,Medium
+halo nevus,37,37,halo nevus,Dark
+erythema multiforme,28,68,neutrophilic dermatoses,Light
+xeroderma pigmentosum,113,100,stevens johnson syndrome,Dark
+neutrophilic dermatoses,68,93,scleroderma,Light
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+drug eruption,19,19,drug eruption,Medium
+erythema nodosum,29,29,erythema nodosum,Medium
+scleroderma,93,93,scleroderma,Unknown
+neurotic excoriations,67,67,neurotic excoriations,Medium
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Light
+scleroderma,93,74,perioral dermatitis,Light
+lyme disease,53,53,lyme disease,Light
+actinic keratosis,5,5,actinic keratosis,Medium
+tick bite,106,41,juvenile xanthogranuloma,Light
+basal cell carcinoma,8,81,porokeratosis actinic,Medium
+neurofibromatosis,66,66,neurofibromatosis,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Dark
+livedo reticularis,50,28,erythema multiforme,Light
+scabies,92,8,basal cell carcinoma,Unknown
+mycosis fungoides,60,60,mycosis fungoides,Medium
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+psoriasis,86,24,epidermal nevus,Medium
+scabies,92,28,erythema multiforme,Light
+scleroderma,93,40,incontinentia pigmenti,Light
+sarcoidosis,91,48,lichen planus,Light
+basal cell carcinoma,8,9,basal cell carcinoma morpheiform,Medium
+neutrophilic dermatoses,68,28,erythema multiforme,Light
+erythema multiforme,28,86,psoriasis,Medium
+telangiectases,105,45,langerhans cell histiocytosis,Light
+dermatofibroma,16,28,erythema multiforme,Medium
+basal cell carcinoma morpheiform,9,98,squamous cell carcinoma,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+drug induced pigmentary changes,20,105,telangiectases,Light
+port wine stain,84,23,ehlers danlos syndrome,Light
+dermatomyositis,17,17,dermatomyositis,Medium
+kaposi sarcoma,42,98,squamous cell carcinoma,Medium
+porokeratosis actinic,81,81,porokeratosis actinic,Light
+rosacea,90,89,rhinophyma,Light
+sarcoidosis,91,91,sarcoidosis,Medium
+allergic contact dermatitis,6,22,eczema,Medium
+melanoma,56,37,halo nevus,Light
+pyogenic granuloma,88,41,juvenile xanthogranuloma,Light
+vitiligo,111,111,vitiligo,Dark
+vitiligo,111,43,keloid,Dark
+seborrheic dermatitis,95,8,basal cell carcinoma,Light
+factitial dermatitis,30,30,factitial dermatitis,Medium
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Dark
+psoriasis,86,34,granuloma annulare,Light
+granuloma pyogenic,35,69,nevocytic nevus,Unknown
+epidermolysis bullosa,25,75,photodermatoses,Light
+psoriasis,86,68,neutrophilic dermatoses,Medium
+neurotic excoriations,67,67,neurotic excoriations,Light
+granuloma annulare,34,34,granuloma annulare,Dark
+lupus erythematosus,51,51,lupus erythematosus,Light
+melanoma,56,56,melanoma,Medium
+acne,1,2,acne vulgaris,Light
+sarcoidosis,91,44,keratosis pilaris,Dark
+eczema,22,29,erythema nodosum,Medium
+stevens johnson syndrome,100,52,lupus subacute,Light
+nematode infection,64,64,nematode infection,Dark
+porokeratosis of mibelli,82,82,porokeratosis of mibelli,Light
+melanoma,56,93,scleroderma,Light
+psoriasis,86,51,lupus erythematosus,Medium
+eczema,22,71,papilomatosis confluentes and reticulate,Dark
+livedo reticularis,50,50,livedo reticularis,Light
+drug eruption,19,19,drug eruption,Medium
+dariers disease,15,48,lichen planus,Light
+psoriasis,86,45,langerhans cell histiocytosis,Light
+hidradenitis,38,86,psoriasis,Light
+rhinophyma,89,83,porphyria,Light
+perioral dermatitis,74,36,hailey hailey disease,Medium
+perioral dermatitis,74,74,perioral dermatitis,Light
+vitiligo,111,111,vitiligo,Medium
+allergic contact dermatitis,6,43,keloid,Medium
+lichen planus,48,84,port wine stain,Medium
+tungiasis,108,108,tungiasis,Light
+basal cell carcinoma,8,98,squamous cell carcinoma,Medium
+dermatomyositis,17,17,dermatomyositis,Medium
+hidradenitis,38,31,fixed eruptions,Medium
+allergic contact dermatitis,6,22,eczema,Light
+telangiectases,105,75,photodermatoses,Light
+scabies,92,92,scabies,Dark
+melanoma,56,46,lentigo maligna,Light
+hidradenitis,38,60,mycosis fungoides,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+squamous cell carcinoma,98,13,cheilitis,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Dark
+lichen simplex,49,100,stevens johnson syndrome,Dark
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Dark
+prurigo nodularis,85,85,prurigo nodularis,Medium
+vitiligo,111,32,folliculitis,Dark
+telangiectases,105,6,allergic contact dermatitis,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+xanthomas,112,112,xanthomas,Medium
+tungiasis,108,108,tungiasis,Medium
+halo nevus,37,2,acne vulgaris,Medium
+allergic contact dermatitis,6,28,erythema multiforme,Light
+behcets disease,11,61,myiasis,Dark
+psoriasis,86,99,stasis edema,Medium
+basal cell carcinoma,8,81,porokeratosis actinic,Medium
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Medium
+scleroderma,93,80,pityriasis rubra pilaris,Dark
+photodermatoses,75,75,photodermatoses,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+psoriasis,86,73,pediculosis lids,Light
+juvenile xanthogranuloma,41,69,nevocytic nevus,Light
+port wine stain,84,68,neutrophilic dermatoses,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+epidermal nevus,24,105,telangiectases,Medium
+lichen simplex,49,49,lichen simplex,Light
+lupus erythematosus,51,51,lupus erythematosus,Dark
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Medium
+granuloma annulare,34,34,granuloma annulare,Dark
+erythema multiforme,28,75,photodermatoses,Medium
+fordyce spots,33,6,allergic contact dermatitis,Medium
+neurotic excoriations,67,107,tuberous sclerosis,Light
+myiasis,61,61,myiasis,Unknown
+telangiectases,105,51,lupus erythematosus,Light
+lichen planus,48,85,prurigo nodularis,Medium
+psoriasis,86,86,psoriasis,Light
+incontinentia pigmenti,40,21,dyshidrotic eczema,Medium
+keloid,43,43,keloid,Medium
+lupus erythematosus,51,37,halo nevus,Medium
+scleroderma,93,93,scleroderma,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+lichen planus,48,48,lichen planus,Dark
+pityriasis rosea,79,66,neurofibromatosis,Dark
+psoriasis,86,29,erythema nodosum,Light
+lupus erythematosus,51,13,cheilitis,Light
+keratosis pilaris,44,18,disseminated actinic porokeratosis,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Medium
+aplasia cutis,7,73,pediculosis lids,Light
+paronychia,72,72,paronychia,Light
+photodermatoses,75,22,eczema,Light
+lupus erythematosus,51,51,lupus erythematosus,Medium
+eczema,22,5,actinic keratosis,Light
+juvenile xanthogranuloma,41,45,langerhans cell histiocytosis,Light
+pityriasis rosea,79,36,hailey hailey disease,Light
+lichen planus,48,92,scabies,Light
+fordyce spots,33,33,fordyce spots,Light
+stevens johnson syndrome,100,106,tick bite,Light
+basal cell carcinoma,8,98,squamous cell carcinoma,Light
+psoriasis,86,41,juvenile xanthogranuloma,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+urticaria,109,109,urticaria,Medium
+lentigo maligna,46,46,lentigo maligna,Medium
+acanthosis nigricans,0,0,acanthosis nigricans,Medium
+photodermatoses,75,60,mycosis fungoides,Light
+juvenile xanthogranuloma,41,35,granuloma pyogenic,Dark
+granuloma pyogenic,35,35,granuloma pyogenic,Light
+dyshidrotic eczema,21,80,pityriasis rubra pilaris,Dark
+photodermatoses,75,32,folliculitis,Medium
+lichen amyloidosis,47,47,lichen amyloidosis,Medium
+pityriasis rubra pilaris,80,19,drug eruption,Medium
+acne vulgaris,2,75,photodermatoses,Light
+lupus erythematosus,51,63,necrobiosis lipoidica,Light
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+congenital nevus,14,110,urticaria pigmentosa,Light
+lichen planus,48,48,lichen planus,Dark
+neurotic excoriations,67,38,hidradenitis,Medium
+neurofibromatosis,66,3,acquired autoimmune bullous diseaseherpes gestationis,Light
+xanthomas,112,76,pilar cyst,Medium
+neutrophilic dermatoses,68,1,acne,Light
+granuloma pyogenic,35,35,granuloma pyogenic,Medium
+erythema annulare centrifigum,26,109,urticaria,Light
+fixed eruptions,31,11,behcets disease,Dark
+neurofibromatosis,66,66,neurofibromatosis,Medium
+basal cell carcinoma morpheiform,9,98,squamous cell carcinoma,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+scabies,92,38,hidradenitis,Light
+squamous cell carcinoma,98,22,eczema,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+lupus subacute,52,52,lupus subacute,Dark
+squamous cell carcinoma,98,8,basal cell carcinoma,Medium
+porphyria,83,83,porphyria,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+rosacea,90,51,lupus erythematosus,Light
+scleromyxedema,94,44,keratosis pilaris,Light
+squamous cell carcinoma,98,55,malignant melanoma,Light
+granuloma annulare,34,34,granuloma annulare,Medium
+becker nevus,10,40,incontinentia pigmenti,Medium
+lichen planus,48,16,dermatofibroma,Light
+seborrheic dermatitis,95,54,lymphangioma,Light
+acne,1,31,fixed eruptions,Light
+urticaria,109,109,urticaria,Medium
+lyme disease,53,53,lyme disease,Light
+folliculitis,32,32,folliculitis,Unknown
+vitiligo,111,80,pityriasis rubra pilaris,Dark
+scleroderma,93,101,striae,Light
+scabies,92,92,scabies,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+sarcoidosis,91,104,syringoma,Medium
+livedo reticularis,50,50,livedo reticularis,Medium
+lichen simplex,49,5,actinic keratosis,Medium
+allergic contact dermatitis,6,13,cheilitis,Medium
+sarcoidosis,91,34,granuloma annulare,Light
+solid cystic basal cell carcinoma,97,5,actinic keratosis,Light
+tungiasis,108,108,tungiasis,Light
+pediculosis lids,73,73,pediculosis lids,Medium
+incontinentia pigmenti,40,93,scleroderma,Light
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+hidradenitis,38,31,fixed eruptions,Medium
+scabies,92,92,scabies,Medium
+allergic contact dermatitis,6,74,perioral dermatitis,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+tuberous sclerosis,107,44,keratosis pilaris,Light
+photodermatoses,75,40,incontinentia pigmenti,Light
+pityriasis rosea,79,79,pityriasis rosea,Medium
+becker nevus,10,70,nevus sebaceous of jadassohn,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+pilomatricoma,77,77,pilomatricoma,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Dark
+lichen planus,48,44,keratosis pilaris,Dark
+neutrophilic dermatoses,68,93,scleroderma,Dark
+superficial spreading melanoma ssm,103,103,superficial spreading melanoma ssm,Light
+dariers disease,15,18,disseminated actinic porokeratosis,Light
+psoriasis,86,100,stevens johnson syndrome,Unknown
+lupus erythematosus,51,53,lyme disease,Light
+sarcoidosis,91,51,lupus erythematosus,Dark
+seborrheic keratosis,96,113,xeroderma pigmentosum,Dark
+granuloma annulare,34,34,granuloma annulare,Medium
+pityriasis rosea,79,51,lupus erythematosus,Medium
+porokeratosis of mibelli,82,82,porokeratosis of mibelli,Light
+actinic keratosis,5,85,prurigo nodularis,Light
+milia,57,68,neutrophilic dermatoses,Light
+factitial dermatitis,30,30,factitial dermatitis,Dark
+actinic keratosis,5,98,squamous cell carcinoma,Light
+folliculitis,32,32,folliculitis,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+photodermatoses,75,77,pilomatricoma,Light
+scabies,92,92,scabies,Medium
+pityriasis lichenoides chronica,78,40,incontinentia pigmenti,Light
+calcinosis cutis,12,12,calcinosis cutis,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Dark
+granuloma annulare,34,82,porokeratosis of mibelli,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+scabies,92,92,scabies,Medium
+nematode infection,64,64,nematode infection,Medium
+livedo reticularis,50,50,livedo reticularis,Medium
+actinic keratosis,5,45,langerhans cell histiocytosis,Light
+hailey hailey disease,36,36,hailey hailey disease,Dark
+psoriasis,86,86,psoriasis,Light
+lupus erythematosus,51,86,psoriasis,Light
+pityriasis rubra pilaris,80,113,xeroderma pigmentosum,Dark
+tungiasis,108,108,tungiasis,Light
+hidradenitis,38,92,scabies,Dark
+nematode infection,64,64,nematode infection,Medium
+vitiligo,111,111,vitiligo,Dark
+vitiligo,111,51,lupus erythematosus,Dark
+acne,1,8,basal cell carcinoma,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+basal cell carcinoma,8,45,langerhans cell histiocytosis,Light
+sarcoidosis,91,54,lymphangioma,Light
+folliculitis,32,68,neutrophilic dermatoses,Light
+erythema nodosum,29,6,allergic contact dermatitis,Medium
+lichen planus,48,48,lichen planus,Dark
+lymphangioma,54,88,pyogenic granuloma,Light
+scleroderma,93,51,lupus erythematosus,Light
+lichen planus,48,57,milia,Dark
+porokeratosis actinic,81,5,actinic keratosis,Medium
+tuberous sclerosis,107,4,acrodermatitis enteropathica,Medium
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+telangiectases,105,94,scleromyxedema,Light
+scleromyxedema,94,94,scleromyxedema,Dark
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Light
+paronychia,72,98,squamous cell carcinoma,Light
+stasis edema,99,99,stasis edema,Dark
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+milia,57,53,lyme disease,Light
+pediculosis lids,73,73,pediculosis lids,Light
+acne vulgaris,2,2,acne vulgaris,Light
+erythema elevatum diutinum,27,27,erythema elevatum diutinum,Medium
+folliculitis,32,32,folliculitis,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+hailey hailey disease,36,36,hailey hailey disease,Light
+pityriasis rubra pilaris,80,102,sun damaged skin,Light
+erythema elevatum diutinum,27,34,granuloma annulare,Dark
+melanoma,56,103,superficial spreading melanoma ssm,Light
+sarcoidosis,91,6,allergic contact dermatitis,Medium
+nevocytic nevus,69,58,mucinosis,Light
+acne vulgaris,2,2,acne vulgaris,Light
+milia,57,57,milia,Light
+folliculitis,32,32,folliculitis,Medium
+basal cell carcinoma,8,9,basal cell carcinoma morpheiform,Medium
+lichen planus,48,96,seborrheic keratosis,Medium
+syringoma,104,20,drug induced pigmentary changes,Medium
+porokeratosis actinic,81,8,basal cell carcinoma,Medium
+lichen planus,48,33,fordyce spots,Light
+granuloma pyogenic,35,12,calcinosis cutis,Light
+acrodermatitis enteropathica,4,14,congenital nevus,Light
+lupus subacute,52,51,lupus erythematosus,Light
+urticaria,109,110,urticaria pigmentosa,Medium
+hidradenitis,38,38,hidradenitis,Medium
+epidermolysis bullosa,25,48,lichen planus,Dark
+dariers disease,15,21,dyshidrotic eczema,Medium
+basal cell carcinoma,8,51,lupus erythematosus,Dark
+allergic contact dermatitis,6,86,psoriasis,Light
+rhinophyma,89,5,actinic keratosis,Light
+disseminated actinic porokeratosis,18,18,disseminated actinic porokeratosis,Medium
+nematode infection,64,64,nematode infection,Medium
+lyme disease,53,38,hidradenitis,Light
+granuloma annulare,34,40,incontinentia pigmenti,Light
+acne vulgaris,2,2,acne vulgaris,Light
+mycosis fungoides,60,60,mycosis fungoides,Light
+scleroderma,93,7,aplasia cutis,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+rhinophyma,89,89,rhinophyma,Light
+neurofibromatosis,66,66,neurofibromatosis,Dark
+cheilitis,13,74,perioral dermatitis,Light
+granuloma annulare,34,64,nematode infection,Medium
+syringoma,104,104,syringoma,Light
+halo nevus,37,37,halo nevus,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+malignant melanoma,55,56,melanoma,Light
+keloid,43,43,keloid,Medium
+tuberous sclerosis,107,107,tuberous sclerosis,Light
+sarcoidosis,91,91,sarcoidosis,Light
+sarcoidosis,91,52,lupus subacute,Light
+dermatofibroma,16,16,dermatofibroma,Medium
+neurofibromatosis,66,98,squamous cell carcinoma,Medium
+eczema,22,86,psoriasis,Medium
+urticaria,109,92,scabies,Medium
+psoriasis,86,86,psoriasis,Medium
+papilomatosis confluentes and reticulate,71,79,pityriasis rosea,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+nematode infection,64,64,nematode infection,Medium
+erythema nodosum,29,91,sarcoidosis,Light
+telangiectases,105,63,necrobiosis lipoidica,Unknown
+lichen planus,48,48,lichen planus,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+psoriasis,86,85,prurigo nodularis,Medium
+granuloma annulare,34,34,granuloma annulare,Medium
+scleromyxedema,94,92,scabies,Light
+fordyce spots,33,33,fordyce spots,Unknown
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+incontinentia pigmenti,40,45,langerhans cell histiocytosis,Light
+scleroderma,93,93,scleroderma,Dark
+pilomatricoma,77,45,langerhans cell histiocytosis,Light
+calcinosis cutis,12,111,vitiligo,Dark
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+pediculosis lids,73,73,pediculosis lids,Unknown
+scleroderma,93,93,scleroderma,Medium
+basal cell carcinoma,8,76,pilar cyst,Medium
+stevens johnson syndrome,100,100,stevens johnson syndrome,Light
+rosacea,90,52,lupus subacute,Light
+fordyce spots,33,33,fordyce spots,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+necrobiosis lipoidica,63,28,erythema multiforme,Medium
+sarcoidosis,91,1,acne,Light
+acne vulgaris,2,91,sarcoidosis,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+dariers disease,15,80,pityriasis rubra pilaris,Dark
+actinic keratosis,5,48,lichen planus,Light
+photodermatoses,75,19,drug eruption,Light
+perioral dermatitis,74,1,acne,Light
+erythema multiforme,28,101,striae,Light
+allergic contact dermatitis,6,87,pustular psoriasis,Light
+psoriasis,86,86,psoriasis,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+behcets disease,11,29,erythema nodosum,Medium
+folliculitis,32,32,folliculitis,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+psoriasis,86,86,psoriasis,Dark
+seborrheic dermatitis,95,105,telangiectases,Light
+drug eruption,19,52,lupus subacute,Light
+solid cystic basal cell carcinoma,97,111,vitiligo,Light
+syringoma,104,20,drug induced pigmentary changes,Medium
+dermatomyositis,17,92,scabies,Light
+lentigo maligna,46,2,acne vulgaris,Unknown
+basal cell carcinoma,8,98,squamous cell carcinoma,Light
+photodermatoses,75,75,photodermatoses,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+folliculitis,32,32,folliculitis,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+nevus sebaceous of jadassohn,70,93,scleroderma,Light
+acrodermatitis enteropathica,4,4,acrodermatitis enteropathica,Medium
+erythema annulare centrifigum,26,109,urticaria,Light
+erythema multiforme,28,69,nevocytic nevus,Medium
+lupus erythematosus,51,52,lupus subacute,Light
+basal cell carcinoma,8,88,pyogenic granuloma,Light
+folliculitis,32,4,acrodermatitis enteropathica,Light
+erythema elevatum diutinum,27,27,erythema elevatum diutinum,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Dark
+superficial spreading melanoma ssm,103,46,lentigo maligna,Light
+lyme disease,53,53,lyme disease,Medium
+incontinentia pigmenti,40,89,rhinophyma,Light
+epidermal nevus,24,86,psoriasis,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+keratosis pilaris,44,79,pityriasis rosea,Light
+granuloma annulare,34,34,granuloma annulare,Light
+psoriasis,86,86,psoriasis,Light
+scleroderma,93,109,urticaria,Light
+lichen planus,48,94,scleromyxedema,Medium
+acrodermatitis enteropathica,4,4,acrodermatitis enteropathica,Medium
+squamous cell carcinoma,98,86,psoriasis,Light
+photodermatoses,75,75,photodermatoses,Medium
+sun damaged skin,102,74,perioral dermatitis,Light
+nematode infection,64,64,nematode infection,Light
+acrodermatitis enteropathica,4,64,nematode infection,Dark
+calcinosis cutis,12,12,calcinosis cutis,Light
+squamous cell carcinoma,98,17,dermatomyositis,Medium
+stevens johnson syndrome,100,95,seborrheic dermatitis,Light
+fixed eruptions,31,53,lyme disease,Medium
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Medium
+acne,1,106,tick bite,Light
+granuloma annulare,34,34,granuloma annulare,Medium
+psoriasis,86,23,ehlers danlos syndrome,Light
+milia,57,78,pityriasis lichenoides chronica,Light
+seborrheic keratosis,96,103,superficial spreading melanoma ssm,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Unknown
+basal cell carcinoma,8,97,solid cystic basal cell carcinoma,Light
+cheilitis,13,48,lichen planus,Medium
+allergic contact dermatitis,6,93,scleroderma,Light
+porokeratosis actinic,81,5,actinic keratosis,Light
+folliculitis,32,32,folliculitis,Dark
+dermatomyositis,17,92,scabies,Light
+squamous cell carcinoma,98,11,behcets disease,Unknown
+lichen amyloidosis,47,47,lichen amyloidosis,Dark
+dyshidrotic eczema,21,5,actinic keratosis,Medium
+vitiligo,111,75,photodermatoses,Medium
+lupus erythematosus,51,52,lupus subacute,Light
+fordyce spots,33,4,acrodermatitis enteropathica,Unknown
+acanthosis nigricans,0,0,acanthosis nigricans,Medium
+acquired autoimmune bullous diseaseherpes gestationis,3,86,psoriasis,Medium
+lichen planus,48,48,lichen planus,Dark
+dariers disease,15,84,port wine stain,Light
+incontinentia pigmenti,40,40,incontinentia pigmenti,Medium
+lupus subacute,52,51,lupus erythematosus,Light
+milia,57,105,telangiectases,Light
+lupus subacute,52,72,paronychia,Light
+acne vulgaris,2,58,mucinosis,Light
+lymphangioma,54,55,malignant melanoma,Light
+pityriasis rosea,79,109,urticaria,Medium
+lupus erythematosus,51,7,aplasia cutis,Dark
+basal cell carcinoma,8,9,basal cell carcinoma morpheiform,Medium
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Light
+pustular psoriasis,87,87,pustular psoriasis,Light
+mycosis fungoides,60,15,dariers disease,Medium
+malignant melanoma,55,50,livedo reticularis,Light
+scabies,92,101,striae,Medium
+seborrheic dermatitis,95,90,rosacea,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+lichen planus,48,66,neurofibromatosis,Light
+nevocytic nevus,69,69,nevocytic nevus,Light
+tungiasis,108,108,tungiasis,Medium
+lymphangioma,54,106,tick bite,Dark
+lupus erythematosus,51,51,lupus erythematosus,Medium
+lentigo maligna,46,73,pediculosis lids,Light
+urticaria,109,109,urticaria,Medium
+squamous cell carcinoma,98,88,pyogenic granuloma,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+stevens johnson syndrome,100,37,halo nevus,Medium
+squamous cell carcinoma,98,93,scleroderma,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+vitiligo,111,111,vitiligo,Dark
+myiasis,61,61,myiasis,Medium
+pityriasis lichenoides chronica,78,78,pityriasis lichenoides chronica,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+port wine stain,84,84,port wine stain,Medium
+hidradenitis,38,45,langerhans cell histiocytosis,Light
+erythema nodosum,29,29,erythema nodosum,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+nematode infection,64,64,nematode infection,Light
+acne vulgaris,2,2,acne vulgaris,Light
+dermatomyositis,17,90,rosacea,Dark
+lupus erythematosus,51,52,lupus subacute,Light
+pityriasis rosea,79,79,pityriasis rosea,Light
+lentigo maligna,46,46,lentigo maligna,Medium
+squamous cell carcinoma,98,8,basal cell carcinoma,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Dark
+fordyce spots,33,33,fordyce spots,Medium
+basal cell carcinoma,8,7,aplasia cutis,Medium
+pyogenic granuloma,88,59,mucous cyst,Light
+neurotic excoriations,67,9,basal cell carcinoma morpheiform,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+lymphangioma,54,54,lymphangioma,Medium
+fixed eruptions,31,31,fixed eruptions,Light
+scabies,92,68,neutrophilic dermatoses,Dark
+neurodermatitis,65,34,granuloma annulare,Medium
+erythema nodosum,29,29,erythema nodosum,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+acne vulgaris,2,2,acne vulgaris,Light
+nematode infection,64,64,nematode infection,Medium
+tuberous sclerosis,107,72,paronychia,Medium
+rhinophyma,89,89,rhinophyma,Medium
+acne vulgaris,2,2,acne vulgaris,Medium
+pilar cyst,76,76,pilar cyst,Light
+livedo reticularis,50,85,prurigo nodularis,Medium
+neurofibromatosis,66,66,neurofibromatosis,Dark
+lupus erythematosus,51,53,lyme disease,Light
+pyogenic granuloma,88,106,tick bite,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Dark
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+superficial spreading melanoma ssm,103,55,malignant melanoma,Medium
+lichen planus,48,6,allergic contact dermatitis,Unknown
+nevus sebaceous of jadassohn,70,93,scleroderma,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+tick bite,106,73,pediculosis lids,Light
+acanthosis nigricans,0,60,mycosis fungoides,Light
+photodermatoses,75,48,lichen planus,Light
+pityriasis rosea,79,79,pityriasis rosea,Medium
+scabies,92,92,scabies,Medium
+lichen planus,48,22,eczema,Light
+mycosis fungoides,60,60,mycosis fungoides,Dark
+psoriasis,86,22,eczema,Unknown
+lichen planus,48,6,allergic contact dermatitis,Unknown
+becker nevus,10,20,drug induced pigmentary changes,Light
+nevus sebaceous of jadassohn,70,70,nevus sebaceous of jadassohn,Light
+lichen planus,48,48,lichen planus,Medium
+lupus subacute,52,98,squamous cell carcinoma,Light
+dermatomyositis,17,17,dermatomyositis,Light
+dermatomyositis,17,22,eczema,Light
+nematode infection,64,64,nematode infection,Medium
+acrodermatitis enteropathica,4,98,squamous cell carcinoma,Medium
+granuloma annulare,34,95,seborrheic dermatitis,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+scabies,92,92,scabies,Unknown
+lentigo maligna,46,46,lentigo maligna,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+pityriasis rubra pilaris,80,46,lentigo maligna,Medium
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Light
+paronychia,72,72,paronychia,Medium
+nevus sebaceous of jadassohn,70,21,dyshidrotic eczema,Light
+drug induced pigmentary changes,20,93,scleroderma,Medium
+kaposi sarcoma,42,42,kaposi sarcoma,Dark
+pilar cyst,76,76,pilar cyst,Medium
+lichen planus,48,83,porphyria,Medium
+mycosis fungoides,60,53,lyme disease,Light
+neurofibromatosis,66,113,xeroderma pigmentosum,Dark
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+acne vulgaris,2,2,acne vulgaris,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Dark
+squamous cell carcinoma,98,16,dermatofibroma,Light
+hailey hailey disease,36,36,hailey hailey disease,Light
+fixed eruptions,31,31,fixed eruptions,Medium
+porphyria,83,19,drug eruption,Medium
+syringoma,104,104,syringoma,Medium
+mucous cyst,59,33,fordyce spots,Medium
+erythema multiforme,28,28,erythema multiforme,Light
+mucous cyst,59,59,mucous cyst,Unknown
+scleroderma,93,93,scleroderma,Dark
+psoriasis,86,86,psoriasis,Light
+lymphangioma,54,75,photodermatoses,Light
+pyogenic granuloma,88,35,granuloma pyogenic,Light
+incontinentia pigmenti,40,40,incontinentia pigmenti,Light
+folliculitis,32,32,folliculitis,Medium
+scabies,92,38,hidradenitis,Dark
+tuberous sclerosis,107,50,livedo reticularis,Medium
+rosacea,90,90,rosacea,Medium
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Medium
+juvenile xanthogranuloma,41,4,acrodermatitis enteropathica,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+neurofibromatosis,66,69,nevocytic nevus,Dark
+striae,101,58,mucinosis,Light
+pityriasis rosea,79,79,pityriasis rosea,Medium
+acanthosis nigricans,0,0,acanthosis nigricans,Light
+acne,1,2,acne vulgaris,Light
+malignant melanoma,55,103,superficial spreading melanoma ssm,Medium
+folliculitis,32,32,folliculitis,Medium
+scleroderma,93,93,scleroderma,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+kaposi sarcoma,42,6,allergic contact dermatitis,Dark
+tick bite,106,31,fixed eruptions,Light
+pityriasis rubra pilaris,80,79,pityriasis rosea,Light
+pediculosis lids,73,73,pediculosis lids,Light
+epidermolysis bullosa,25,21,dyshidrotic eczema,Medium
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Light
+perioral dermatitis,74,8,basal cell carcinoma,Light
+scabies,92,80,pityriasis rubra pilaris,Medium
+keloid,43,112,xanthomas,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+erythema elevatum diutinum,27,27,erythema elevatum diutinum,Light
+photodermatoses,75,53,lyme disease,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+granuloma annulare,34,64,nematode infection,Medium
+juvenile xanthogranuloma,41,4,acrodermatitis enteropathica,Medium
+mycosis fungoides,60,51,lupus erythematosus,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+basal cell carcinoma morpheiform,9,97,solid cystic basal cell carcinoma,Medium
+pityriasis rosea,79,79,pityriasis rosea,Dark
+rosacea,90,89,rhinophyma,Light
+perioral dermatitis,74,99,stasis edema,Light
+lupus subacute,52,52,lupus subacute,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+sarcoidosis,91,63,necrobiosis lipoidica,Unknown
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+pyogenic granuloma,88,25,epidermolysis bullosa,Light
+drug eruption,19,19,drug eruption,Light
+disseminated actinic porokeratosis,18,18,disseminated actinic porokeratosis,Medium
+fixed eruptions,31,2,acne vulgaris,Dark
+squamous cell carcinoma,98,33,fordyce spots,Light
+psoriasis,86,19,drug eruption,Light
+nevocytic nevus,69,103,superficial spreading melanoma ssm,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+porphyria,83,83,porphyria,Light
+neurofibromatosis,66,66,neurofibromatosis,Light
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Medium
+keratosis pilaris,44,93,scleroderma,Light
+sarcoidosis,91,32,folliculitis,Light
+lyme disease,53,53,lyme disease,Light
+pilar cyst,76,76,pilar cyst,Dark
+neutrophilic dermatoses,68,98,squamous cell carcinoma,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Medium
+factitial dermatitis,30,30,factitial dermatitis,Dark
+naevus comedonicus,62,62,naevus comedonicus,Dark
+scleroderma,93,6,allergic contact dermatitis,Medium
+acne vulgaris,2,2,acne vulgaris,Light
+nematode infection,64,64,nematode infection,Medium
+lupus erythematosus,51,19,drug eruption,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+scabies,92,64,nematode infection,Medium
+basal cell carcinoma,8,55,malignant melanoma,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Dark
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+squamous cell carcinoma,98,8,basal cell carcinoma,Light
+dariers disease,15,15,dariers disease,Medium
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+epidermolysis bullosa,25,4,acrodermatitis enteropathica,Light
+eczema,22,4,acrodermatitis enteropathica,Medium
+porokeratosis actinic,81,81,porokeratosis actinic,Light
+mucinosis,58,58,mucinosis,Medium
+fixed eruptions,31,76,pilar cyst,Medium
+halo nevus,37,41,juvenile xanthogranuloma,Medium
+dyshidrotic eczema,21,6,allergic contact dermatitis,Light
+mycosis fungoides,60,92,scabies,Light
+milia,57,106,tick bite,Light
+dariers disease,15,92,scabies,Light
+lyme disease,53,53,lyme disease,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+drug eruption,19,38,hidradenitis,Medium
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+hailey hailey disease,36,51,lupus erythematosus,Light
+pyogenic granuloma,88,37,halo nevus,Light
+aplasia cutis,7,7,aplasia cutis,Light
+keratosis pilaris,44,44,keratosis pilaris,Light
+sun damaged skin,102,41,juvenile xanthogranuloma,Medium
+keloid,43,93,scleroderma,Dark
+acne vulgaris,2,1,acne,Light
+lichen planus,48,85,prurigo nodularis,Light
+port wine stain,84,86,psoriasis,Light
+nevocytic nevus,69,69,nevocytic nevus,Light
+naevus comedonicus,62,55,malignant melanoma,Medium
+folliculitis,32,32,folliculitis,Light
+psoriasis,86,43,keloid,Dark
+sarcoidosis,91,12,calcinosis cutis,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Light
+lupus erythematosus,51,100,stevens johnson syndrome,Light
+basal cell carcinoma,8,5,actinic keratosis,Light
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+mycosis fungoides,60,5,actinic keratosis,Medium
+neurofibromatosis,66,60,mycosis fungoides,Medium
+lichen simplex,49,49,lichen simplex,Dark
+basal cell carcinoma morpheiform,9,7,aplasia cutis,Light
+lichen simplex,49,92,scabies,Dark
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+pilar cyst,76,90,rosacea,Medium
+dermatomyositis,17,59,mucous cyst,Light
+solid cystic basal cell carcinoma,97,90,rosacea,Light
+squamous cell carcinoma,98,86,psoriasis,Medium
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Medium
+pediculosis lids,73,73,pediculosis lids,Unknown
+scleromyxedema,94,94,scleromyxedema,Light
+scleromyxedema,94,94,scleromyxedema,Medium
+ehlers danlos syndrome,23,56,melanoma,Light
+folliculitis,32,6,allergic contact dermatitis,Medium
+sarcoidosis,91,84,port wine stain,Light
+solid cystic basal cell carcinoma,97,8,basal cell carcinoma,Light
+acanthosis nigricans,0,0,acanthosis nigricans,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+basal cell carcinoma,8,56,melanoma,Light
+stasis edema,99,60,mycosis fungoides,Medium
+scleroderma,93,93,scleroderma,Dark
+halo nevus,37,113,xeroderma pigmentosum,Medium
+erythema multiforme,28,80,pityriasis rubra pilaris,Medium
+vitiligo,111,83,porphyria,Medium
+pyogenic granuloma,88,106,tick bite,Medium
+urticaria,109,109,urticaria,Medium
+eczema,22,22,eczema,Medium
+actinic keratosis,5,5,actinic keratosis,Light
+aplasia cutis,7,7,aplasia cutis,Light
+solid cystic basal cell carcinoma,97,107,tuberous sclerosis,Medium
+scabies,92,92,scabies,Medium
+superficial spreading melanoma ssm,103,47,lichen amyloidosis,Light
+psoriasis,86,60,mycosis fungoides,Medium
+lupus erythematosus,51,48,lichen planus,Medium
+basal cell carcinoma,8,51,lupus erythematosus,Medium
+scleroderma,93,52,lupus subacute,Medium
+fixed eruptions,31,76,pilar cyst,Dark
+pyogenic granuloma,88,88,pyogenic granuloma,Medium
+folliculitis,32,32,folliculitis,Medium
+nematode infection,64,34,granuloma annulare,Light
+factitial dermatitis,30,32,folliculitis,Light
+porphyria,83,52,lupus subacute,Light
+urticaria,109,90,rosacea,Light
+cheilitis,13,85,prurigo nodularis,Medium
+lymphangioma,54,101,striae,Medium
+melanoma,56,56,melanoma,Medium
+erythema nodosum,29,29,erythema nodosum,Medium
+psoriasis,86,21,dyshidrotic eczema,Dark
+lupus erythematosus,51,51,lupus erythematosus,Medium
+lymphangioma,54,77,pilomatricoma,Light
+granuloma pyogenic,35,35,granuloma pyogenic,Light
+porokeratosis of mibelli,82,82,porokeratosis of mibelli,Medium
+acne vulgaris,2,2,acne vulgaris,Light
+lichen planus,48,48,lichen planus,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+mucous cyst,59,16,dermatofibroma,Light
+nevus sebaceous of jadassohn,70,4,acrodermatitis enteropathica,Medium
+acquired autoimmune bullous diseaseherpes gestationis,3,3,acquired autoimmune bullous diseaseherpes gestationis,Light
+photodermatoses,75,95,seborrheic dermatitis,Light
+dermatofibroma,16,16,dermatofibroma,Light
+acne vulgaris,2,106,tick bite,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+scleromyxedema,94,39,ichthyosis vulgaris,Dark
+lupus erythematosus,51,51,lupus erythematosus,Dark
+keratosis pilaris,44,44,keratosis pilaris,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+lupus erythematosus,51,51,lupus erythematosus,Medium
+allergic contact dermatitis,6,90,rosacea,Light
+livedo reticularis,50,93,scleroderma,Light
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+squamous cell carcinoma,98,68,neutrophilic dermatoses,Light
+congenital nevus,14,14,congenital nevus,Medium
+pilomatricoma,77,8,basal cell carcinoma,Light
+melanoma,56,42,kaposi sarcoma,Light
+dariers disease,15,32,folliculitis,Dark
+erythema multiforme,28,44,keratosis pilaris,Dark
+allergic contact dermatitis,6,62,naevus comedonicus,Light
+basal cell carcinoma morpheiform,9,64,nematode infection,Light
+pilar cyst,76,76,pilar cyst,Light
+porphyria,83,48,lichen planus,Dark
+lichen planus,48,109,urticaria,Medium
+eczema,22,54,lymphangioma,Light
+seborrheic dermatitis,95,89,rhinophyma,Light
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Medium
+mucinosis,58,76,pilar cyst,Dark
+erythema multiforme,28,52,lupus subacute,Light
+pilar cyst,76,76,pilar cyst,Dark
+nevocytic nevus,69,103,superficial spreading melanoma ssm,Light
+psoriasis,86,86,psoriasis,Light
+actinic keratosis,5,86,psoriasis,Light
+lichen amyloidosis,47,4,acrodermatitis enteropathica,Light
+prurigo nodularis,85,85,prurigo nodularis,Light
+nematode infection,64,83,porphyria,Unknown
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Medium
+folliculitis,32,32,folliculitis,Medium
+nematode infection,64,53,lyme disease,Medium
+hailey hailey disease,36,36,hailey hailey disease,Dark
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+lyme disease,53,53,lyme disease,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+papilomatosis confluentes and reticulate,71,40,incontinentia pigmenti,Medium
+folliculitis,32,32,folliculitis,Unknown
+dariers disease,15,92,scabies,Dark
+epidermal nevus,24,16,dermatofibroma,Dark
+pityriasis rosea,79,110,urticaria pigmentosa,Medium
+allergic contact dermatitis,6,22,eczema,Light
+squamous cell carcinoma,98,69,nevocytic nevus,Medium
+rosacea,90,89,rhinophyma,Light
+acne vulgaris,2,48,lichen planus,Dark
+basal cell carcinoma,8,85,prurigo nodularis,Dark
+acne,1,80,pityriasis rubra pilaris,Medium
+acne,1,1,acne,Light
+nematode infection,64,64,nematode infection,Medium
+squamous cell carcinoma,98,55,malignant melanoma,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+folliculitis,32,32,folliculitis,Unknown
+pityriasis rosea,79,48,lichen planus,Dark
+folliculitis,32,32,folliculitis,Light
+juvenile xanthogranuloma,41,31,fixed eruptions,Light
+eczema,22,22,eczema,Light
+pediculosis lids,73,73,pediculosis lids,Light
+scleroderma,93,109,urticaria,Light
+neutrophilic dermatoses,68,65,neurodermatitis,Light
+porokeratosis of mibelli,82,82,porokeratosis of mibelli,Light
+hidradenitis,38,1,acne,Light
+lichen planus,48,48,lichen planus,Medium
+pustular psoriasis,87,42,kaposi sarcoma,Dark
+mycosis fungoides,60,110,urticaria pigmentosa,Unknown
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+nematode infection,64,64,nematode infection,Light
+psoriasis,86,72,paronychia,Light
+scleromyxedema,94,94,scleromyxedema,Medium
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+rosacea,90,74,perioral dermatitis,Medium
+dariers disease,15,80,pityriasis rubra pilaris,Medium
+scleroderma,93,93,scleroderma,Dark
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+psoriasis,86,45,langerhans cell histiocytosis,Light
+vitiligo,111,113,xeroderma pigmentosum,Dark
+melanoma,56,56,melanoma,Medium
+porphyria,83,21,dyshidrotic eczema,Light
+hailey hailey disease,36,36,hailey hailey disease,Light
+lyme disease,53,53,lyme disease,Light
+psoriasis,86,79,pityriasis rosea,Medium
+dermatomyositis,17,52,lupus subacute,Light
+photodermatoses,75,75,photodermatoses,Medium
+telangiectases,105,20,drug induced pigmentary changes,Medium
+prurigo nodularis,85,85,prurigo nodularis,Light
+granuloma annulare,34,98,squamous cell carcinoma,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+dyshidrotic eczema,21,21,dyshidrotic eczema,Medium
+syringoma,104,104,syringoma,Light
+drug eruption,19,19,drug eruption,Medium
+epidermolysis bullosa,25,54,lymphangioma,Light
+squamous cell carcinoma,98,33,fordyce spots,Unknown
+drug induced pigmentary changes,20,73,pediculosis lids,Light
+lupus subacute,52,16,dermatofibroma,Light
+lupus subacute,52,6,allergic contact dermatitis,Light
+porphyria,83,86,psoriasis,Medium
+squamous cell carcinoma,98,56,melanoma,Medium
+pityriasis lichenoides chronica,78,78,pityriasis lichenoides chronica,Medium
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Light
+psoriasis,86,100,stevens johnson syndrome,Light
+allergic contact dermatitis,6,53,lyme disease,Light
+malignant melanoma,55,6,allergic contact dermatitis,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+actinic keratosis,5,98,squamous cell carcinoma,Dark
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Medium
+epidermal nevus,24,24,epidermal nevus,Light
+vitiligo,111,111,vitiligo,Medium
+epidermal nevus,24,24,epidermal nevus,Light
+psoriasis,86,44,keratosis pilaris,Light
+photodermatoses,75,23,ehlers danlos syndrome,Medium
+allergic contact dermatitis,6,74,perioral dermatitis,Light
+folliculitis,32,78,pityriasis lichenoides chronica,Light
+xanthomas,112,34,granuloma annulare,Medium
+acne vulgaris,2,1,acne,Light
+sarcoidosis,91,100,stevens johnson syndrome,Medium
+dariers disease,15,80,pityriasis rubra pilaris,Dark
+lichen planus,48,48,lichen planus,Medium
+malignant melanoma,55,103,superficial spreading melanoma ssm,Light
+photodermatoses,75,40,incontinentia pigmenti,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Light
+eczema,22,109,urticaria,Medium
+fordyce spots,33,33,fordyce spots,Medium
+lupus erythematosus,51,51,lupus erythematosus,Dark
+scabies,92,28,erythema multiforme,Light
+pityriasis rosea,79,79,pityriasis rosea,Medium
+acne,1,1,acne,Medium
+pityriasis lichenoides chronica,78,110,urticaria pigmentosa,Light
+scabies,92,92,scabies,Dark
+dermatomyositis,17,86,psoriasis,Light
+drug eruption,19,36,hailey hailey disease,Medium
+scleromyxedema,94,94,scleromyxedema,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Dark
+juvenile xanthogranuloma,41,4,acrodermatitis enteropathica,Light
+drug eruption,19,15,dariers disease,Medium
+lymphangioma,54,15,dariers disease,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Dark
+epidermolysis bullosa,25,28,erythema multiforme,Light
+eczema,22,86,psoriasis,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+neurofibromatosis,66,66,neurofibromatosis,Medium
+juvenile xanthogranuloma,41,93,scleroderma,Dark
+acne,1,1,acne,Dark
+syringoma,104,104,syringoma,Light
+pityriasis lichenoides chronica,78,78,pityriasis lichenoides chronica,Medium
+halo nevus,37,37,halo nevus,Dark
+dariers disease,15,113,xeroderma pigmentosum,Dark
+myiasis,61,65,neurodermatitis,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+squamous cell carcinoma,98,44,keratosis pilaris,Light
+scleroderma,93,19,drug eruption,Unknown
+folliculitis,32,32,folliculitis,Medium
+melanoma,56,72,paronychia,Light
+kaposi sarcoma,42,85,prurigo nodularis,Light
+incontinentia pigmenti,40,40,incontinentia pigmenti,Medium
+neurodermatitis,65,68,neutrophilic dermatoses,Medium
+dyshidrotic eczema,21,92,scabies,Light
+nematode infection,64,79,pityriasis rosea,Medium
+eczema,22,32,folliculitis,Light
+vitiligo,111,111,vitiligo,Medium
+lupus erythematosus,51,105,telangiectases,Medium
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Medium
+ichthyosis vulgaris,39,81,porokeratosis actinic,Medium
+behcets disease,11,11,behcets disease,Medium
+psoriasis,86,86,psoriasis,Light
+solid cystic basal cell carcinoma,97,99,stasis edema,Medium
+keloid,43,43,keloid,Light
+striae,101,110,urticaria pigmentosa,Light
+calcinosis cutis,12,12,calcinosis cutis,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+pediculosis lids,73,73,pediculosis lids,Light
+lichen planus,48,86,psoriasis,Light
+allergic contact dermatitis,6,57,milia,Light
+photodermatoses,75,4,acrodermatitis enteropathica,Light
+psoriasis,86,85,prurigo nodularis,Medium
+epidermolysis bullosa,25,88,pyogenic granuloma,Medium
+scleroderma,93,15,dariers disease,Light
+sarcoidosis,91,91,sarcoidosis,Medium
+granuloma annulare,34,85,prurigo nodularis,Medium
+prurigo nodularis,85,18,disseminated actinic porokeratosis,Light
+lichen planus,48,48,lichen planus,Medium
+cheilitis,13,13,cheilitis,Dark
+port wine stain,84,110,urticaria pigmentosa,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+lupus erythematosus,51,51,lupus erythematosus,Medium
+scabies,92,22,eczema,Light
+erythema nodosum,29,106,tick bite,Light
+mycosis fungoides,60,60,mycosis fungoides,Medium
+melanoma,56,16,dermatofibroma,Light
+rhinophyma,89,5,actinic keratosis,Light
+neutrophilic dermatoses,68,84,port wine stain,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Medium
+photodermatoses,75,76,pilar cyst,Light
+folliculitis,32,32,folliculitis,Medium
+fordyce spots,33,33,fordyce spots,Light
+lyme disease,53,53,lyme disease,Medium
+cheilitis,13,13,cheilitis,Light
+scabies,92,92,scabies,Medium
+pilomatricoma,77,77,pilomatricoma,Medium
+telangiectases,105,105,telangiectases,Light
+acne,1,92,scabies,Light
+tungiasis,108,108,tungiasis,Light
+epidermal nevus,24,92,scabies,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+neurotic excoriations,67,4,acrodermatitis enteropathica,Light
+porokeratosis of mibelli,82,55,malignant melanoma,Light
+cheilitis,13,13,cheilitis,Light
+lupus subacute,52,69,nevocytic nevus,Medium
+psoriasis,86,86,psoriasis,Light
+vitiligo,111,43,keloid,Medium
+drug eruption,19,100,stevens johnson syndrome,Light
+rhinophyma,89,89,rhinophyma,Medium
+calcinosis cutis,12,12,calcinosis cutis,Dark
+seborrheic dermatitis,95,95,seborrheic dermatitis,Medium
+pediculosis lids,73,73,pediculosis lids,Medium
+perioral dermatitis,74,1,acne,Light
+granuloma annulare,34,29,erythema nodosum,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+actinic keratosis,5,17,dermatomyositis,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Light
+naevus comedonicus,62,4,acrodermatitis enteropathica,Light
+rosacea,90,5,actinic keratosis,Light
+incontinentia pigmenti,40,40,incontinentia pigmenti,Light
+calcinosis cutis,12,50,livedo reticularis,Light
+cheilitis,13,54,lymphangioma,Light
+mucinosis,58,58,mucinosis,Medium
+acne vulgaris,2,63,necrobiosis lipoidica,Dark
+actinic keratosis,5,5,actinic keratosis,Light
+stevens johnson syndrome,100,100,stevens johnson syndrome,Light
+squamous cell carcinoma,98,81,porokeratosis actinic,Medium
+dyshidrotic eczema,21,8,basal cell carcinoma,Medium
+erythema multiforme,28,28,erythema multiforme,Medium
+drug induced pigmentary changes,20,37,halo nevus,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Light
+lentigo maligna,46,69,nevocytic nevus,Light
+dermatofibroma,16,78,pityriasis lichenoides chronica,Medium
+scleromyxedema,94,57,milia,Medium
+incontinentia pigmenti,40,109,urticaria,Light
+allergic contact dermatitis,6,60,mycosis fungoides,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+actinic keratosis,5,60,mycosis fungoides,Light
+fixed eruptions,31,32,folliculitis,Light
+actinic keratosis,5,5,actinic keratosis,Medium
+neurofibromatosis,66,66,neurofibromatosis,Medium
+porphyria,83,99,stasis edema,Dark
+melanoma,56,103,superficial spreading melanoma ssm,Light
+acanthosis nigricans,0,71,papilomatosis confluentes and reticulate,Dark
+basal cell carcinoma morpheiform,9,98,squamous cell carcinoma,Light
+acne,1,57,milia,Medium
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+seborrheic keratosis,96,46,lentigo maligna,Light
+folliculitis,32,32,folliculitis,Medium
+keratosis pilaris,44,75,photodermatoses,Medium
+dermatomyositis,17,17,dermatomyositis,Medium
+urticaria,109,110,urticaria pigmentosa,Light
+sarcoidosis,91,91,sarcoidosis,Medium
+melanoma,56,56,melanoma,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Dark
+granuloma annulare,34,34,granuloma annulare,Medium
+basal cell carcinoma,8,5,actinic keratosis,Light
+tick bite,106,51,lupus erythematosus,Medium
+stevens johnson syndrome,100,59,mucous cyst,Light
+neutrophilic dermatoses,68,36,hailey hailey disease,Medium
+disseminated actinic porokeratosis,18,40,incontinentia pigmenti,Light
+solid cystic basal cell carcinoma,97,16,dermatofibroma,Light
+syringoma,104,104,syringoma,Light
+allergic contact dermatitis,6,17,dermatomyositis,Light
+lupus erythematosus,51,51,lupus erythematosus,Dark
+allergic contact dermatitis,6,64,nematode infection,Light
+sarcoidosis,91,43,keloid,Dark
+neutrophilic dermatoses,68,93,scleroderma,Light
+dermatomyositis,17,4,acrodermatitis enteropathica,Light
+erythema nodosum,29,29,erythema nodosum,Light
+urticaria pigmentosa,110,110,urticaria pigmentosa,Dark
+milia,57,8,basal cell carcinoma,Light
+naevus comedonicus,62,1,acne,Medium
+squamous cell carcinoma,98,11,behcets disease,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Dark
+granuloma annulare,34,71,papilomatosis confluentes and reticulate,Light
+dermatomyositis,17,17,dermatomyositis,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Medium
+lupus erythematosus,51,79,pityriasis rosea,Light
+photodermatoses,75,21,dyshidrotic eczema,Dark
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+lichen planus,48,9,basal cell carcinoma morpheiform,Dark
+psoriasis,86,95,seborrheic dermatitis,Medium
+melanoma,56,103,superficial spreading melanoma ssm,Medium
+psoriasis,86,48,lichen planus,Light
+pediculosis lids,73,73,pediculosis lids,Light
+juvenile xanthogranuloma,41,49,lichen simplex,Light
+pityriasis lichenoides chronica,78,79,pityriasis rosea,Light
+drug eruption,19,71,papilomatosis confluentes and reticulate,Light
+lyme disease,53,14,congenital nevus,Light
+lichen planus,48,15,dariers disease,Medium
+folliculitis,32,61,myiasis,Unknown
+superficial spreading melanoma ssm,103,8,basal cell carcinoma,Light
+striae,101,101,striae,Medium
+lupus erythematosus,51,5,actinic keratosis,Light
+rhinophyma,89,89,rhinophyma,Light
+sarcoidosis,91,63,necrobiosis lipoidica,Medium
+vitiligo,111,111,vitiligo,Light
+keratosis pilaris,44,92,scabies,Medium
+acrodermatitis enteropathica,4,43,keloid,Light
+lichen planus,48,64,nematode infection,Light
+lyme disease,53,53,lyme disease,Medium
+psoriasis,86,72,paronychia,Medium
+dermatofibroma,16,16,dermatofibroma,Medium
+lupus erythematosus,51,51,lupus erythematosus,Medium
+seborrheic dermatitis,95,15,dariers disease,Dark
+sarcoidosis,91,91,sarcoidosis,Medium
+scleroderma,93,29,erythema nodosum,Light
+squamous cell carcinoma,98,4,acrodermatitis enteropathica,Dark
+granuloma annulare,34,34,granuloma annulare,Medium
+neurodermatitis,65,34,granuloma annulare,Light
+porokeratosis actinic,81,81,porokeratosis actinic,Dark
+lupus subacute,52,69,nevocytic nevus,Medium
+squamous cell carcinoma,98,4,acrodermatitis enteropathica,Light
+mucous cyst,59,59,mucous cyst,Medium
+ichthyosis vulgaris,39,80,pityriasis rubra pilaris,Dark
+prurigo nodularis,85,85,prurigo nodularis,Dark
+drug eruption,19,87,pustular psoriasis,Light
+porphyria,83,41,juvenile xanthogranuloma,Light
+telangiectases,105,55,malignant melanoma,Light
+sarcoidosis,91,91,sarcoidosis,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Light
+basal cell carcinoma,8,9,basal cell carcinoma morpheiform,Light
+nematode infection,64,109,urticaria,Light
+neurofibromatosis,66,66,neurofibromatosis,Dark
+folliculitis,32,51,lupus erythematosus,Light
+aplasia cutis,7,75,photodermatoses,Light
+sun damaged skin,102,30,factitial dermatitis,Dark
+pityriasis rosea,79,79,pityriasis rosea,Medium
+porphyria,83,15,dariers disease,Medium
+congenital nevus,14,98,squamous cell carcinoma,Light
+ichthyosis vulgaris,39,0,acanthosis nigricans,Light
+epidermolysis bullosa,25,48,lichen planus,Dark
+mucous cyst,59,3,acquired autoimmune bullous diseaseherpes gestationis,Medium
+hidradenitis,38,86,psoriasis,Dark
+granuloma annulare,34,29,erythema nodosum,Medium
+scleroderma,93,37,halo nevus,Light
+syringoma,104,104,syringoma,Medium
+melanoma,56,97,solid cystic basal cell carcinoma,Light
+psoriasis,86,86,psoriasis,Medium
+acne vulgaris,2,3,acquired autoimmune bullous diseaseherpes gestationis,Dark
+porokeratosis actinic,81,81,porokeratosis actinic,Light
+squamous cell carcinoma,98,97,solid cystic basal cell carcinoma,Light
+scabies,92,75,photodermatoses,Dark
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+granuloma annulare,34,27,erythema elevatum diutinum,Medium
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+porphyria,83,51,lupus erythematosus,Medium
+sarcoidosis,91,4,acrodermatitis enteropathica,Light
+neutrophilic dermatoses,68,42,kaposi sarcoma,Light
+squamous cell carcinoma,98,82,porokeratosis of mibelli,Light
+drug eruption,19,33,fordyce spots,Light
+photodermatoses,75,75,photodermatoses,Medium
+photodermatoses,75,64,nematode infection,Medium
+tungiasis,108,108,tungiasis,Dark
+scabies,92,32,folliculitis,Light
+hailey hailey disease,36,61,myiasis,Medium
+hailey hailey disease,36,36,hailey hailey disease,Medium
+neutrophilic dermatoses,68,86,psoriasis,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+drug eruption,19,22,eczema,Light
+juvenile xanthogranuloma,41,53,lyme disease,Medium
+photodermatoses,75,68,neutrophilic dermatoses,Light
+lupus erythematosus,51,52,lupus subacute,Light
+factitial dermatitis,30,99,stasis edema,Medium
+erythema multiforme,28,26,erythema annulare centrifigum,Light
+erythema multiforme,28,28,erythema multiforme,Light
+basal cell carcinoma,8,98,squamous cell carcinoma,Light
+sun damaged skin,102,94,scleromyxedema,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+lupus erythematosus,51,70,nevus sebaceous of jadassohn,Light
+stasis edema,99,31,fixed eruptions,Medium
+hidradenitis,38,38,hidradenitis,Medium
+calcinosis cutis,12,12,calcinosis cutis,Light
+seborrheic dermatitis,95,95,seborrheic dermatitis,Light
+photodermatoses,75,75,photodermatoses,Medium
+granuloma annulare,34,82,porokeratosis of mibelli,Light
+xeroderma pigmentosum,113,113,xeroderma pigmentosum,Light
+stevens johnson syndrome,100,68,neutrophilic dermatoses,Light
+ehlers danlos syndrome,23,86,psoriasis,Light
+aplasia cutis,7,28,erythema multiforme,Light
+basal cell carcinoma,8,104,syringoma,Medium
+neurodermatitis,65,106,tick bite,Light
+ehlers danlos syndrome,23,23,ehlers danlos syndrome,Medium
+kaposi sarcoma,42,106,tick bite,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+pityriasis rosea,79,64,nematode infection,Light
+pediculosis lids,73,4,acrodermatitis enteropathica,Unknown
+lichen planus,48,48,lichen planus,Medium
+dermatofibroma,16,51,lupus erythematosus,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+mucinosis,58,5,actinic keratosis,Medium
+scabies,92,92,scabies,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Dark
+sarcoidosis,91,2,acne vulgaris,Medium
+milia,57,57,milia,Medium
+scabies,92,92,scabies,Light
+pyogenic granuloma,88,13,cheilitis,Light
+acrodermatitis enteropathica,4,4,acrodermatitis enteropathica,Light
+fordyce spots,33,33,fordyce spots,Light
+vitiligo,111,58,mucinosis,Medium
+scabies,92,64,nematode infection,Light
+seborrheic dermatitis,95,1,acne,Light
+scabies,92,82,porokeratosis of mibelli,Unknown
+lichen planus,48,48,lichen planus,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+folliculitis,32,92,scabies,Light
+melanoma,56,39,ichthyosis vulgaris,Light
+neurodermatitis,65,113,xeroderma pigmentosum,Medium
+erythema elevatum diutinum,27,8,basal cell carcinoma,Dark
+hailey hailey disease,36,51,lupus erythematosus,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+urticaria pigmentosa,110,68,neutrophilic dermatoses,Light
+scleromyxedema,94,19,drug eruption,Medium
+neutrophilic dermatoses,68,1,acne,Light
+seborrheic dermatitis,95,95,seborrheic dermatitis,Medium
+pityriasis rosea,79,79,pityriasis rosea,Medium
+lupus erythematosus,51,51,lupus erythematosus,Medium
+porphyria,83,5,actinic keratosis,Medium
+sarcoidosis,91,91,sarcoidosis,Medium
+striae,101,52,lupus subacute,Light
+psoriasis,86,34,granuloma annulare,Light
+allergic contact dermatitis,6,55,malignant melanoma,Light
+syringoma,104,104,syringoma,Medium
+fordyce spots,33,33,fordyce spots,Medium
+lentigo maligna,46,40,incontinentia pigmenti,Medium
+lichen planus,48,48,lichen planus,Medium
+seborrheic keratosis,96,96,seborrheic keratosis,Light
+acne,1,51,lupus erythematosus,Light
+actinic keratosis,5,15,dariers disease,Light
+acquired autoimmune bullous diseaseherpes gestationis,3,41,juvenile xanthogranuloma,Light
+photodermatoses,75,19,drug eruption,Light
+urticaria,109,109,urticaria,Light
+langerhans cell histiocytosis,45,45,langerhans cell histiocytosis,Light
+psoriasis,86,48,lichen planus,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+neutrophilic dermatoses,68,48,lichen planus,Light
+drug induced pigmentary changes,20,50,livedo reticularis,Light
+lichen simplex,49,21,dyshidrotic eczema,Medium
+psoriasis,86,28,erythema multiforme,Unknown
+vitiligo,111,4,acrodermatitis enteropathica,Unknown
+porokeratosis actinic,81,82,porokeratosis of mibelli,Medium
+acne,1,110,urticaria pigmentosa,Light
+melanoma,56,98,squamous cell carcinoma,Light
+acne vulgaris,2,4,acrodermatitis enteropathica,Light
+lupus erythematosus,51,51,lupus erythematosus,Light
+acne,1,17,dermatomyositis,Medium
+keloid,43,113,xeroderma pigmentosum,Medium
+mucinosis,58,53,lyme disease,Light
+malignant melanoma,55,55,malignant melanoma,Medium
+nevus sebaceous of jadassohn,70,4,acrodermatitis enteropathica,Unknown
+neurotic excoriations,67,64,nematode infection,Medium
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+drug induced pigmentary changes,20,93,scleroderma,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+nematode infection,64,53,lyme disease,Medium
+acne vulgaris,2,68,neutrophilic dermatoses,Light
+halo nevus,37,31,fixed eruptions,Medium
+acne vulgaris,2,32,folliculitis,Medium
+porphyria,83,83,porphyria,Medium
+striae,101,51,lupus erythematosus,Light
+erythema multiforme,28,28,erythema multiforme,Medium
+malignant melanoma,55,16,dermatofibroma,Light
+dariers disease,15,72,paronychia,Medium
+tungiasis,108,108,tungiasis,Light
+paronychia,72,72,paronychia,Light
+keloid,43,89,rhinophyma,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+acne vulgaris,2,75,photodermatoses,Light
+drug eruption,19,4,acrodermatitis enteropathica,Dark
+dermatomyositis,17,40,incontinentia pigmenti,Medium
+cheilitis,13,74,perioral dermatitis,Light
+scleromyxedema,94,109,urticaria,Medium
+scabies,92,17,dermatomyositis,Light
+allergic contact dermatitis,6,99,stasis edema,Light
+aplasia cutis,7,7,aplasia cutis,Light
+psoriasis,86,95,seborrheic dermatitis,Medium
+paronychia,72,63,necrobiosis lipoidica,Light
+nematode infection,64,75,photodermatoses,Medium
+erythema multiforme,28,28,erythema multiforme,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+hailey hailey disease,36,36,hailey hailey disease,Medium
+malignant melanoma,55,38,hidradenitis,Light
+granuloma annulare,34,28,erythema multiforme,Light
+tick bite,106,106,tick bite,Medium
+lichen planus,48,48,lichen planus,Light
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+fordyce spots,33,33,fordyce spots,Light
+psoriasis,86,17,dermatomyositis,Light
+telangiectases,105,19,drug eruption,Medium
+melanoma,56,43,keloid,Unknown
+lichen amyloidosis,47,71,papilomatosis confluentes and reticulate,Medium
+lichen planus,48,85,prurigo nodularis,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+urticaria pigmentosa,110,109,urticaria,Light
+langerhans cell histiocytosis,45,70,nevus sebaceous of jadassohn,Light
+juvenile xanthogranuloma,41,41,juvenile xanthogranuloma,Medium
+lichen planus,48,48,lichen planus,Light
+seborrheic dermatitis,95,95,seborrheic dermatitis,Medium
+drug eruption,19,75,photodermatoses,Light
+melanoma,56,46,lentigo maligna,Light
+lichen amyloidosis,47,47,lichen amyloidosis,Dark
+telangiectases,105,78,pityriasis lichenoides chronica,Medium
+erythema multiforme,28,100,stevens johnson syndrome,Dark
+milia,57,57,milia,Dark
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+basal cell carcinoma,8,5,actinic keratosis,Light
+tungiasis,108,108,tungiasis,Dark
+mucous cyst,59,4,acrodermatitis enteropathica,Light
+drug eruption,19,110,urticaria pigmentosa,Medium
+drug eruption,19,19,drug eruption,Light
+halo nevus,37,78,pityriasis lichenoides chronica,Light
+scabies,92,92,scabies,Light
+acrodermatitis enteropathica,4,4,acrodermatitis enteropathica,Light
+basal cell carcinoma,8,8,basal cell carcinoma,Dark
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+photodermatoses,75,75,photodermatoses,Light
+folliculitis,32,32,folliculitis,Medium
+nematode infection,64,64,nematode infection,Medium
+erythema multiforme,28,44,keratosis pilaris,Light
+acquired autoimmune bullous diseaseherpes gestationis,3,66,neurofibromatosis,Medium
+nevocytic nevus,69,101,striae,Light
+aplasia cutis,7,7,aplasia cutis,Medium
+incontinentia pigmenti,40,40,incontinentia pigmenti,Light
+kaposi sarcoma,42,28,erythema multiforme,Light
+scleroderma,93,93,scleroderma,Light
+lichen simplex,49,53,lyme disease,Medium
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+behcets disease,11,17,dermatomyositis,Light
+allergic contact dermatitis,6,73,pediculosis lids,Light
+basal cell carcinoma morpheiform,9,96,seborrheic keratosis,Light
+psoriasis,86,39,ichthyosis vulgaris,Light
+stasis edema,99,42,kaposi sarcoma,Dark
+porokeratosis actinic,81,81,porokeratosis actinic,Medium
+hailey hailey disease,36,36,hailey hailey disease,Medium
+mucous cyst,59,113,xeroderma pigmentosum,Dark
+acne,1,57,milia,Light
+erythema annulare centrifigum,26,98,squamous cell carcinoma,Medium
+milia,57,109,urticaria,Medium
+urticaria pigmentosa,110,3,acquired autoimmune bullous diseaseherpes gestationis,Light
+lupus erythematosus,51,51,lupus erythematosus,Medium
+erythema multiforme,28,2,acne vulgaris,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Dark
+psoriasis,86,93,scleroderma,Unknown
+keloid,43,24,epidermal nevus,Medium
+allergic contact dermatitis,6,80,pityriasis rubra pilaris,Medium
+acquired autoimmune bullous diseaseherpes gestationis,3,86,psoriasis,Medium
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+prurigo nodularis,85,86,psoriasis,Light
+lichen simplex,49,49,lichen simplex,Light
+basal cell carcinoma,8,51,lupus erythematosus,Light
+dariers disease,15,54,lymphangioma,Light
+pityriasis rosea,79,79,pityriasis rosea,Medium
+tuberous sclerosis,107,107,tuberous sclerosis,Medium
+fixed eruptions,31,31,fixed eruptions,Dark
+vitiligo,111,111,vitiligo,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Unknown
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+lichen planus,48,83,porphyria,Medium
+folliculitis,32,32,folliculitis,Medium
+vitiligo,111,17,dermatomyositis,Light
+pediculosis lids,73,73,pediculosis lids,Medium
+basal cell carcinoma morpheiform,9,46,lentigo maligna,Light
+lichen simplex,49,109,urticaria,Light
+mycosis fungoides,60,60,mycosis fungoides,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+mycosis fungoides,60,60,mycosis fungoides,Light
+drug eruption,19,77,pilomatricoma,Light
+acne vulgaris,2,36,hailey hailey disease,Light
+scleroderma,93,0,acanthosis nigricans,Light
+langerhans cell histiocytosis,45,45,langerhans cell histiocytosis,Light
+pustular psoriasis,87,75,photodermatoses,Light
+melanoma,56,93,scleroderma,Light
+basal cell carcinoma,8,88,pyogenic granuloma,Light
+drug eruption,19,19,drug eruption,Dark
+lupus erythematosus,51,51,lupus erythematosus,Medium
+psoriasis,86,17,dermatomyositis,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+neurotic excoriations,67,5,actinic keratosis,Medium
+folliculitis,32,4,acrodermatitis enteropathica,Light
+milia,57,48,lichen planus,Light
+urticaria pigmentosa,110,110,urticaria pigmentosa,Medium
+melanoma,56,59,mucous cyst,Unknown
+photodermatoses,75,68,neutrophilic dermatoses,Light
+tungiasis,108,108,tungiasis,Medium
+cheilitis,13,76,pilar cyst,Light
+mucinosis,58,95,seborrheic dermatitis,Dark
+basal cell carcinoma,8,8,basal cell carcinoma,Light
+lichen planus,48,48,lichen planus,Dark
+scleroderma,93,41,juvenile xanthogranuloma,Medium
+mucous cyst,59,52,lupus subacute,Light
+basal cell carcinoma,8,97,solid cystic basal cell carcinoma,Medium
+rosacea,90,89,rhinophyma,Medium
+lichen planus,48,48,lichen planus,Medium
+naevus comedonicus,62,62,naevus comedonicus,Medium
+folliculitis,32,7,aplasia cutis,Medium
+lymphangioma,54,54,lymphangioma,Medium
+naevus comedonicus,62,62,naevus comedonicus,Dark
+squamous cell carcinoma,98,22,eczema,Dark
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Dark
+psoriasis,86,21,dyshidrotic eczema,Light
+neurofibromatosis,66,1,acne,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Medium
+acanthosis nigricans,0,49,lichen simplex,Light
+squamous cell carcinoma,98,64,nematode infection,Light
+acne vulgaris,2,2,acne vulgaris,Medium
+photodermatoses,75,4,acrodermatitis enteropathica,Light
+sarcoidosis,91,23,ehlers danlos syndrome,Dark
+syringoma,104,104,syringoma,Medium
+psoriasis,86,86,psoriasis,Medium
+tungiasis,108,108,tungiasis,Medium
+hidradenitis,38,38,hidradenitis,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Medium
+port wine stain,84,111,vitiligo,Light
+naevus comedonicus,62,62,naevus comedonicus,Light
+nematode infection,64,64,nematode infection,Dark
+lichen planus,48,28,erythema multiforme,Light
+keloid,43,43,keloid,Dark
+granuloma pyogenic,35,35,granuloma pyogenic,Medium
+sun damaged skin,102,53,lyme disease,Light
+pityriasis rosea,79,79,pityriasis rosea,Light
+epidermal nevus,24,24,epidermal nevus,Medium
+lichen planus,48,48,lichen planus,Dark
+melanoma,56,98,squamous cell carcinoma,Medium
+allergic contact dermatitis,6,22,eczema,Medium
+actinic keratosis,5,109,urticaria,Medium
+allergic contact dermatitis,6,28,erythema multiforme,Light
+drug eruption,19,95,seborrheic dermatitis,Medium
+tuberous sclerosis,107,107,tuberous sclerosis,Dark
+behcets disease,11,59,mucous cyst,Medium
+photodermatoses,75,75,photodermatoses,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Dark
+dermatomyositis,17,17,dermatomyositis,Medium
+psoriasis,86,48,lichen planus,Dark
+keloid,43,43,keloid,Medium
+drug eruption,19,44,keratosis pilaris,Medium
+erythema nodosum,29,109,urticaria,Light
+epidermolysis bullosa,25,64,nematode infection,Light
+mycosis fungoides,60,53,lyme disease,Dark
+basal cell carcinoma,8,8,basal cell carcinoma,Medium
+mycosis fungoides,60,63,necrobiosis lipoidica,Medium
+dyshidrotic eczema,21,64,nematode infection,Light
+psoriasis,86,22,eczema,Light
+eczema,22,22,eczema,Light
+congenital nevus,14,45,langerhans cell histiocytosis,Light
+rosacea,90,17,dermatomyositis,Light
+basal cell carcinoma,8,97,solid cystic basal cell carcinoma,Light
+urticaria,109,50,livedo reticularis,Medium
+telangiectases,105,17,dermatomyositis,Light
+granuloma pyogenic,35,64,nematode infection,Medium
+kaposi sarcoma,42,42,kaposi sarcoma,Dark
+acne vulgaris,2,2,acne vulgaris,Light
+prurigo nodularis,85,85,prurigo nodularis,Medium
+sarcoidosis,91,91,sarcoidosis,Medium
+livedo reticularis,50,17,dermatomyositis,Light
+acrodermatitis enteropathica,4,4,acrodermatitis enteropathica,Medium
+pityriasis lichenoides chronica,78,38,hidradenitis,Medium
+nematode infection,64,64,nematode infection,Medium
+psoriasis,86,68,neutrophilic dermatoses,Medium
+scabies,92,92,scabies,Light
+hailey hailey disease,36,36,hailey hailey disease,Medium
+juvenile xanthogranuloma,41,97,solid cystic basal cell carcinoma,Light
+lupus erythematosus,51,92,scabies,Light
+ichthyosis vulgaris,39,39,ichthyosis vulgaris,Medium
+scabies,92,92,scabies,Medium
+scleromyxedema,94,94,scleromyxedema,Medium
+neutrophilic dermatoses,68,98,squamous cell carcinoma,Light
+seborrheic dermatitis,95,79,pityriasis rosea,Medium
+acne,1,74,perioral dermatitis,Light
+myiasis,61,51,lupus erythematosus,Unknown
+pilar cyst,76,55,malignant melanoma,Light
+lichen amyloidosis,47,47,lichen amyloidosis,Dark
+basal cell carcinoma,8,82,porokeratosis of mibelli,Light
+lupus erythematosus,51,51,lupus erythematosus,Medium
+tungiasis,108,108,tungiasis,Medium
+urticaria pigmentosa,110,109,urticaria,Medium
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Dark
+psoriasis,86,83,porphyria,Medium
+acne,1,107,tuberous sclerosis,Medium
+photodermatoses,75,53,lyme disease,Medium
+urticaria,109,93,scleroderma,Light
+nematode infection,64,64,nematode infection,Medium
+nevocytic nevus,69,69,nevocytic nevus,Light
+disseminated actinic porokeratosis,18,18,disseminated actinic porokeratosis,Light
+xeroderma pigmentosum,113,34,granuloma annulare,Medium
+actinic keratosis,5,100,stevens johnson syndrome,Medium
+superficial spreading melanoma ssm,103,56,melanoma,Unknown
+eczema,22,99,stasis edema,Light
+nematode infection,64,64,nematode infection,Medium
+syringoma,104,104,syringoma,Light
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+psoriasis,86,21,dyshidrotic eczema,Dark
+nevus sebaceous of jadassohn,70,51,lupus erythematosus,Light
+hailey hailey disease,36,36,hailey hailey disease,Light
+photodermatoses,75,79,pityriasis rosea,Light
+telangiectases,105,80,pityriasis rubra pilaris,Light
+dyshidrotic eczema,21,54,lymphangioma,Light
+keloid,43,75,photodermatoses,Light
+lupus erythematosus,51,51,lupus erythematosus,Dark
+lymphangioma,54,54,lymphangioma,Unknown
+sun damaged skin,102,93,scleroderma,Light
+eczema,22,39,ichthyosis vulgaris,Light
+photodermatoses,75,110,urticaria pigmentosa,Light
+granuloma pyogenic,35,35,granuloma pyogenic,Medium
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+lupus erythematosus,51,51,lupus erythematosus,Dark
+folliculitis,32,32,folliculitis,Dark
+dermatomyositis,17,105,telangiectases,Light
+halo nevus,37,42,kaposi sarcoma,Medium
+tungiasis,108,108,tungiasis,Light
+cheilitis,13,51,lupus erythematosus,Light
+lyme disease,53,59,mucous cyst,Light
+folliculitis,32,4,acrodermatitis enteropathica,Light
+acne vulgaris,2,109,urticaria,Light
+striae,101,40,incontinentia pigmenti,Dark
+aplasia cutis,7,7,aplasia cutis,Light
+lyme disease,53,0,acanthosis nigricans,Light
+squamous cell carcinoma,98,110,urticaria pigmentosa,Light
+keloid,43,30,factitial dermatitis,Dark
+neutrophilic dermatoses,68,86,psoriasis,Light
+epidermal nevus,24,5,actinic keratosis,Light
+keloid,43,43,keloid,Light
+keloid,43,43,keloid,Medium
+lichen planus,48,2,acne vulgaris,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Medium
+sarcoidosis,91,52,lupus subacute,Light
+folliculitis,32,32,folliculitis,Dark
+erythema annulare centrifigum,26,28,erythema multiforme,Medium
+squamous cell carcinoma,98,8,basal cell carcinoma,Light
+dariers disease,15,15,dariers disease,Medium
+psoriasis,86,82,porokeratosis of mibelli,Light
+lupus erythematosus,51,90,rosacea,Dark
+fixed eruptions,31,31,fixed eruptions,Medium
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Medium
+eczema,22,60,mycosis fungoides,Light
+pityriasis rubra pilaris,80,80,pityriasis rubra pilaris,Dark
+drug eruption,19,100,stevens johnson syndrome,Light
+keratosis pilaris,44,94,scleromyxedema,Light
+melanoma,56,98,squamous cell carcinoma,Light
+disseminated actinic porokeratosis,18,18,disseminated actinic porokeratosis,Light
+melanoma,56,56,melanoma,Medium
+scabies,92,92,scabies,Light
+squamous cell carcinoma,98,93,scleroderma,Light
+urticaria pigmentosa,110,110,urticaria pigmentosa,Medium
+lupus erythematosus,51,51,lupus erythematosus,Dark
+porokeratosis of mibelli,82,4,acrodermatitis enteropathica,Medium
+epidermolysis bullosa,25,23,ehlers danlos syndrome,Medium
+dermatofibroma,16,16,dermatofibroma,Light
+neutrophilic dermatoses,68,68,neutrophilic dermatoses,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Medium
+allergic contact dermatitis,6,51,lupus erythematosus,Dark
+drug eruption,19,19,drug eruption,Medium
+incontinentia pigmenti,40,40,incontinentia pigmenti,Medium
+squamous cell carcinoma,98,45,langerhans cell histiocytosis,Dark
+psoriasis,86,86,psoriasis,Light
+eczema,22,22,eczema,Light
+lupus subacute,52,86,psoriasis,Light
+prurigo nodularis,85,93,scleroderma,Light
+myiasis,61,53,lyme disease,Medium
+actinic keratosis,5,5,actinic keratosis,Light
+allergic contact dermatitis,6,6,allergic contact dermatitis,Light
+epidermal nevus,24,40,incontinentia pigmenti,Light
+basal cell carcinoma,8,5,actinic keratosis,Medium
+mucinosis,58,53,lyme disease,Light
+scabies,92,90,rosacea,Light
+melanoma,56,86,psoriasis,Dark
+basal cell carcinoma,8,59,mucous cyst,Light
+photodermatoses,75,113,xeroderma pigmentosum,Dark
+acne,1,92,scabies,Light
+photodermatoses,75,79,pityriasis rosea,Light
+milia,57,57,milia,Medium
+langerhans cell histiocytosis,45,45,langerhans cell histiocytosis,Light
+porphyria,83,1,acne,Light
+necrobiosis lipoidica,63,63,necrobiosis lipoidica,Medium
+squamous cell carcinoma,98,13,cheilitis,Light
+neutrophilic dermatoses,68,19,drug eruption,Light
+tungiasis,108,108,tungiasis,Light
+lupus subacute,52,17,dermatomyositis,Medium
+squamous cell carcinoma,98,98,squamous cell carcinoma,Dark
+papilomatosis confluentes and reticulate,71,71,papilomatosis confluentes and reticulate,Medium
+pilomatricoma,77,41,juvenile xanthogranuloma,Medium
+sarcoidosis,91,91,sarcoidosis,Light
+lichen planus,48,48,lichen planus,Medium
+tuberous sclerosis,107,18,disseminated actinic porokeratosis,Dark
+prurigo nodularis,85,85,prurigo nodularis,Dark
+sarcoidosis,91,6,allergic contact dermatitis,Light
+erythema elevatum diutinum,27,27,erythema elevatum diutinum,Medium
+granuloma annulare,34,39,ichthyosis vulgaris,Medium
+melanoma,56,103,superficial spreading melanoma ssm,Light
+pilar cyst,76,29,erythema nodosum,Light
+fixed eruptions,31,28,erythema multiforme,Light
+dermatomyositis,17,51,lupus erythematosus,Medium
+photodermatoses,75,75,photodermatoses,Light
+acne,1,22,eczema,Light
+nevus sebaceous of jadassohn,70,97,solid cystic basal cell carcinoma,Light
+pilomatricoma,77,98,squamous cell carcinoma,Light
+granuloma annulare,34,34,granuloma annulare,Medium
+becker nevus,10,10,becker nevus,Light
+erythema annulare centrifigum,26,26,erythema annulare centrifigum,Light
+allergic contact dermatitis,6,26,erythema annulare centrifigum,Medium
+xanthomas,112,21,dyshidrotic eczema,Medium
+acne,1,68,neutrophilic dermatoses,Medium
+neurofibromatosis,66,66,neurofibromatosis,Dark
+neurofibromatosis,66,66,neurofibromatosis,Dark
+allergic contact dermatitis,6,51,lupus erythematosus,Light
+sarcoidosis,91,96,seborrheic keratosis,Light
+kaposi sarcoma,42,42,kaposi sarcoma,Medium
+eczema,22,13,cheilitis,Medium
+allergic contact dermatitis,6,6,allergic contact dermatitis,Dark
+malignant melanoma,55,8,basal cell carcinoma,Light
+malignant melanoma,55,108,tungiasis,Unknown
+psoriasis,86,17,dermatomyositis,Medium
+mucinosis,58,58,mucinosis,Light
+disseminated actinic porokeratosis,18,85,prurigo nodularis,Light
+tungiasis,108,108,tungiasis,Dark

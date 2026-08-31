@@ -1,0 +1,9 @@
+Model,Metric,Internal,DDI,Generalization Gap
+Baseline,Accuracy,44.5,9.05,-35.45
+Baseline,Balanced Accuracy,40.65,7.93,-32.72
+Baseline,Macro F1,40.51,10.24,-30.27
+Baseline,Weighted F1,43.56,13.02,-30.54
+M2,Accuracy,44.0098,10.0,-34.0098
+M2,Balanced Accuracy,41.5465,20.5647,-20.9818
+M2,Macro F1,40.1123,3.2453,-36.867
+M2,Weighted F1,43.8429,13.1444,-30.6985

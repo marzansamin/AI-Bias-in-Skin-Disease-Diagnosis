@@ -1,0 +1,32 @@
+{
+    "R1": {
+        "detected": true,
+        "severity": "Severe",
+        "mitigation": "M1 \u2014 Skin-tone Data Augmentation",
+        "fairness_improved": true,
+        "performance_acceptable": true,
+        "selected": true
+    },
+    "R2": {
+        "detected": true,
+        "severity": "Severe",
+        "mitigation": "M2 \u2014 Disease-class Adaptive Reweighting",
+        "fairness_improved": false,
+        "performance_acceptable": true,
+        "selected": false
+    },
+    "R3": {
+        "detected": false,
+        "severity": "Not Established",
+        "mitigation": "M3 \u2014 Pending external DDI validation",
+        "status": "Pending external DDI validation"
+    },
+    "combined": {
+        "mitigation": "M1 + M2",
+        "fairness_improved": true,
+        "performance_acceptable": false,
+        "selected": false
+    },
+    "final_selected_strategy": "M1 \u2014 Skin-tone Data Augmentation",
+    "decision_rule": "Fairness improvement must be accompanied by acceptable overall performance."
+}

@@ -1,0 +1,3 @@
+comparison,best_group,worst_group,gap,gap_percentage_points
+Best vs Worst Accuracy,Medium,Light,0.24358594202284628,24.35859420228463
+Best vs Worst Macro F1,Medium,Unknown,0.2828198965889452,28.281989658894517

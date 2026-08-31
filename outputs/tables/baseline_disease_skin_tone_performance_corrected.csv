@@ -1,0 +1,457 @@
+class_id,disease,skin_tone_group,support,correct,incorrect,accuracy,error_rate
+0,acanthosis nigricans,Light,3,2,1,0.6666666666666666,0.3333333333333333
+0,acanthosis nigricans,Medium,6,5,1,0.8333333333333334,0.1666666666666666
+0,acanthosis nigricans,Dark,4,1,3,0.25,0.75
+0,acanthosis nigricans,Unknown,0,0,0,,
+1,acne,Light,17,1,16,0.0588235294117647,0.9411764705882352
+1,acne,Medium,8,1,7,0.125,0.875
+1,acne,Dark,2,1,1,0.5,0.5
+1,acne,Unknown,0,0,0,,
+2,acne vulgaris,Light,33,22,11,0.6666666666666666,0.3333333333333333
+2,acne vulgaris,Medium,14,10,4,0.7142857142857143,0.2857142857142857
+2,acne vulgaris,Dark,4,0,4,0.0,1.0
+2,acne vulgaris,Unknown,0,0,0,,
+3,acquired autoimmune bullous diseaseherpes gestationis,Light,7,1,6,0.1428571428571428,0.8571428571428572
+3,acquired autoimmune bullous diseaseherpes gestationis,Medium,3,0,3,0.0,1.0
+3,acquired autoimmune bullous diseaseherpes gestationis,Dark,0,0,0,,
+3,acquired autoimmune bullous diseaseherpes gestationis,Unknown,0,0,0,,
+4,acrodermatitis enteropathica,Light,7,2,5,0.2857142857142857,0.7142857142857143
+4,acrodermatitis enteropathica,Medium,6,4,2,0.6666666666666666,0.3333333333333333
+4,acrodermatitis enteropathica,Dark,1,0,1,0.0,1.0
+4,acrodermatitis enteropathica,Unknown,0,0,0,,
+5,actinic keratosis,Light,16,5,11,0.3125,0.6875
+5,actinic keratosis,Medium,7,1,6,0.1428571428571428,0.8571428571428572
+5,actinic keratosis,Dark,2,2,0,1.0,0.0
+5,actinic keratosis,Unknown,1,0,1,0.0,1.0
+6,allergic contact dermatitis,Light,39,11,28,0.282051282051282,0.717948717948718
+6,allergic contact dermatitis,Medium,20,9,11,0.45,0.55
+6,allergic contact dermatitis,Dark,4,3,1,0.75,0.25
+6,allergic contact dermatitis,Unknown,1,1,0,1.0,0.0
+7,aplasia cutis,Light,8,3,5,0.375,0.625
+7,aplasia cutis,Medium,1,1,0,1.0,0.0
+7,aplasia cutis,Dark,0,0,0,,
+7,aplasia cutis,Unknown,1,0,1,0.0,1.0
+8,basal cell carcinoma,Light,36,12,24,0.3333333333333333,0.6666666666666667
+8,basal cell carcinoma,Medium,28,13,15,0.4642857142857143,0.5357142857142857
+8,basal cell carcinoma,Dark,5,2,3,0.4,0.6
+8,basal cell carcinoma,Unknown,1,1,0,1.0,0.0
+9,basal cell carcinoma morpheiform,Light,8,1,7,0.125,0.875
+9,basal cell carcinoma morpheiform,Medium,1,0,1,0.0,1.0
+9,basal cell carcinoma morpheiform,Dark,0,0,0,,
+9,basal cell carcinoma morpheiform,Unknown,0,0,0,,
+10,becker nevus,Light,7,5,2,0.7142857142857143,0.2857142857142857
+10,becker nevus,Medium,3,1,2,0.3333333333333333,0.6666666666666667
+10,becker nevus,Dark,0,0,0,,
+10,becker nevus,Unknown,0,0,0,,
+11,behcets disease,Light,3,1,2,0.3333333333333333,0.6666666666666667
+11,behcets disease,Medium,4,2,2,0.5,0.5
+11,behcets disease,Dark,1,0,1,0.0,1.0
+11,behcets disease,Unknown,0,0,0,,
+12,calcinosis cutis,Light,8,2,6,0.25,0.75
+12,calcinosis cutis,Medium,2,1,1,0.5,0.5
+12,calcinosis cutis,Dark,2,1,1,0.5,0.5
+12,calcinosis cutis,Unknown,0,0,0,,
+13,cheilitis,Light,8,2,6,0.25,0.75
+13,cheilitis,Medium,5,1,4,0.2,0.8
+13,cheilitis,Dark,1,1,0,1.0,0.0
+13,cheilitis,Unknown,1,1,0,1.0,0.0
+14,congenital nevus,Light,6,1,5,0.1666666666666666,0.8333333333333334
+14,congenital nevus,Medium,4,3,1,0.75,0.25
+14,congenital nevus,Dark,0,0,0,,
+14,congenital nevus,Unknown,0,0,0,,
+15,dariers disease,Light,8,0,8,0.0,1.0
+15,dariers disease,Medium,8,0,8,0.0,1.0
+15,dariers disease,Dark,6,0,6,0.0,1.0
+15,dariers disease,Unknown,0,0,0,,
+16,dermatofibroma,Light,7,3,4,0.4285714285714285,0.5714285714285714
+16,dermatofibroma,Medium,5,2,3,0.4,0.6
+16,dermatofibroma,Dark,0,0,0,,
+16,dermatofibroma,Unknown,0,0,0,,
+17,dermatomyositis,Light,12,2,10,0.1666666666666666,0.8333333333333334
+17,dermatomyositis,Medium,7,6,1,0.8571428571428571,0.1428571428571429
+17,dermatomyositis,Dark,2,0,2,0.0,1.0
+17,dermatomyositis,Unknown,0,0,0,,
+18,disseminated actinic porokeratosis,Light,7,3,4,0.4285714285714285,0.5714285714285714
+18,disseminated actinic porokeratosis,Medium,2,2,0,1.0,0.0
+18,disseminated actinic porokeratosis,Dark,0,0,0,,
+18,disseminated actinic porokeratosis,Unknown,0,0,0,,
+19,drug eruption,Light,16,4,12,0.25,0.75
+19,drug eruption,Medium,10,4,6,0.4,0.6
+19,drug eruption,Dark,4,1,3,0.25,0.75
+19,drug eruption,Unknown,0,0,0,,
+20,drug induced pigmentary changes,Light,4,0,4,0.0,1.0
+20,drug induced pigmentary changes,Medium,5,0,5,0.0,1.0
+20,drug induced pigmentary changes,Dark,1,0,1,0.0,1.0
+20,drug induced pigmentary changes,Unknown,0,0,0,,
+21,dyshidrotic eczema,Light,7,0,7,0.0,1.0
+21,dyshidrotic eczema,Medium,3,1,2,0.3333333333333333,0.6666666666666667
+21,dyshidrotic eczema,Dark,1,0,1,0.0,1.0
+21,dyshidrotic eczema,Unknown,0,0,0,,
+22,eczema,Light,17,3,14,0.1764705882352941,0.8235294117647058
+22,eczema,Medium,9,1,8,0.1111111111111111,0.8888888888888888
+22,eczema,Dark,3,0,3,0.0,1.0
+22,eczema,Unknown,0,0,0,,
+23,ehlers danlos syndrome,Light,6,4,2,0.6666666666666666,0.3333333333333333
+23,ehlers danlos syndrome,Medium,8,7,1,0.875,0.125
+23,ehlers danlos syndrome,Dark,6,6,0,1.0,0.0
+23,ehlers danlos syndrome,Unknown,0,0,0,,
+24,epidermal nevus,Light,10,4,6,0.4,0.6
+24,epidermal nevus,Medium,3,2,1,0.6666666666666666,0.3333333333333333
+24,epidermal nevus,Dark,1,0,1,0.0,1.0
+24,epidermal nevus,Unknown,0,0,0,,
+25,epidermolysis bullosa,Light,5,0,5,0.0,1.0
+25,epidermolysis bullosa,Medium,3,0,3,0.0,1.0
+25,epidermolysis bullosa,Dark,2,0,2,0.0,1.0
+25,epidermolysis bullosa,Unknown,0,0,0,,
+26,erythema annulare centrifigum,Light,6,4,2,0.6666666666666666,0.3333333333333333
+26,erythema annulare centrifigum,Medium,7,2,5,0.2857142857142857,0.7142857142857143
+26,erythema annulare centrifigum,Dark,0,0,0,,
+26,erythema annulare centrifigum,Unknown,0,0,0,,
+27,erythema elevatum diutinum,Light,2,0,2,0.0,1.0
+27,erythema elevatum diutinum,Medium,4,4,0,1.0,0.0
+27,erythema elevatum diutinum,Dark,2,0,2,0.0,1.0
+27,erythema elevatum diutinum,Unknown,0,0,0,,
+28,erythema multiforme,Light,17,7,10,0.4117647058823529,0.5882352941176471
+28,erythema multiforme,Medium,15,8,7,0.5333333333333333,0.4666666666666667
+28,erythema multiforme,Dark,3,0,3,0.0,1.0
+28,erythema multiforme,Unknown,0,0,0,,
+29,erythema nodosum,Light,7,3,4,0.4285714285714285,0.5714285714285714
+29,erythema nodosum,Medium,4,2,2,0.5,0.5
+29,erythema nodosum,Dark,0,0,0,,
+29,erythema nodosum,Unknown,0,0,0,,
+30,factitial dermatitis,Light,4,0,4,0.0,1.0
+30,factitial dermatitis,Medium,2,1,1,0.5,0.5
+30,factitial dermatitis,Dark,3,3,0,1.0,0.0
+30,factitial dermatitis,Unknown,0,0,0,,
+31,fixed eruptions,Light,6,1,5,0.1666666666666666,0.8333333333333334
+31,fixed eruptions,Medium,8,3,5,0.375,0.625
+31,fixed eruptions,Dark,4,1,3,0.25,0.75
+31,fixed eruptions,Unknown,0,0,0,,
+32,folliculitis,Light,19,13,6,0.6842105263157895,0.3157894736842105
+32,folliculitis,Medium,22,18,4,0.8181818181818182,0.1818181818181817
+32,folliculitis,Dark,6,5,1,0.8333333333333334,0.1666666666666666
+32,folliculitis,Unknown,4,2,2,0.5,0.5
+33,fordyce spots,Light,7,5,2,0.7142857142857143,0.2857142857142857
+33,fordyce spots,Medium,7,5,2,0.7142857142857143,0.2857142857142857
+33,fordyce spots,Dark,0,0,0,,
+33,fordyce spots,Unknown,2,1,1,0.5,0.5
+34,granuloma annulare,Light,14,1,13,0.0714285714285714,0.9285714285714286
+34,granuloma annulare,Medium,15,8,7,0.5333333333333333,0.4666666666666667
+34,granuloma annulare,Dark,3,0,3,0.0,1.0
+34,granuloma annulare,Unknown,0,0,0,,
+35,granuloma pyogenic,Light,6,3,3,0.5,0.5
+35,granuloma pyogenic,Medium,4,3,1,0.75,0.25
+35,granuloma pyogenic,Dark,0,0,0,,
+35,granuloma pyogenic,Unknown,1,0,1,0.0,1.0
+36,hailey hailey disease,Light,10,6,4,0.6,0.4
+36,hailey hailey disease,Medium,15,13,2,0.8666666666666667,0.1333333333333333
+36,hailey hailey disease,Dark,2,2,0,1.0,0.0
+36,hailey hailey disease,Unknown,0,0,0,,
+37,halo nevus,Light,3,1,2,0.3333333333333333,0.6666666666666667
+37,halo nevus,Medium,6,2,4,0.3333333333333333,0.6666666666666667
+37,halo nevus,Dark,2,2,0,1.0,0.0
+37,halo nevus,Unknown,0,0,0,,
+38,hidradenitis,Light,6,1,5,0.1666666666666666,0.8333333333333334
+38,hidradenitis,Medium,7,5,2,0.7142857142857143,0.2857142857142857
+38,hidradenitis,Dark,2,0,2,0.0,1.0
+38,hidradenitis,Unknown,0,0,0,,
+39,ichthyosis vulgaris,Light,3,0,3,0.0,1.0
+39,ichthyosis vulgaris,Medium,4,1,3,0.25,0.75
+39,ichthyosis vulgaris,Dark,2,0,2,0.0,1.0
+39,ichthyosis vulgaris,Unknown,0,0,0,,
+40,incontinentia pigmenti,Light,9,4,5,0.4444444444444444,0.5555555555555556
+40,incontinentia pigmenti,Medium,6,3,3,0.5,0.5
+40,incontinentia pigmenti,Dark,0,0,0,,
+40,incontinentia pigmenti,Unknown,0,0,0,,
+41,juvenile xanthogranuloma,Light,15,7,8,0.4666666666666667,0.5333333333333333
+41,juvenile xanthogranuloma,Medium,5,3,2,0.6,0.4
+41,juvenile xanthogranuloma,Dark,2,0,2,0.0,1.0
+41,juvenile xanthogranuloma,Unknown,0,0,0,,
+42,kaposi sarcoma,Light,6,0,6,0.0,1.0
+42,kaposi sarcoma,Medium,10,9,1,0.9,0.0999999999999999
+42,kaposi sarcoma,Dark,5,2,3,0.4,0.6
+42,kaposi sarcoma,Unknown,0,0,0,,
+43,keloid,Light,8,5,3,0.625,0.375
+43,keloid,Medium,8,6,2,0.75,0.25
+43,keloid,Dark,6,5,1,0.8333333333333334,0.1666666666666666
+43,keloid,Unknown,0,0,0,,
+44,keratosis pilaris,Light,7,1,6,0.1428571428571428,0.8571428571428572
+44,keratosis pilaris,Medium,5,1,4,0.2,0.8
+44,keratosis pilaris,Dark,0,0,0,,
+44,keratosis pilaris,Unknown,0,0,0,,
+45,langerhans cell histiocytosis,Light,6,5,1,0.8333333333333334,0.1666666666666666
+45,langerhans cell histiocytosis,Medium,2,1,1,0.5,0.5
+45,langerhans cell histiocytosis,Dark,1,0,1,0.0,1.0
+45,langerhans cell histiocytosis,Unknown,0,0,0,,
+46,lentigo maligna,Light,6,4,2,0.6666666666666666,0.3333333333333333
+46,lentigo maligna,Medium,6,4,2,0.6666666666666666,0.3333333333333333
+46,lentigo maligna,Dark,0,0,0,,
+46,lentigo maligna,Unknown,1,0,1,0.0,1.0
+47,lichen amyloidosis,Light,3,1,2,0.3333333333333333,0.6666666666666667
+47,lichen amyloidosis,Medium,3,0,3,0.0,1.0
+47,lichen amyloidosis,Dark,5,5,0,1.0,0.0
+47,lichen amyloidosis,Unknown,0,0,0,,
+48,lichen planus,Light,23,4,19,0.1739130434782608,0.8260869565217391
+48,lichen planus,Medium,31,21,10,0.6774193548387096,0.3225806451612903
+48,lichen planus,Dark,18,12,6,0.6666666666666666,0.3333333333333333
+48,lichen planus,Unknown,2,0,2,0.0,1.0
+49,lichen simplex,Light,4,3,1,0.75,0.25
+49,lichen simplex,Medium,6,3,3,0.5,0.5
+49,lichen simplex,Dark,4,2,2,0.5,0.5
+49,lichen simplex,Unknown,0,0,0,,
+50,livedo reticularis,Light,5,2,3,0.4,0.6
+50,livedo reticularis,Medium,4,3,1,0.75,0.25
+50,livedo reticularis,Dark,0,0,0,,
+50,livedo reticularis,Unknown,0,0,0,,
+51,lupus erythematosus,Light,23,5,18,0.217391304347826,0.782608695652174
+51,lupus erythematosus,Medium,23,13,10,0.5652173913043478,0.4347826086956522
+51,lupus erythematosus,Dark,14,10,4,0.7142857142857143,0.2857142857142857
+51,lupus erythematosus,Unknown,2,1,1,0.5,0.5
+52,lupus subacute,Light,10,0,10,0.0,1.0
+52,lupus subacute,Medium,4,0,4,0.0,1.0
+52,lupus subacute,Dark,2,1,1,0.5,0.5
+52,lupus subacute,Unknown,0,0,0,,
+53,lyme disease,Light,13,7,6,0.5384615384615384,0.4615384615384615
+53,lyme disease,Medium,6,4,2,0.6666666666666666,0.3333333333333333
+53,lyme disease,Dark,0,0,0,,
+53,lyme disease,Unknown,0,0,0,,
+54,lymphangioma,Light,7,0,7,0.0,1.0
+54,lymphangioma,Medium,5,2,3,0.4,0.6
+54,lymphangioma,Dark,1,0,1,0.0,1.0
+54,lymphangioma,Unknown,1,0,1,0.0,1.0
+55,malignant melanoma,Light,12,2,10,0.1666666666666666,0.8333333333333334
+55,malignant melanoma,Medium,4,2,2,0.5,0.5
+55,malignant melanoma,Dark,0,0,0,,
+55,malignant melanoma,Unknown,1,0,1,0.0,1.0
+56,melanoma,Light,19,4,15,0.2105263157894736,0.7894736842105263
+56,melanoma,Medium,13,6,7,0.4615384615384615,0.5384615384615384
+56,melanoma,Dark,5,2,3,0.4,0.6
+56,melanoma,Unknown,3,0,3,0.0,1.0
+57,milia,Light,10,1,9,0.1,0.9
+57,milia,Medium,6,4,2,0.6666666666666666,0.3333333333333333
+57,milia,Dark,1,1,0,1.0,0.0
+57,milia,Unknown,0,0,0,,
+58,mucinosis,Light,7,1,6,0.1428571428571428,0.8571428571428572
+58,mucinosis,Medium,4,2,2,0.5,0.5
+58,mucinosis,Dark,2,1,1,0.5,0.5
+58,mucinosis,Unknown,0,0,0,,
+59,mucous cyst,Light,6,1,5,0.1666666666666666,0.8333333333333334
+59,mucous cyst,Medium,4,2,2,0.5,0.5
+59,mucous cyst,Dark,2,0,2,0.0,1.0
+59,mucous cyst,Unknown,1,1,0,1.0,0.0
+60,mycosis fungoides,Light,13,4,9,0.3076923076923077,0.6923076923076923
+60,mycosis fungoides,Medium,10,7,3,0.7,0.3
+60,mycosis fungoides,Dark,3,0,3,0.0,1.0
+60,mycosis fungoides,Unknown,1,0,1,0.0,1.0
+61,myiasis,Light,2,1,1,0.5,0.5
+61,myiasis,Medium,4,3,1,0.75,0.25
+61,myiasis,Dark,1,0,1,0.0,1.0
+61,myiasis,Unknown,2,0,2,0.0,1.0
+62,naevus comedonicus,Light,3,1,2,0.3333333333333333,0.6666666666666667
+62,naevus comedonicus,Medium,5,2,3,0.4,0.6
+62,naevus comedonicus,Dark,2,2,0,1.0,0.0
+62,naevus comedonicus,Unknown,0,0,0,,
+63,necrobiosis lipoidica,Light,8,4,4,0.5,0.5
+63,necrobiosis lipoidica,Medium,8,5,3,0.625,0.375
+63,necrobiosis lipoidica,Dark,2,2,0,1.0,0.0
+63,necrobiosis lipoidica,Unknown,0,0,0,,
+64,nematode infection,Light,10,7,3,0.7,0.3
+64,nematode infection,Medium,21,17,4,0.8095238095238095,0.1904761904761904
+64,nematode infection,Dark,6,5,1,0.8333333333333334,0.1666666666666666
+64,nematode infection,Unknown,1,0,1,0.0,1.0
+65,neurodermatitis,Light,7,0,7,0.0,1.0
+65,neurodermatitis,Medium,3,0,3,0.0,1.0
+65,neurodermatitis,Dark,0,0,0,,
+65,neurodermatitis,Unknown,1,0,1,0.0,1.0
+66,neurofibromatosis,Light,6,0,6,0.0,1.0
+66,neurofibromatosis,Medium,10,5,5,0.5,0.5
+66,neurofibromatosis,Dark,11,9,2,0.8181818181818182,0.1818181818181817
+66,neurofibromatosis,Unknown,0,0,0,,
+67,neurotic excoriations,Light,5,1,4,0.2,0.8
+67,neurotic excoriations,Medium,6,1,5,0.1666666666666666,0.8333333333333334
+67,neurotic excoriations,Dark,0,0,0,,
+67,neurotic excoriations,Unknown,0,0,0,,
+68,neutrophilic dermatoses,Light,28,12,16,0.4285714285714285,0.5714285714285714
+68,neutrophilic dermatoses,Medium,18,13,5,0.7222222222222222,0.2777777777777778
+68,neutrophilic dermatoses,Dark,7,4,3,0.5714285714285714,0.4285714285714286
+68,neutrophilic dermatoses,Unknown,2,1,1,0.5,0.5
+69,nevocytic nevus,Light,10,3,7,0.3,0.7
+69,nevocytic nevus,Medium,2,1,1,0.5,0.5
+69,nevocytic nevus,Dark,0,0,0,,
+69,nevocytic nevus,Unknown,0,0,0,,
+70,nevus sebaceous of jadassohn,Light,9,2,7,0.2222222222222222,0.7777777777777778
+70,nevus sebaceous of jadassohn,Medium,3,0,3,0.0,1.0
+70,nevus sebaceous of jadassohn,Dark,1,0,1,0.0,1.0
+70,nevus sebaceous of jadassohn,Unknown,1,0,1,0.0,1.0
+71,papilomatosis confluentes and reticulate,Light,4,3,1,0.75,0.25
+71,papilomatosis confluentes and reticulate,Medium,13,11,2,0.8461538461538461,0.1538461538461538
+71,papilomatosis confluentes and reticulate,Dark,6,6,0,1.0,0.0
+71,papilomatosis confluentes and reticulate,Unknown,0,0,0,,
+72,paronychia,Light,6,2,4,0.3333333333333333,0.6666666666666667
+72,paronychia,Medium,2,0,2,0.0,1.0
+72,paronychia,Dark,0,0,0,,
+72,paronychia,Unknown,0,0,0,,
+73,pediculosis lids,Light,8,8,0,1.0,0.0
+73,pediculosis lids,Medium,8,8,0,1.0,0.0
+73,pediculosis lids,Dark,0,0,0,,
+73,pediculosis lids,Unknown,6,4,2,0.6666666666666666,0.3333333333333333
+74,perioral dermatitis,Light,7,2,5,0.2857142857142857,0.7142857142857143
+74,perioral dermatitis,Medium,2,0,2,0.0,1.0
+74,perioral dermatitis,Dark,0,0,0,,
+74,perioral dermatitis,Unknown,0,0,0,,
+75,photodermatoses,Light,28,4,24,0.1428571428571428,0.8571428571428572
+75,photodermatoses,Medium,20,8,12,0.4,0.6
+75,photodermatoses,Dark,3,0,3,0.0,1.0
+75,photodermatoses,Unknown,0,0,0,,
+76,pilar cyst,Light,7,1,6,0.1428571428571428,0.8571428571428572
+76,pilar cyst,Medium,5,3,2,0.6,0.4
+76,pilar cyst,Dark,2,2,0,1.0,0.0
+76,pilar cyst,Unknown,0,0,0,,
+77,pilomatricoma,Light,6,2,4,0.3333333333333333,0.6666666666666667
+77,pilomatricoma,Medium,2,1,1,0.5,0.5
+77,pilomatricoma,Dark,0,0,0,,
+77,pilomatricoma,Unknown,0,0,0,,
+78,pityriasis lichenoides chronica,Light,6,4,2,0.6666666666666666,0.3333333333333333
+78,pityriasis lichenoides chronica,Medium,4,3,1,0.75,0.25
+78,pityriasis lichenoides chronica,Dark,0,0,0,,
+78,pityriasis lichenoides chronica,Unknown,0,0,0,,
+79,pityriasis rosea,Light,8,3,5,0.375,0.625
+79,pityriasis rosea,Medium,16,11,5,0.6875,0.3125
+79,pityriasis rosea,Dark,4,2,2,0.5,0.5
+79,pityriasis rosea,Unknown,0,0,0,,
+80,pityriasis rubra pilaris,Light,3,0,3,0.0,1.0
+80,pityriasis rubra pilaris,Medium,18,16,2,0.8888888888888888,0.1111111111111111
+80,pityriasis rubra pilaris,Dark,19,18,1,0.9473684210526316,0.0526315789473684
+80,pityriasis rubra pilaris,Unknown,1,1,0,1.0,0.0
+81,porokeratosis actinic,Light,5,4,1,0.8,0.1999999999999999
+81,porokeratosis actinic,Medium,20,16,4,0.8,0.1999999999999999
+81,porokeratosis actinic,Dark,2,2,0,1.0,0.0
+81,porokeratosis actinic,Unknown,0,0,0,,
+82,porokeratosis of mibelli,Light,6,2,4,0.3333333333333333,0.6666666666666667
+82,porokeratosis of mibelli,Medium,5,3,2,0.6,0.4
+82,porokeratosis of mibelli,Dark,0,0,0,,
+82,porokeratosis of mibelli,Unknown,0,0,0,,
+83,porphyria,Light,7,1,6,0.1428571428571428,0.8571428571428572
+83,porphyria,Medium,10,3,7,0.3,0.7
+83,porphyria,Dark,2,0,2,0.0,1.0
+83,porphyria,Unknown,0,0,0,,
+84,port wine stain,Light,5,1,4,0.2,0.8
+84,port wine stain,Medium,3,1,2,0.3333333333333333,0.6666666666666667
+84,port wine stain,Dark,1,0,1,0.0,1.0
+84,port wine stain,Unknown,0,0,0,,
+85,prurigo nodularis,Light,6,3,3,0.5,0.5
+85,prurigo nodularis,Medium,14,13,1,0.9285714285714286,0.0714285714285714
+85,prurigo nodularis,Dark,5,2,3,0.4,0.6
+85,prurigo nodularis,Unknown,0,0,0,,
+86,psoriasis,Light,52,23,29,0.4423076923076923,0.5576923076923077
+86,psoriasis,Medium,29,15,14,0.5172413793103449,0.4827586206896551
+86,psoriasis,Dark,13,7,6,0.5384615384615384,0.4615384615384615
+86,psoriasis,Unknown,5,2,3,0.4,0.6
+87,pustular psoriasis,Light,5,1,4,0.2,0.8
+87,pustular psoriasis,Medium,2,0,2,0.0,1.0
+87,pustular psoriasis,Dark,1,0,1,0.0,1.0
+87,pustular psoriasis,Unknown,0,0,0,,
+88,pyogenic granuloma,Light,12,1,11,0.0833333333333333,0.9166666666666666
+88,pyogenic granuloma,Medium,5,1,4,0.2,0.8
+88,pyogenic granuloma,Dark,1,1,0,1.0,0.0
+88,pyogenic granuloma,Unknown,0,0,0,,
+89,rhinophyma,Light,8,5,3,0.625,0.375
+89,rhinophyma,Medium,6,5,1,0.8333333333333334,0.1666666666666666
+89,rhinophyma,Dark,0,0,0,,
+89,rhinophyma,Unknown,0,0,0,,
+90,rosacea,Light,11,2,9,0.1818181818181818,0.8181818181818181
+90,rosacea,Medium,4,1,3,0.25,0.75
+90,rosacea,Dark,0,0,0,,
+90,rosacea,Unknown,0,0,0,,
+91,sarcoidosis,Light,26,8,18,0.3076923076923077,0.6923076923076923
+91,sarcoidosis,Medium,16,7,9,0.4375,0.5625
+91,sarcoidosis,Dark,7,1,6,0.1428571428571428,0.8571428571428572
+91,sarcoidosis,Unknown,2,0,2,0.0,1.0
+92,scabies,Light,16,5,11,0.3125,0.6875
+92,scabies,Medium,20,15,5,0.75,0.25
+92,scabies,Dark,11,8,3,0.7272727272727273,0.2727272727272727
+92,scabies,Unknown,4,2,2,0.5,0.5
+93,scleroderma,Light,25,3,22,0.12,0.88
+93,scleroderma,Medium,13,5,8,0.3846153846153846,0.6153846153846154
+93,scleroderma,Dark,7,6,1,0.8571428571428571,0.1428571428571429
+93,scleroderma,Unknown,2,0,2,0.0,1.0
+94,scleromyxedema,Light,5,1,4,0.2,0.8
+94,scleromyxedema,Medium,8,5,3,0.625,0.375
+94,scleromyxedema,Dark,2,1,1,0.5,0.5
+94,scleromyxedema,Unknown,0,0,0,,
+95,seborrheic dermatitis,Light,11,4,7,0.3636363636363636,0.6363636363636364
+95,seborrheic dermatitis,Medium,7,5,2,0.7142857142857143,0.2857142857142857
+95,seborrheic dermatitis,Dark,1,0,1,0.0,1.0
+95,seborrheic dermatitis,Unknown,0,0,0,,
+96,seborrheic keratosis,Light,7,2,5,0.2857142857142857,0.7142857142857143
+96,seborrheic keratosis,Medium,2,0,2,0.0,1.0
+96,seborrheic keratosis,Dark,2,0,2,0.0,1.0
+96,seborrheic keratosis,Unknown,0,0,0,,
+97,solid cystic basal cell carcinoma,Light,7,1,6,0.1428571428571428,0.8571428571428572
+97,solid cystic basal cell carcinoma,Medium,2,0,2,0.0,1.0
+97,solid cystic basal cell carcinoma,Dark,0,0,0,,
+97,solid cystic basal cell carcinoma,Unknown,0,0,0,,
+98,squamous cell carcinoma,Light,42,14,28,0.3333333333333333,0.6666666666666667
+98,squamous cell carcinoma,Medium,29,20,9,0.6896551724137931,0.3103448275862068
+98,squamous cell carcinoma,Dark,10,5,5,0.5,0.5
+98,squamous cell carcinoma,Unknown,7,2,5,0.2857142857142857,0.7142857142857143
+99,stasis edema,Light,4,0,4,0.0,1.0
+99,stasis edema,Medium,2,0,2,0.0,1.0
+99,stasis edema,Dark,2,1,1,0.5,0.5
+99,stasis edema,Unknown,1,0,1,0.0,1.0
+100,stevens johnson syndrome,Light,12,4,8,0.3333333333333333,0.6666666666666667
+100,stevens johnson syndrome,Medium,4,1,3,0.25,0.75
+100,stevens johnson syndrome,Dark,1,0,1,0.0,1.0
+100,stevens johnson syndrome,Unknown,0,0,0,,
+101,striae,Light,6,1,5,0.1666666666666666,0.8333333333333334
+101,striae,Medium,3,1,2,0.3333333333333333,0.6666666666666667
+101,striae,Dark,1,0,1,0.0,1.0
+101,striae,Unknown,0,0,0,,
+102,sun damaged skin,Light,5,1,4,0.2,0.8
+102,sun damaged skin,Medium,3,0,3,0.0,1.0
+102,sun damaged skin,Dark,1,0,1,0.0,1.0
+102,sun damaged skin,Unknown,0,0,0,,
+103,superficial spreading melanoma ssm,Light,14,8,6,0.5714285714285714,0.4285714285714286
+103,superficial spreading melanoma ssm,Medium,3,1,2,0.3333333333333333,0.6666666666666667
+103,superficial spreading melanoma ssm,Dark,0,0,0,,
+103,superficial spreading melanoma ssm,Unknown,1,0,1,0.0,1.0
+104,syringoma,Light,7,6,1,0.8571428571428571,0.1428571428571429
+104,syringoma,Medium,9,6,3,0.6666666666666666,0.3333333333333333
+104,syringoma,Dark,2,1,1,0.5,0.5
+104,syringoma,Unknown,0,0,0,,
+105,telangiectases,Light,11,2,9,0.1818181818181818,0.8181818181818181
+105,telangiectases,Medium,5,0,5,0.0,1.0
+105,telangiectases,Dark,1,1,0,1.0,0.0
+105,telangiectases,Unknown,1,0,1,0.0,1.0
+106,tick bite,Light,7,0,7,0.0,1.0
+106,tick bite,Medium,2,1,1,0.5,0.5
+106,tick bite,Dark,1,0,1,0.0,1.0
+106,tick bite,Unknown,0,0,0,,
+107,tuberous sclerosis,Light,6,2,4,0.3333333333333333,0.6666666666666667
+107,tuberous sclerosis,Medium,12,7,5,0.5833333333333334,0.4166666666666666
+107,tuberous sclerosis,Dark,3,2,1,0.6666666666666666,0.3333333333333333
+107,tuberous sclerosis,Unknown,0,0,0,,
+108,tungiasis,Light,7,7,0,1.0,0.0
+108,tungiasis,Medium,10,10,0,1.0,0.0
+108,tungiasis,Dark,3,3,0,1.0,0.0
+108,tungiasis,Unknown,3,2,1,0.6666666666666666,0.3333333333333333
+109,urticaria,Light,11,3,8,0.2727272727272727,0.7272727272727273
+109,urticaria,Medium,12,9,3,0.75,0.25
+109,urticaria,Dark,0,0,0,,
+109,urticaria,Unknown,0,0,0,,
+110,urticaria pigmentosa,Light,10,1,9,0.1,0.9
+110,urticaria pigmentosa,Medium,5,3,2,0.6,0.4
+110,urticaria pigmentosa,Dark,2,1,1,0.5,0.5
+110,urticaria pigmentosa,Unknown,0,0,0,,
+111,vitiligo,Light,3,1,2,0.3333333333333333,0.6666666666666667
+111,vitiligo,Medium,11,7,4,0.6363636363636364,0.3636363636363636
+111,vitiligo,Dark,9,5,4,0.5555555555555556,0.4444444444444444
+111,vitiligo,Unknown,1,0,1,0.0,1.0
+112,xanthomas,Light,3,0,3,0.0,1.0
+112,xanthomas,Medium,4,0,4,0.0,1.0
+112,xanthomas,Dark,1,0,1,0.0,1.0
+112,xanthomas,Unknown,0,0,0,,
+113,xeroderma pigmentosum,Light,1,0,1,0.0,1.0
+113,xeroderma pigmentosum,Medium,5,3,2,0.6,0.4
+113,xeroderma pigmentosum,Dark,5,4,1,0.8,0.1999999999999999
+113,xeroderma pigmentosum,Unknown,0,0,0,,

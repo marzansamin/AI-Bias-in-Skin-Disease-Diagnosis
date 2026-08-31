@@ -1,0 +1,15 @@
+metric,value
+best_validation_loss,2.5520922554189163
+best_validation_loss_epoch,10.0
+best_validation_accuracy,0.4337445284520493
+best_validation_accuracy_epoch,10.0
+final_train_loss,1.3207422100348385
+final_validation_loss,2.5520922554189163
+final_train_accuracy,0.6804514517101748
+final_validation_accuracy,0.4337445284520493
+final_accuracy_gap_percentage_points,24.670692325812553
+final_loss_gap,1.2313500453840778
+training_loss_reduction,2.343604520426719
+validation_loss_reduction,0.9116074480101539
+training_accuracy_gain_percentage_points,49.935383820108555
+validation_accuracy_gain_percentage_points,22.32391563867887

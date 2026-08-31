@@ -1,0 +1,5 @@
+Mitigation,Dataset,Primary Role,Evidence,Availability
+M1,Fitzpatrick17k,Internal mitigation,Skin-tone representation / performance mitigation,Internal results available
+M2,Fitzpatrick17k + DDI,Class-weighting mitigation,Improved DDI balanced accuracy relative to baseline,Verified
+M3,DDI,Representation mitigation,R3 probe BA reduced from 60.42% to 46.03%,Verified
+M2 + M3,DDI,Combined mitigation,Highest DDI Macro-F1 among evaluated DDI models,"Verified, but limited by prediction coverage"

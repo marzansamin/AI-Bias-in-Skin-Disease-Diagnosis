@@ -1,0 +1,11 @@
+disease,best_group,best_accuracy,worst_group,worst_accuracy,accuracy_gap,accuracy_gap_pp,groups_available,display_name
+kaposi sarcoma,Medium,0.9,Light,0.0,0.9,90.0,3,kaposi sarcoma
+pyogenic granuloma,Dark,1.0,Light,0.0833333333333333,0.9166666666666667,91.66666666666667,3,pyogenic granuloma
+aplasia cutis,Medium,1.0,Unknown,0.0,1.0,100.0,3,aplasia cutis
+actinic keratosis,Dark,1.0,Unknown,0.0,1.0,100.0,4,actinic keratosis
+factitial dermatitis,Dark,1.0,Light,0.0,1.0,100.0,3,factitial dermatitis
+mucous cyst,Unknown,1.0,Dark,0.0,1.0,100.0,4,mucous cyst
+erythema elevatum diutinum,Medium,1.0,Light,0.0,1.0,100.0,3,erythema elevatum diutinum
+lichen amyloidosis,Dark,1.0,Medium,0.0,1.0,100.0,3,lichen amyloidosis
+telangiectases,Dark,1.0,Medium,0.0,1.0,100.0,4,telangiectases
+pityriasis rubra pilaris,Unknown,1.0,Light,0.0,1.0,100.0,4,pityriasis rubra pilaris

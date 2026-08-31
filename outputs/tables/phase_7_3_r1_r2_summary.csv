@@ -1,0 +1,3 @@
+Rule,Description,Detected,Severity,Minimum_or_Smallest,Maximum_or_Largest,Primary_Value
+R1,Skin-tone representation imbalance,False,Not Detected,31.554878048780488,36.73780487804878,31.554878048780488
+R2,Disease-class imbalance,True,Severe,1.0,119.0,119.0

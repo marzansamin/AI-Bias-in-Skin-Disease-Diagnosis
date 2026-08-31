@@ -1,0 +1,9 @@
+metric,value
+m3_probe_accuracy,0.5238095238095238
+m3_probe_balanced_accuracy,0.49488536155202817
+m3_probe_macro_f1,0.49629629629629624
+majority_baseline,0.43537414965986393
+m3_probe_lift,0.0884353741496599
+baseline_r3_balanced_accuracy,0.6042
+r3_change,-0.10931463844797179
+r3_reduction,0.10931463844797179

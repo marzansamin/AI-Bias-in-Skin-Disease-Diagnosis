@@ -1,0 +1,211 @@
+DDI_ID,harmonized_disease,skin_tone_group,predicted_disease,predicted_class_id,confidence,true_disease_norm,predicted_disease_norm,correct_prediction
+3,mycosis fungoides,Dark,dermatofibroma,16,0.7969880700111389,mycosis fungoides,dermatofibroma,0
+5,basal cell carcinoma,Light,superficial spreading melanoma ssm,103,0.6602564454078674,basal cell carcinoma,superficial spreading melanoma ssm,0
+6,squamous cell carcinoma,Dark,melanoma,56,0.4780920147895813,squamous cell carcinoma,melanoma,0
+11,squamous cell carcinoma,Dark,squamous cell carcinoma,98,0.6260784864425659,squamous cell carcinoma,squamous cell carcinoma,1
+14,squamous cell carcinoma,Dark,solid cystic basal cell carcinoma,97,0.525528609752655,squamous cell carcinoma,solid cystic basal cell carcinoma,0
+15,squamous cell carcinoma,Dark,squamous cell carcinoma,98,0.6612306833267212,squamous cell carcinoma,squamous cell carcinoma,1
+16,mycosis fungoides,Dark,scleroderma,93,0.7277030944824219,mycosis fungoides,scleroderma,0
+17,mycosis fungoides,Dark,fixed eruptions,31,0.2587921917438507,mycosis fungoides,fixed eruptions,0
+18,mycosis fungoides,Dark,superficial spreading melanoma ssm,103,0.4433440268039703,mycosis fungoides,superficial spreading melanoma ssm,0
+19,mycosis fungoides,Dark,acanthosis nigricans,0,0.6916254162788391,mycosis fungoides,acanthosis nigricans,0
+20,mycosis fungoides,Dark,folliculitis,32,0.4623740911483764,mycosis fungoides,folliculitis,0
+21,mycosis fungoides,Dark,folliculitis,32,0.4633263647556305,mycosis fungoides,folliculitis,0
+22,mycosis fungoides,Dark,drug eruption,19,0.6682829856872559,mycosis fungoides,drug eruption,0
+23,mycosis fungoides,Dark,superficial spreading melanoma ssm,103,0.4225728213787079,mycosis fungoides,superficial spreading melanoma ssm,0
+24,mycosis fungoides,Dark,superficial spreading melanoma ssm,103,0.3045498132705688,mycosis fungoides,superficial spreading melanoma ssm,0
+26,mycosis fungoides,Dark,melanoma,56,0.2737627923488617,mycosis fungoides,melanoma,0
+27,mycosis fungoides,Dark,fixed eruptions,31,0.1850504875183105,mycosis fungoides,fixed eruptions,0
+28,mycosis fungoides,Dark,acanthosis nigricans,0,0.8432821035385132,mycosis fungoides,acanthosis nigricans,0
+29,mycosis fungoides,Dark,lichen simplex,49,0.1644839346408844,mycosis fungoides,lichen simplex,0
+30,mycosis fungoides,Dark,psoriasis,86,0.268354594707489,mycosis fungoides,psoriasis,0
+31,mycosis fungoides,Dark,folliculitis,32,0.9935437440872192,mycosis fungoides,folliculitis,0
+32,mycosis fungoides,Dark,lyme disease,53,0.3048029243946075,mycosis fungoides,lyme disease,0
+33,mycosis fungoides,Dark,nevocytic nevus,69,0.3670940399169922,mycosis fungoides,nevocytic nevus,0
+34,mycosis fungoides,Dark,tick bite,106,0.1758434325456619,mycosis fungoides,tick bite,0
+35,mycosis fungoides,Dark,neurodermatitis,65,0.9182379841804504,mycosis fungoides,neurodermatitis,0
+37,basal cell carcinoma,Light,lichen planus,48,0.3978255987167358,basal cell carcinoma,lichen planus,0
+39,squamous cell carcinoma,Light,superficial spreading melanoma ssm,103,0.3800940215587616,squamous cell carcinoma,superficial spreading melanoma ssm,0
+52,squamous cell carcinoma,Light,squamous cell carcinoma,98,0.2749857604503631,squamous cell carcinoma,squamous cell carcinoma,1
+65,mycosis fungoides,Dark,acanthosis nigricans,0,0.3451269268989563,mycosis fungoides,acanthosis nigricans,0
+66,mycosis fungoides,Dark,acanthosis nigricans,0,0.9525442719459534,mycosis fungoides,acanthosis nigricans,0
+68,mycosis fungoides,Dark,acanthosis nigricans,0,0.4364888668060303,mycosis fungoides,acanthosis nigricans,0
+69,mycosis fungoides,Dark,porokeratosis of mibelli,82,0.2408708035945892,mycosis fungoides,porokeratosis of mibelli,0
+78,epidermal nevus,Dark,epidermal nevus,24,0.6368299126625061,epidermal nevus,epidermal nevus,1
+82,seborrheic keratosis,Medium,juvenile xanthogranuloma,41,0.1331860572099685,seborrheic keratosis,juvenile xanthogranuloma,0
+85,mycosis fungoides,Dark,porokeratosis of mibelli,82,0.3095841705799103,mycosis fungoides,porokeratosis of mibelli,0
+86,mycosis fungoides,Dark,keloid,43,0.509503960609436,mycosis fungoides,keloid,0
+87,pyogenic granuloma,Dark,lichen planus,48,0.3213675320148468,pyogenic granuloma,lichen planus,0
+91,seborrheic keratosis,Dark,acanthosis nigricans,0,0.914589524269104,seborrheic keratosis,acanthosis nigricans,0
+96,pyogenic granuloma,Dark,seborrheic keratosis,96,0.5284879207611084,pyogenic granuloma,seborrheic keratosis,0
+104,seborrheic keratosis,Dark,halo nevus,37,0.1039171516895294,seborrheic keratosis,halo nevus,0
+105,seborrheic keratosis,Dark,keratosis pilaris,44,0.1597778797149658,seborrheic keratosis,keratosis pilaris,0
+111,seborrheic keratosis,Dark,nevocytic nevus,69,0.7916823029518127,seborrheic keratosis,nevocytic nevus,0
+112,dermatofibroma,Dark,naevus comedonicus,62,0.8289185762405396,dermatofibroma,naevus comedonicus,0
+114,seborrheic keratosis,Dark,mucinosis,58,0.4700025916099548,seborrheic keratosis,mucinosis,0
+119,prurigo nodularis,Dark,mucinosis,58,0.4881522953510284,prurigo nodularis,mucinosis,0
+125,kaposi sarcoma,Dark,naevus comedonicus,62,0.5311341881752014,kaposi sarcoma,naevus comedonicus,0
+126,kaposi sarcoma,Dark,superficial spreading melanoma ssm,103,0.490944355726242,kaposi sarcoma,superficial spreading melanoma ssm,0
+129,seborrheic keratosis,Dark,melanoma,56,0.2933101952075958,seborrheic keratosis,melanoma,0
+139,dermatofibroma,Dark,keloid,43,0.4758809208869934,dermatofibroma,keloid,0
+148,keloid,Dark,lichen simplex,49,0.1859793215990066,keloid,lichen simplex,0
+153,seborrheic keratosis,Dark,naevus comedonicus,62,0.72921222448349,seborrheic keratosis,naevus comedonicus,0
+160,seborrheic keratosis,Dark,basal cell carcinoma,8,0.5661104917526245,seborrheic keratosis,basal cell carcinoma,0
+162,melanoma,Dark,acanthosis nigricans,0,0.460658848285675,melanoma,acanthosis nigricans,0
+167,folliculitis,Dark,squamous cell carcinoma,98,0.2639962434768677,folliculitis,squamous cell carcinoma,0
+168,seborrheic keratosis,Dark,lichen planus,48,0.404144823551178,seborrheic keratosis,lichen planus,0
+169,squamous cell carcinoma,Dark,nevus sebaceous of jadassohn,70,0.2035189419984817,squamous cell carcinoma,nevus sebaceous of jadassohn,0
+170,pyogenic granuloma,Dark,pyogenic granuloma,88,0.3396153748035431,pyogenic granuloma,pyogenic granuloma,1
+172,seborrheic keratosis,Dark,naevus comedonicus,62,0.6820283532142639,seborrheic keratosis,naevus comedonicus,0
+174,seborrheic keratosis,Dark,superficial spreading melanoma ssm,103,0.5793776512145996,seborrheic keratosis,superficial spreading melanoma ssm,0
+175,dermatofibroma,Dark,lichen amyloidosis,47,0.8526080250740051,dermatofibroma,lichen amyloidosis,0
+178,seborrheic keratosis,Dark,pediculosis lids,73,0.1420525312423706,seborrheic keratosis,pediculosis lids,0
+179,dermatofibroma,Dark,superficial spreading melanoma ssm,103,0.4677879214286804,dermatofibroma,superficial spreading melanoma ssm,0
+180,seborrheic keratosis,Dark,halo nevus,37,0.2656150460243225,seborrheic keratosis,halo nevus,0
+190,dermatofibroma,Dark,malignant melanoma,55,0.3494111895561218,dermatofibroma,malignant melanoma,0
+192,seborrheic keratosis,Dark,porokeratosis of mibelli,82,0.2936322391033172,seborrheic keratosis,porokeratosis of mibelli,0
+200,pyogenic granuloma,Dark,pilomatricoma,77,0.5225733518600464,pyogenic granuloma,pilomatricoma,0
+201,seborrheic keratosis,Dark,porokeratosis of mibelli,82,0.1360484957695007,seborrheic keratosis,porokeratosis of mibelli,0
+203,seborrheic keratosis,Dark,neurofibromatosis,66,0.7155376672744751,seborrheic keratosis,neurofibromatosis,0
+224,seborrheic keratosis,Medium,naevus comedonicus,62,0.5013470649719238,seborrheic keratosis,naevus comedonicus,0
+225,dermatofibroma,Dark,granuloma pyogenic,35,0.2861568033695221,dermatofibroma,granuloma pyogenic,0
+226,seborrheic keratosis,Dark,melanoma,56,0.2374668568372726,seborrheic keratosis,melanoma,0
+230,pyogenic granuloma,Dark,granuloma pyogenic,35,0.6393569111824036,pyogenic granuloma,granuloma pyogenic,0
+237,seborrheic keratosis,Dark,dermatofibroma,16,0.8013167977333069,seborrheic keratosis,dermatofibroma,0
+244,squamous cell carcinoma,Light,nevocytic nevus,69,0.402761697769165,squamous cell carcinoma,nevocytic nevus,0
+247,seborrheic keratosis,Dark,acanthosis nigricans,0,0.3789742290973663,seborrheic keratosis,acanthosis nigricans,0
+261,melanoma,Light,halo nevus,37,0.237162709236145,melanoma,halo nevus,0
+263,melanoma,Light,basal cell carcinoma,8,0.6129319667816162,melanoma,basal cell carcinoma,0
+264,actinic keratosis,Light,kaposi sarcoma,42,0.1641021221876144,actinic keratosis,kaposi sarcoma,0
+289,basal cell carcinoma,Light,pyogenic granuloma,88,0.5298575162887573,basal cell carcinoma,pyogenic granuloma,0
+290,basal cell carcinoma,Light,port wine stain,84,0.3886380195617676,basal cell carcinoma,port wine stain,0
+291,basal cell carcinoma,Light,lichen planus,48,0.8578418493270874,basal cell carcinoma,lichen planus,0
+292,basal cell carcinoma,Light,lichen planus,48,0.3484559655189514,basal cell carcinoma,lichen planus,0
+293,basal cell carcinoma,Light,lichen planus,48,0.467105358839035,basal cell carcinoma,lichen planus,0
+329,seborrheic keratosis,Light,basal cell carcinoma,8,0.9778063893318176,seborrheic keratosis,basal cell carcinoma,0
+330,seborrheic keratosis,Light,vitiligo,111,0.4467041492462158,seborrheic keratosis,vitiligo,0
+331,seborrheic keratosis,Light,pediculosis lids,73,0.2867523431777954,seborrheic keratosis,pediculosis lids,0
+332,seborrheic keratosis,Light,squamous cell carcinoma,98,0.1921875029802322,seborrheic keratosis,squamous cell carcinoma,0
+333,prurigo nodularis,Medium,keloid,43,0.3765177726745605,prurigo nodularis,keloid,0
+334,prurigo nodularis,Light,dermatofibroma,16,0.3279991447925567,prurigo nodularis,dermatofibroma,0
+335,dermatofibroma,Light,dermatofibroma,16,0.8211736083030701,dermatofibroma,dermatofibroma,1
+354,pyogenic granuloma,Light,pyogenic granuloma,88,0.2675623297691345,pyogenic granuloma,pyogenic granuloma,1
+355,seborrheic keratosis,Light,pilomatricoma,77,0.441232293844223,seborrheic keratosis,pilomatricoma,0
+357,seborrheic keratosis,Light,becker nevus,10,0.553312361240387,seborrheic keratosis,becker nevus,0
+358,seborrheic keratosis,Light,basal cell carcinoma,8,0.8598562479019165,seborrheic keratosis,basal cell carcinoma,0
+362,seborrheic keratosis,Medium,acanthosis nigricans,0,0.1292450428009033,seborrheic keratosis,acanthosis nigricans,0
+363,seborrheic keratosis,Medium,superficial spreading melanoma ssm,103,0.1925163716077804,seborrheic keratosis,superficial spreading melanoma ssm,0
+366,pyogenic granuloma,Light,dermatofibroma,16,0.928133487701416,pyogenic granuloma,dermatofibroma,0
+367,mycosis fungoides,Light,granuloma pyogenic,35,0.2988326847553253,mycosis fungoides,granuloma pyogenic,0
+368,mycosis fungoides,Light,neurodermatitis,65,0.1525064408779144,mycosis fungoides,neurodermatitis,0
+369,mycosis fungoides,Light,hidradenitis,38,0.949920654296875,mycosis fungoides,hidradenitis,0
+381,pyogenic granuloma,Light,basal cell carcinoma,8,0.4769321978092193,pyogenic granuloma,basal cell carcinoma,0
+386,kaposi sarcoma,Light,superficial spreading melanoma ssm,103,0.8450543880462646,kaposi sarcoma,superficial spreading melanoma ssm,0
+387,kaposi sarcoma,Light,basal cell carcinoma,8,0.9148436784744264,kaposi sarcoma,basal cell carcinoma,0
+388,kaposi sarcoma,Light,dermatofibroma,16,0.9063747525215148,kaposi sarcoma,dermatofibroma,0
+392,dermatofibroma,Light,basal cell carcinoma,8,0.6305528879165649,dermatofibroma,basal cell carcinoma,0
+393,dermatofibroma,Light,folliculitis,32,0.1954586952924728,dermatofibroma,folliculitis,0
+396,seborrheic keratosis,Light,acanthosis nigricans,0,0.1147253736853599,seborrheic keratosis,acanthosis nigricans,0
+399,prurigo nodularis,Light,melanoma,56,0.1470199078321457,prurigo nodularis,melanoma,0
+402,dermatofibroma,Light,basal cell carcinoma,8,0.6421293616294861,dermatofibroma,basal cell carcinoma,0
+415,seborrheic keratosis,Light,basal cell carcinoma,8,0.6104611754417419,seborrheic keratosis,basal cell carcinoma,0
+416,seborrheic keratosis,Light,superficial spreading melanoma ssm,103,0.3760893642902374,seborrheic keratosis,superficial spreading melanoma ssm,0
+417,seborrheic keratosis,Light,superficial spreading melanoma ssm,103,0.3103283643722534,seborrheic keratosis,superficial spreading melanoma ssm,0
+418,seborrheic keratosis,Light,telangiectases,105,0.5936665534973145,seborrheic keratosis,telangiectases,0
+419,seborrheic keratosis,Light,melanoma,56,0.3649964928627014,seborrheic keratosis,melanoma,0
+420,dermatofibroma,Light,drug eruption,19,0.3816729784011841,dermatofibroma,drug eruption,0
+423,dermatofibroma,Light,squamous cell carcinoma,98,0.2449334412813186,dermatofibroma,squamous cell carcinoma,0
+425,seborrheic keratosis,Light,sarcoidosis,91,0.1492175906896591,seborrheic keratosis,sarcoidosis,0
+426,seborrheic keratosis,Light,basal cell carcinoma,8,0.2108900249004364,seborrheic keratosis,basal cell carcinoma,0
+427,seborrheic keratosis,Light,porokeratosis of mibelli,82,0.4035304486751556,seborrheic keratosis,porokeratosis of mibelli,0
+429,seborrheic keratosis,Light,seborrheic keratosis,96,0.3819261789321899,seborrheic keratosis,seborrheic keratosis,1
+432,seborrheic keratosis,Light,melanoma,56,0.5569407939910889,seborrheic keratosis,melanoma,0
+433,seborrheic keratosis,Light,telangiectases,105,0.2824767529964447,seborrheic keratosis,telangiectases,0
+434,seborrheic keratosis,Light,langerhans cell histiocytosis,45,0.5770666003227234,seborrheic keratosis,langerhans cell histiocytosis,0
+435,seborrheic keratosis,Light,drug induced pigmentary changes,20,0.3533424437046051,seborrheic keratosis,drug induced pigmentary changes,0
+441,dermatofibroma,Medium,keloid,43,0.6939324736595154,dermatofibroma,keloid,0
+443,melanoma,Medium,telangiectases,105,0.4430922269821167,melanoma,telangiectases,0
+444,dermatofibroma,Medium,becker nevus,10,0.5322939157485962,dermatofibroma,becker nevus,0
+445,seborrheic keratosis,Medium,malignant melanoma,55,0.3107657432556152,seborrheic keratosis,malignant melanoma,0
+449,seborrheic keratosis,Medium,lentigo maligna,46,0.6245597004890442,seborrheic keratosis,lentigo maligna,0
+451,melanoma,Medium,basal cell carcinoma,8,0.9352968335151672,melanoma,basal cell carcinoma,0
+456,dermatomyositis,Medium,scleroderma,93,0.5152247548103333,dermatomyositis,scleroderma,0
+468,pyogenic granuloma,Medium,aplasia cutis,7,0.2583937644958496,pyogenic granuloma,aplasia cutis,0
+469,dermatofibroma,Medium,fordyce spots,33,0.1095484569668769,dermatofibroma,fordyce spots,0
+474,mycosis fungoides,Medium,neurodermatitis,65,0.6239053606987,mycosis fungoides,neurodermatitis,0
+476,seborrheic keratosis,Medium,actinic keratosis,5,0.5590003728866577,seborrheic keratosis,actinic keratosis,0
+478,basal cell carcinoma,Medium,basal cell carcinoma,8,0.7845262289047241,basal cell carcinoma,basal cell carcinoma,1
+481,basal cell carcinoma,Medium,basal cell carcinoma,8,0.8489360809326172,basal cell carcinoma,basal cell carcinoma,1
+482,seborrheic keratosis,Medium,pyogenic granuloma,88,0.7024181485176086,seborrheic keratosis,pyogenic granuloma,0
+483,squamous cell carcinoma,Medium,behcets disease,11,0.6893698573112488,squamous cell carcinoma,behcets disease,0
+484,basal cell carcinoma,Medium,myiasis,61,0.3476480841636657,basal cell carcinoma,myiasis,0
+485,squamous cell carcinoma,Medium,squamous cell carcinoma,98,0.6137218475341797,squamous cell carcinoma,squamous cell carcinoma,1
+487,mycosis fungoides,Medium,naevus comedonicus,62,0.3408410549163818,mycosis fungoides,naevus comedonicus,0
+488,basal cell carcinoma,Medium,acanthosis nigricans,0,0.3372828662395477,basal cell carcinoma,acanthosis nigricans,0
+493,melanoma,Medium,neurofibromatosis,66,0.5229722857475281,melanoma,neurofibromatosis,0
+501,basal cell carcinoma,Medium,superficial spreading melanoma ssm,103,0.2294665873050689,basal cell carcinoma,superficial spreading melanoma ssm,0
+502,actinic keratosis,Medium,basal cell carcinoma,8,0.3344298601150512,actinic keratosis,basal cell carcinoma,0
+503,seborrheic keratosis,Medium,basal cell carcinoma,8,0.8195327520370483,seborrheic keratosis,basal cell carcinoma,0
+507,prurigo nodularis,Medium,naevus comedonicus,62,0.416485846042633,prurigo nodularis,naevus comedonicus,0
+508,dermatofibroma,Medium,necrobiosis lipoidica,63,0.1067965701222419,dermatofibroma,necrobiosis lipoidica,0
+511,basal cell carcinoma,Medium,langerhans cell histiocytosis,45,0.2697248160839081,basal cell carcinoma,langerhans cell histiocytosis,0
+512,basal cell carcinoma,Medium,hidradenitis,38,0.3174684047698974,basal cell carcinoma,hidradenitis,0
+517,pyogenic granuloma,Medium,melanoma,56,0.932866096496582,pyogenic granuloma,melanoma,0
+519,basal cell carcinoma,Medium,pilomatricoma,77,0.5773902535438538,basal cell carcinoma,pilomatricoma,0
+530,pyogenic granuloma,Medium,aplasia cutis,7,0.2171903699636459,pyogenic granuloma,aplasia cutis,0
+532,squamous cell carcinoma,Medium,seborrheic keratosis,96,0.7520946264266968,squamous cell carcinoma,seborrheic keratosis,0
+534,seborrheic keratosis,Medium,pediculosis lids,73,0.3690610229969024,seborrheic keratosis,pediculosis lids,0
+537,basal cell carcinoma,Medium,myiasis,61,0.5806252956390381,basal cell carcinoma,myiasis,0
+538,actinic keratosis,Medium,fordyce spots,33,0.2524967193603515,actinic keratosis,fordyce spots,0
+541,basal cell carcinoma,Medium,squamous cell carcinoma,98,0.6257928609848022,basal cell carcinoma,squamous cell carcinoma,0
+542,seborrheic keratosis,Medium,dermatofibroma,16,0.2426711022853851,seborrheic keratosis,dermatofibroma,0
+543,basal cell carcinoma,Medium,mycosis fungoides,60,0.1276188343763351,basal cell carcinoma,mycosis fungoides,0
+549,dermatofibroma,Medium,pediculosis lids,73,0.1354716569185257,dermatofibroma,pediculosis lids,0
+551,basal cell carcinoma,Medium,sarcoidosis,91,0.2225314080715179,basal cell carcinoma,sarcoidosis,0
+552,basal cell carcinoma,Medium,hidradenitis,38,0.1234926357865333,basal cell carcinoma,hidradenitis,0
+554,basal cell carcinoma,Medium,basal cell carcinoma,8,0.775875449180603,basal cell carcinoma,basal cell carcinoma,1
+555,basal cell carcinoma,Medium,actinic keratosis,5,0.1752725094556808,basal cell carcinoma,actinic keratosis,0
+556,actinic keratosis,Medium,nematode infection,64,0.4189788699150085,actinic keratosis,nematode infection,0
+557,basal cell carcinoma,Medium,lymphangioma,54,0.2431973218917846,basal cell carcinoma,lymphangioma,0
+558,basal cell carcinoma,Medium,acanthosis nigricans,0,0.4312642812728882,basal cell carcinoma,acanthosis nigricans,0
+560,basal cell carcinoma,Medium,halo nevus,37,0.3711708188056946,basal cell carcinoma,halo nevus,0
+565,basal cell carcinoma,Medium,acne vulgaris,2,0.261108249425888,basal cell carcinoma,acne vulgaris,0
+566,basal cell carcinoma,Medium,basal cell carcinoma,8,0.2311981320381164,basal cell carcinoma,basal cell carcinoma,1
+567,squamous cell carcinoma,Medium,kaposi sarcoma,42,0.5892705917358398,squamous cell carcinoma,kaposi sarcoma,0
+569,seborrheic keratosis,Medium,seborrheic keratosis,96,0.6401791572570801,seborrheic keratosis,seborrheic keratosis,1
+570,melanoma,Medium,seborrheic keratosis,96,0.3221970200538635,melanoma,seborrheic keratosis,0
+577,pyogenic granuloma,Medium,psoriasis,86,0.4633873701095581,pyogenic granuloma,psoriasis,0
+579,basal cell carcinoma,Medium,naevus comedonicus,62,0.7436168193817139,basal cell carcinoma,naevus comedonicus,0
+581,squamous cell carcinoma,Medium,pilar cyst,76,0.4369588792324066,squamous cell carcinoma,pilar cyst,0
+582,basal cell carcinoma,Medium,pilar cyst,76,0.8437618613243103,basal cell carcinoma,pilar cyst,0
+583,basal cell carcinoma,Medium,basal cell carcinoma,8,0.3870217204093933,basal cell carcinoma,basal cell carcinoma,1
+584,kaposi sarcoma,Medium,lichen planus,48,0.1826226264238357,kaposi sarcoma,lichen planus,0
+585,squamous cell carcinoma,Medium,cheilitis,13,0.417802095413208,squamous cell carcinoma,cheilitis,0
+587,squamous cell carcinoma,Medium,neutrophilic dermatoses,68,0.2270885705947876,squamous cell carcinoma,neutrophilic dermatoses,0
+588,basal cell carcinoma,Medium,lichen planus,48,0.4598432183265686,basal cell carcinoma,lichen planus,0
+589,basal cell carcinoma,Medium,tuberous sclerosis,107,0.2261699736118316,basal cell carcinoma,tuberous sclerosis,0
+590,basal cell carcinoma,Medium,pilar cyst,76,0.3047372698783874,basal cell carcinoma,pilar cyst,0
+595,seborrheic keratosis,Medium,epidermal nevus,24,0.3408355414867401,seborrheic keratosis,epidermal nevus,0
+596,squamous cell carcinoma,Medium,fordyce spots,33,0.2326674163341522,squamous cell carcinoma,fordyce spots,0
+598,basal cell carcinoma,Medium,actinic keratosis,5,0.225662425160408,basal cell carcinoma,actinic keratosis,0
+601,seborrheic keratosis,Medium,folliculitis,32,0.2525235414505005,seborrheic keratosis,folliculitis,0
+602,seborrheic keratosis,Medium,nevocytic nevus,69,0.6731195449829102,seborrheic keratosis,nevocytic nevus,0
+605,seborrheic keratosis,Medium,seborrheic keratosis,96,0.6686971187591553,seborrheic keratosis,seborrheic keratosis,1
+608,seborrheic keratosis,Medium,melanoma,56,0.2457048147916793,seborrheic keratosis,melanoma,0
+610,mycosis fungoides,Medium,sarcoidosis,91,0.2705112993717193,mycosis fungoides,sarcoidosis,0
+612,dermatofibroma,Medium,epidermal nevus,24,0.337649255990982,dermatofibroma,epidermal nevus,0
+613,dermatofibroma,Medium,calcinosis cutis,12,0.1509837806224823,dermatofibroma,calcinosis cutis,0
+616,basal cell carcinoma,Medium,porphyria,83,0.2005209028720855,basal cell carcinoma,porphyria,0
+617,pyogenic granuloma,Medium,basal cell carcinoma,8,0.8087368011474609,pyogenic granuloma,basal cell carcinoma,0
+619,dermatofibroma,Medium,dermatofibroma,16,0.2349970787763595,dermatofibroma,dermatofibroma,1
+621,dermatofibroma,Medium,photodermatoses,75,0.8966041803359985,dermatofibroma,photodermatoses,0
+623,seborrheic keratosis,Medium,kaposi sarcoma,42,0.6901196837425232,seborrheic keratosis,kaposi sarcoma,0
+630,basal cell carcinoma,Medium,milia,57,0.2025011032819748,basal cell carcinoma,milia,0
+633,basal cell carcinoma,Medium,sarcoidosis,91,0.4965193569660187,basal cell carcinoma,sarcoidosis,0
+634,dermatofibroma,Medium,basal cell carcinoma,8,0.8777776956558228,dermatofibroma,basal cell carcinoma,0
+637,basal cell carcinoma,Medium,sarcoidosis,91,0.2158005982637405,basal cell carcinoma,sarcoidosis,0
+644,basal cell carcinoma,Medium,pilar cyst,76,0.4326392114162445,basal cell carcinoma,pilar cyst,0
+648,basal cell carcinoma,Medium,superficial spreading melanoma ssm,103,0.870106041431427,basal cell carcinoma,superficial spreading melanoma ssm,0
+652,pyogenic granuloma,Medium,kaposi sarcoma,42,0.258086234331131,pyogenic granuloma,kaposi sarcoma,0
+655,squamous cell carcinoma,Medium,basal cell carcinoma,8,0.3322581052780151,squamous cell carcinoma,basal cell carcinoma,0
+656,basal cell carcinoma,Medium,malignant melanoma,55,0.4610892534255981,basal cell carcinoma,malignant melanoma,0

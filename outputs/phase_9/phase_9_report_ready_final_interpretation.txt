@@ -1,0 +1,104 @@
+============================================================
+FINAL RESULTS — PAPER-READY INTERPRETATION
+============================================================
+
+INTERNAL DATASET — FITZPATRICK17K
+------------------------------------------------------------
+
+The internal evaluation compared the Baseline, M1, M2, and
+M1 + M2 configurations using the available Fitzpatrick17k
+performance records.
+
+The strongest internal result should be reported using the
+metric-specific best model rather than assigning one model
+as universally optimal.
+
+The available results indicate that mitigation effects differ
+across metrics. Therefore, Accuracy, Balanced Accuracy and
+Macro-F1 should be interpreted separately.
+
+
+EXTERNAL DATASET — DDI
+------------------------------------------------------------
+
+The external evaluation compared Baseline, M2, M3 and M2 + M3
+under the harmonized 14-class disease space.
+
+M2 achieved the highest DDI Accuracy and Balanced Accuracy.
+
+M2 + M3 achieved the highest DDI Macro-F1 among the evaluated
+models.
+
+However, the M2 + M3 model mapped only 41.90% of DDI
+predictions to the harmonized prediction space, while
+122 of 210 predictions were outside that space.
+
+Consequently, the external performance results should be
+treated as evidence of experimental cross-dataset behavior,
+not clinical readiness.
+
+
+R3 REPRESENTATION BIAS
+------------------------------------------------------------
+
+The Baseline R3 probe balanced accuracy was 60.42%.
+
+M3 reduced R3 probe balanced accuracy to 46.03%, corresponding
+to a 14.39 percentage-point reduction.
+
+M2 + M3 achieved an R3 probe balanced accuracy of 52.14%,
+corresponding to an 8.28 percentage-point reduction relative
+to Baseline.
+
+Therefore, M3 provides the strongest direct reduction in
+skin-tone representation predictability.
+
+
+PERFORMANCE–FAIRNESS TRADE-OFF
+------------------------------------------------------------
+
+No single mitigation dominates every performance and fairness
+criterion.
+
+M2 provides strong external balanced accuracy, whereas M2 + M3
+provides the strongest external Macro-F1.
+
+M3 provides the strongest R3 representation-bias reduction.
+
+This demonstrates that diagnostic performance and
+representation-bias mitigation should be evaluated jointly
+rather than through a single performance metric.
+
+
+GENERALIZATION
+------------------------------------------------------------
+
+Available internal-to-DDI comparisons show substantial
+performance degradation from Fitzpatrick17k to DDI.
+
+This indicates that performance obtained on the internal
+dataset does not automatically transfer to the external
+dataset.
+
+The generalization analysis should therefore be presented as
+evidence of domain-shift sensitivity rather than as evidence
+of universal model failure.
+
+
+OVERALL CONCLUSION
+------------------------------------------------------------
+
+The results support the usefulness of evaluating diagnostic
+performance, fairness, and representation bias jointly.
+
+M2 is strongest for several DDI diagnostic metrics.
+
+M3 is strongest for R3 representation-bias reduction.
+
+M2 + M3 provides the highest DDI Macro-F1 among the evaluated
+models, but its substantial out-of-space prediction rate
+requires cautious interpretation.
+
+The framework therefore demonstrates measurable mitigation
+effects, while also revealing substantial challenges in
+cross-dataset generalization and label-space compatibility.

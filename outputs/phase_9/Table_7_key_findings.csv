@@ -1,0 +1,7 @@
+Finding ID,Category,Finding,Evidence,Interpretation
+F1,Diagnostic Performance,M2 achieved the highest DDI Accuracy and Balanced Accuracy.,DDI Accuracy = 10.00%; Balanced Accuracy = 20.56%,Supported by the verified external evaluation.
+F2,Diagnostic Performance,M2 + M3 achieved the highest DDI Macro-F1.,DDI Macro-F1 = 18.26%,"Supported, but prediction coverage was only 41.90%."
+F3,Representation Bias,M3 produced the strongest R3 representation-bias reduction.,R3 probe BA decreased from 60.42% to 46.03%.,14.39 percentage-point reduction.
+F4,Combined Mitigation,M2 + M3 retained substantial R3 reduction while improving DDI Macro-F1.,R3 BA = 52.14%; Macro-F1 = 18.26%.,"Useful combined result, but external prediction coverage limits confidence."
+F5,Generalization,Performance decreased substantially when moving from Fitzpatrick17k to DDI.,Observed negative generalization gaps for available Baseline and M2 metrics.,Indicates limited cross-dataset generalization.
+F6,External Evaluation,DDI contains substantial out-of-space predictions under the harmonized label space.,M2 + M3 mapped 41.90% of predictions; 122/210 were out-of-space.,External metrics must be interpreted cautiously.

@@ -1,0 +1,11 @@
+disease,support,precision,recall,f1,class_id_for_mapping,disease_name
+class_112,8.0,0.0,0.0,0.0,112,xanthomas
+class_15,22.0,0.0,0.0,0.0,15,dariers disease
+class_25,10.0,0.0,0.0,0.0,25,epidermolysis bullosa
+class_20,10.0,0.0,0.0,0.0,20,drug induced pigmentary changes
+class_65,11.0,0.0,0.0,0.0,65,neurodermatitis
+class_52,16.0,0.0666666666666666,0.0625,0.064516129032258,52,lupus subacute
+class_39,9.0,0.0833333333333333,0.1111111111111111,0.0952380952380952,39,ichthyosis vulgaris
+class_99,9.0,0.1111111111111111,0.1111111111111111,0.1111111111111111,99,stasis edema
+class_22,29.0,0.0975609756097561,0.1379310344827586,0.1142857142857142,22,eczema
+class_1,27.0,0.125,0.1111111111111111,0.1176470588235294,1,acne

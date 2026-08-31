@@ -1,0 +1,9 @@
+{
+  "batch_size": 32,
+  "num_workers": 2,
+  "pin_memory": true,
+  "drop_last": false,
+  "train_shuffle": true,
+  "validation_shuffle": false,
+  "test_shuffle": false
+}

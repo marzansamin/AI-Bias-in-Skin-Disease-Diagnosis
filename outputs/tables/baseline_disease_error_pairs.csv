@@ -1,0 +1,1069 @@
+true_disease,predicted_disease,error_count
+basal cell carcinoma,squamous cell carcinoma,10
+squamous cell carcinoma,basal cell carcinoma,7
+rosacea,rhinophyma,6
+photodermatoses,allergic contact dermatitis,6
+psoriasis,lichen planus,5
+acne,acne vulgaris,5
+melanoma,superficial spreading melanoma ssm,5
+photodermatoses,folliculitis,5
+telangiectases,dermatomyositis,4
+lupus erythematosus,dermatomyositis,4
+sarcoidosis,lupus erythematosus,4
+melanoma,basal cell carcinoma,4
+nevocytic nevus,superficial spreading melanoma ssm,4
+eczema,folliculitis,4
+allergic contact dermatitis,eczema,4
+drug eruption,psoriasis,4
+nevus sebaceous of jadassohn,folliculitis,4
+squamous cell carcinoma,eczema,4
+squamous cell carcinoma,folliculitis,4
+psoriasis,dermatomyositis,4
+halo nevus,juvenile xanthogranuloma,3
+psoriasis,erythema multiforme,3
+psoriasis,eczema,3
+psoriasis,langerhans cell histiocytosis,3
+psoriasis,allergic contact dermatitis,3
+port wine stain,sarcoidosis,3
+porphyria,psoriasis,3
+juvenile xanthogranuloma,folliculitis,3
+acne vulgaris,acne,3
+acne vulgaris,folliculitis,3
+keratosis pilaris,folliculitis,3
+actinic keratosis,squamous cell carcinoma,3
+allergic contact dermatitis,psoriasis,3
+squamous cell carcinoma,fordyce spots,3
+squamous cell carcinoma,psoriasis,3
+seborrheic keratosis,superficial spreading melanoma ssm,3
+congenital nevus,urticaria pigmentosa,3
+cheilitis,perioral dermatitis,3
+eczema,psoriasis,3
+erythema annulare centrifigum,erythema multiforme,3
+erythema multiforme,neutrophilic dermatoses,3
+basal cell carcinoma morpheiform,squamous cell carcinoma,3
+psoriasis,seborrheic dermatitis,3
+erythema nodosum,allergic contact dermatitis,3
+basal cell carcinoma,solid cystic basal cell carcinoma,3
+basal cell carcinoma,pyogenic granuloma,3
+basal cell carcinoma,melanoma,3
+basal cell carcinoma,lupus erythematosus,3
+actinic keratosis,eczema,3
+basal cell carcinoma,actinic keratosis,3
+allergic contact dermatitis,stasis edema,3
+psoriasis,lupus erythematosus,3
+striae,urticaria,3
+melanoma,psoriasis,3
+paronychia,psoriasis,3
+mycosis fungoides,sarcoidosis,3
+urticaria,scleroderma,3
+melanoma,scleroderma,3
+photodermatoses,lyme disease,3
+photodermatoses,eczema,3
+vitiligo,pityriasis rubra pilaris,3
+melanoma,squamous cell carcinoma,3
+lichen planus,prurigo nodularis,3
+malignant melanoma,superficial spreading melanoma ssm,3
+scabies,allergic contact dermatitis,2
+sarcoidosis,neutrophilic dermatoses,2
+scabies,nematode infection,2
+scabies,neutrophilic dermatoses,2
+scabies,pediculosis lids,2
+scleroderma,erythema nodosum,2
+scabies,folliculitis,2
+erythema multiforme,keratosis pilaris,2
+erythema multiforme,photodermatoses,2
+erythema multiforme,psoriasis,2
+neurofibromatosis,squamous cell carcinoma,2
+erythema multiforme,stevens johnson syndrome,2
+malignant melanoma,dermatofibroma,2
+malignant melanoma,basal cell carcinoma,2
+sarcoidosis,lichen amyloidosis,2
+neutrophilic dermatoses,allergic contact dermatitis,2
+neutrophilic dermatoses,erythema multiforme,2
+sarcoidosis,folliculitis,2
+sarcoidosis,erythema multiforme,2
+lymphangioma,folliculitis,2
+scleroderma,allergic contact dermatitis,2
+dariers disease,scabies,2
+dariers disease,pityriasis rubra pilaris,2
+naevus comedonicus,acne,2
+mycosis fungoides,dariers disease,2
+squamous cell carcinoma,behcets disease,2
+necrobiosis lipoidica,folliculitis,2
+necrobiosis lipoidica,sarcoidosis,2
+dermatomyositis,scabies,2
+disseminated actinic porokeratosis,prurigo nodularis,2
+nematode infection,lupus erythematosus,2
+mucinosis,lyme disease,2
+drug eruption,stevens johnson syndrome,2
+scleroderma,juvenile xanthogranuloma,2
+drug induced pigmentary changes,scleromyxedema,2
+dyshidrotic eczema,eczema,2
+scleroderma,psoriasis,2
+scleroderma,photodermatoses,2
+milia,lyme disease,2
+scleroderma,pediculosis lids,2
+eczema,mycosis fungoides,2
+scleroderma,lyme disease,2
+eczema,papilomatosis confluentes and reticulate,2
+scleroderma,lichen planus,2
+sarcoidosis,allergic contact dermatitis,2
+eczema,stasis edema,2
+neurofibromatosis,acne,2
+lupus erythematosus,lupus subacute,2
+perioral dermatitis,acne,2
+ichthyosis vulgaris,acanthosis nigricans,2
+ichthyosis vulgaris,pityriasis rubra pilaris,2
+incontinentia pigmenti,cheilitis,2
+perioral dermatitis,rosacea,2
+photodermatoses,drug eruption,2
+photodermatoses,neutrophilic dermatoses,2
+juvenile xanthogranuloma,lyme disease,2
+porphyria,lupus erythematosus,2
+kaposi sarcoma,erythema multiforme,2
+porokeratosis of mibelli,psoriasis,2
+fixed eruptions,psoriasis,2
+porokeratosis actinic,actinic keratosis,2
+lichen planus,psoriasis,2
+photodermatoses,scleroderma,2
+keratosis pilaris,photodermatoses,2
+lentigo maligna,basal cell carcinoma,2
+pityriasis rosea,nematode infection,2
+lichen planus,erythema multiforme,2
+pilar cyst,malignant melanoma,2
+lichen planus,lichen amyloidosis,2
+lichen planus,lupus erythematosus,2
+lichen planus,photodermatoses,2
+photodermatoses,seborrheic dermatitis,2
+porokeratosis actinic,basal cell carcinoma,2
+sarcoidosis,acne,2
+neutrophilic dermatoses,mycosis fungoides,2
+neutrophilic dermatoses,port wine stain,2
+neutrophilic dermatoses,sarcoidosis,2
+pyogenic granuloma,squamous cell carcinoma,2
+folliculitis,neutrophilic dermatoses,2
+pyogenic granuloma,granuloma pyogenic,2
+pyogenic granuloma,epidermolysis bullosa,2
+pustular psoriasis,mycosis fungoides,2
+pustular psoriasis,allergic contact dermatitis,2
+neutrophilic dermatoses,squamous cell carcinoma,2
+lupus subacute,lupus erythematosus,2
+lupus erythematosus,lyme disease,2
+granuloma annulare,nematode infection,2
+granuloma annulare,porokeratosis of mibelli,2
+granuloma annulare,sarcoidosis,2
+granuloma annulare,seborrheic dermatitis,2
+psoriasis,neutrophilic dermatoses,2
+nevus sebaceous of jadassohn,aplasia cutis,2
+lupus subacute,basal cell carcinoma,2
+lupus erythematosus,sarcoidosis,2
+lupus erythematosus,rosacea,2
+psoriasis,ichthyosis vulgaris,2
+halo nevus,acne vulgaris,2
+lupus erythematosus,photodermatoses,2
+psoriasis,prurigo nodularis,2
+squamous cell carcinoma,pyogenic granuloma,2
+basal cell carcinoma,sarcoidosis,2
+acne vulgaris,eczema,2
+allergic contact dermatitis,basal cell carcinoma,2
+telangiectases,psoriasis,2
+allergic contact dermatitis,perioral dermatitis,2
+vitiligo,folliculitis,2
+allergic contact dermatitis,sarcoidosis,2
+acne,lupus erythematosus,2
+urticaria pigmentosa,urticaria,2
+dariers disease,acne vulgaris,2
+acquired autoimmune bullous diseaseherpes gestationis,erythema multiforme,2
+superficial spreading melanoma ssm,melanoma,2
+basal cell carcinoma,allergic contact dermatitis,2
+urticaria pigmentosa,langerhans cell histiocytosis,2
+basal cell carcinoma,basal cell carcinoma morpheiform,2
+basal cell carcinoma,folliculitis,2
+urticaria pigmentosa,erythema multiforme,2
+acne,allergic contact dermatitis,2
+allergic contact dermatitis,drug eruption,2
+allergic contact dermatitis,cheilitis,2
+squamous cell carcinoma,melanoma,2
+urticaria,pityriasis rosea,2
+acrodermatitis enteropathica,congenital nevus,2
+acne,stevens johnson syndrome,2
+xanthomas,vitiligo,2
+allergic contact dermatitis,dermatomyositis,2
+xeroderma pigmentosum,dariers disease,2
+becker nevus,scleromyxedema,2
+acne,scabies,2
+acquired autoimmune bullous diseaseherpes gestationis,acne vulgaris,1
+acquired autoimmune bullous diseaseherpes gestationis,acne,1
+acne vulgaris,vitiligo,1
+photodermatoses,stevens johnson syndrome,1
+acne vulgaris,tuberous sclerosis,1
+photodermatoses,xeroderma pigmentosum,1
+pilar cyst,dariers disease,1
+pilar cyst,livedo reticularis,1
+pediculosis lids,folliculitis,1
+acne vulgaris,tick bite,1
+acne vulgaris,telangiectases,1
+pilar cyst,scleroderma,1
+acne vulgaris,port wine stain,1
+pilar cyst,rosacea,1
+photodermatoses,rosacea,1
+acquired autoimmune bullous diseaseherpes gestationis,lupus subacute,1
+photodermatoses,ehlers danlos syndrome,1
+photodermatoses,erythema nodosum,1
+photodermatoses,basal cell carcinoma,1
+acquired autoimmune bullous diseaseherpes gestationis,neurofibromatosis,1
+acrodermatitis enteropathica,allergic contact dermatitis,1
+perioral dermatitis,fordyce spots,1
+acquired autoimmune bullous diseaseherpes gestationis,juvenile xanthogranuloma,1
+photodermatoses,ichthyosis vulgaris,1
+photodermatoses,pyogenic granuloma,1
+perioral dermatitis,eczema,1
+photodermatoses,lichen planus,1
+acquired autoimmune bullous diseaseherpes gestationis,folliculitis,1
+perioral dermatitis,allergic contact dermatitis,1
+photodermatoses,mycosis fungoides,1
+acquired autoimmune bullous diseaseherpes gestationis,erythema nodosum,1
+photodermatoses,pilar cyst,1
+photodermatoses,pilomatricoma,1
+photodermatoses,pityriasis rosea,1
+telangiectases,basal cell carcinoma morpheiform,1
+photodermatoses,incontinentia pigmenti,1
+pityriasis rubra pilaris,photodermatoses,1
+acne vulgaris,lupus erythematosus,1
+pityriasis rubra pilaris,psoriasis,1
+acne vulgaris,lichen planus,1
+pityriasis rubra pilaris,sun damaged skin,1
+pityriasis rubra pilaris,vitiligo,1
+pityriasis rubra pilaris,xeroderma pigmentosum,1
+porokeratosis actinic,prurigo nodularis,1
+porokeratosis of mibelli,folliculitis,1
+porokeratosis of mibelli,nematode infection,1
+porokeratosis of mibelli,pityriasis lichenoides chronica,1
+pediculosis lids,acanthosis nigricans,1
+porphyria,acne,1
+porphyria,actinic keratosis,1
+acne vulgaris,acquired autoimmune bullous diseaseherpes gestationis,1
+porphyria,dariers disease,1
+porphyria,drug eruption,1
+porphyria,eczema,1
+porphyria,lichen planus,1
+porphyria,lupus subacute,1
+porphyria,necrobiosis lipoidica,1
+acne,tuberous sclerosis,1
+porphyria,rosacea,1
+porokeratosis of mibelli,scleroderma,1
+pilar cyst,squamous cell carcinoma,1
+pilar cyst,syringoma,1
+acne vulgaris,photodermatoses,1
+pilomatricoma,acne vulgaris,1
+pilomatricoma,congenital nevus,1
+pilomatricoma,fordyce spots,1
+pilomatricoma,juvenile xanthogranuloma,1
+pilomatricoma,squamous cell carcinoma,1
+pityriasis lichenoides chronica,hidradenitis,1
+pityriasis lichenoides chronica,incontinentia pigmenti,1
+pityriasis lichenoides chronica,pityriasis rosea,1
+pityriasis rubra pilaris,basal cell carcinoma,1
+pityriasis rosea,hailey hailey disease,1
+pityriasis rosea,lyme disease,1
+acne vulgaris,neutrophilic dermatoses,1
+pityriasis rosea,neurofibromatosis,1
+pityriasis rosea,photodermatoses,1
+pityriasis rosea,psoriasis,1
+acne vulgaris,neurofibromatosis,1
+pityriasis rosea,scabies,1
+pityriasis rosea,seborrheic keratosis,1
+pityriasis rosea,urticaria,1
+pityriasis rosea,urticaria pigmentosa,1
+pityriasis rosea,folliculitis,1
+neurodermatitis,juvenile xanthogranuloma,1
+neurodermatitis,lupus subacute,1
+neurodermatitis,melanoma,1
+neurodermatitis,necrobiosis lipoidica,1
+neurodermatitis,neutrophilic dermatoses,1
+neurodermatitis,photodermatoses,1
+neurodermatitis,telangiectases,1
+tuberous sclerosis,livedo reticularis,1
+neurofibromatosis,acquired autoimmune bullous diseaseherpes gestationis,1
+neurofibromatosis,incontinentia pigmenti,1
+neurofibromatosis,kaposi sarcoma,1
+acne,fixed eruptions,1
+tuberous sclerosis,lichen planus,1
+tuberous sclerosis,ichthyosis vulgaris,1
+tuberous sclerosis,halo nevus,1
+tuberous sclerosis,folliculitis,1
+neurofibromatosis,neutrophilic dermatoses,1
+neurofibromatosis,pilomatricoma,1
+neurofibromatosis,sarcoidosis,1
+neurofibromatosis,seborrheic keratosis,1
+tuberous sclerosis,drug eruption,1
+neurofibromatosis,syringoma,1
+neurotic excoriations,actinic keratosis,1
+neurotic excoriations,ehlers danlos syndrome,1
+neurofibromatosis,mycosis fungoides,1
+myiasis,behcets disease,1
+myiasis,lyme disease,1
+myiasis,neurodermatitis,1
+myiasis,neutrophilic dermatoses,1
+naevus comedonicus,folliculitis,1
+urticaria,pilar cyst,1
+naevus comedonicus,sarcoidosis,1
+naevus comedonicus,superficial spreading melanoma ssm,1
+necrobiosis lipoidica,erythema annulare centrifigum,1
+tungiasis,behcets disease,1
+necrobiosis lipoidica,kaposi sarcoma,1
+necrobiosis lipoidica,melanoma,1
+neurodermatitis,granuloma annulare,1
+nematode infection,ehlers danlos syndrome,1
+nematode infection,epidermal nevus,1
+tuberous sclerosis,psoriasis,1
+nematode infection,lyme disease,1
+nematode infection,neutrophilic dermatoses,1
+nematode infection,photodermatoses,1
+nematode infection,pilomatricoma,1
+nematode infection,urticaria,1
+neurodermatitis,ehlers danlos syndrome,1
+tuberous sclerosis,lyme disease,1
+neurodermatitis,epidermolysis bullosa,1
+neurodermatitis,folliculitis,1
+tuberous sclerosis,scabies,1
+tick bite,juvenile xanthogranuloma,1
+nevocytic nevus,melanoma,1
+nevocytic nevus,mucinosis,1
+nevocytic nevus,pilar cyst,1
+nevocytic nevus,striae,1
+tick bite,eczema,1
+tick bite,dermatofibroma,1
+nevus sebaceous of jadassohn,basal cell carcinoma morpheiform,1
+nevus sebaceous of jadassohn,behcets disease,1
+telangiectases,pediculosis lids,1
+nevus sebaceous of jadassohn,lichen amyloidosis,1
+nevus sebaceous of jadassohn,lupus erythematosus,1
+neurotic excoriations,folliculitis,1
+nevus sebaceous of jadassohn,solid cystic basal cell carcinoma,1
+papilomatosis confluentes and reticulate,acanthosis nigricans,1
+telangiectases,mycosis fungoides,1
+telangiectases,lupus erythematosus,1
+papilomatosis confluentes and reticulate,incontinentia pigmenti,1
+telangiectases,lichen planus,1
+papilomatosis confluentes and reticulate,lupus erythematosus,1
+paronychia,epidermolysis bullosa,1
+paronychia,necrobiosis lipoidica,1
+telangiectases,ehlers danlos syndrome,1
+paronychia,pyogenic granuloma,1
+telangiectases,drug eruption,1
+nevus sebaceous of jadassohn,malignant melanoma,1
+tuberous sclerosis,acquired autoimmune bullous diseaseherpes gestationis,1
+neurotic excoriations,granuloma annulare,1
+tick bite,urticaria pigmentosa,1
+neurotic excoriations,hidradenitis,1
+neurotic excoriations,nematode infection,1
+neurotic excoriations,rosacea,1
+neurotic excoriations,sarcoidosis,1
+tick bite,seborrheic keratosis,1
+tick bite,seborrheic dermatitis,1
+neurotic excoriations,tuberous sclerosis,1
+neutrophilic dermatoses,acne vulgaris,1
+neutrophilic dermatoses,cheilitis,1
+neutrophilic dermatoses,scleroderma,1
+tick bite,sarcoidosis,1
+neutrophilic dermatoses,folliculitis,1
+neutrophilic dermatoses,lichen planus,1
+neutrophilic dermatoses,lupus erythematosus,1
+tick bite,pediculosis lids,1
+neutrophilic dermatoses,necrobiosis lipoidica,1
+neutrophilic dermatoses,nematode infection,1
+neutrophilic dermatoses,porokeratosis actinic,1
+tick bite,lupus erythematosus,1
+neutrophilic dermatoses,psoriasis,1
+neutrophilic dermatoses,pyogenic granuloma,1
+neutrophilic dermatoses,scabies,1
+neutrophilic dermatoses,drug eruption,1
+stevens johnson syndrome,halo nevus,1
+scleroderma,incontinentia pigmenti,1
+stevens johnson syndrome,erythema multiforme,1
+stevens johnson syndrome,dermatomyositis,1
+stevens johnson syndrome,allergic contact dermatitis,1
+stasis edema,pyogenic granuloma,1
+stasis edema,pityriasis rubra pilaris,1
+stasis edema,neutrophilic dermatoses,1
+scleroderma,melanoma,1
+scleroderma,mycosis fungoides,1
+scleroderma,neurofibromatosis,1
+myiasis,lupus erythematosus,1
+stasis edema,melanoma,1
+scleroderma,perioral dermatitis,1
+stasis edema,kaposi sarcoma,1
+scleroderma,pilomatricoma,1
+stasis edema,fixed eruptions,1
+scleroderma,tungiasis,1
+scleroderma,urticaria,1
+scleroderma,urticaria pigmentosa,1
+scleroderma,vitiligo,1
+stasis edema,erythema nodosum,1
+scleroderma,xeroderma pigmentosum,1
+scleromyxedema,drug eruption,1
+stasis edema,mycosis fungoides,1
+sarcoidosis,xeroderma pigmentosum,1
+stevens johnson syndrome,urticaria,1
+scabies,acne,1
+stevens johnson syndrome,pyogenic granuloma,1
+scabies,eczema,1
+scabies,erythema multiforme,1
+stevens johnson syndrome,psoriasis,1
+scabies,hidradenitis,1
+stevens johnson syndrome,porphyria,1
+stevens johnson syndrome,neutrophilic dermatoses,1
+stevens johnson syndrome,melanoma,1
+scabies,photodermatoses,1
+scleroderma,ichthyosis vulgaris,1
+scabies,porokeratosis of mibelli,1
+scabies,prurigo nodularis,1
+scabies,psoriasis,1
+scabies,rhinophyma,1
+scabies,striae,1
+stevens johnson syndrome,lupus subacute,1
+scleroderma,calcinosis cutis,1
+scleroderma,dermatomyositis,1
+scleroderma,drug eruption,1
+scleroderma,eczema,1
+scleroderma,ehlers danlos syndrome,1
+stevens johnson syndrome,incontinentia pigmenti,1
+scabies,pityriasis lichenoides chronica,1
+solid cystic basal cell carcinoma,actinic keratosis,1
+solid cystic basal cell carcinoma,basal cell carcinoma,1
+solid cystic basal cell carcinoma,basal cell carcinoma morpheiform,1
+solid cystic basal cell carcinoma,cheilitis,1
+solid cystic basal cell carcinoma,melanoma,1
+solid cystic basal cell carcinoma,stasis edema,1
+solid cystic basal cell carcinoma,tuberous sclerosis,1
+solid cystic basal cell carcinoma,vitiligo,1
+squamous cell carcinoma,acne vulgaris,1
+squamous cell carcinoma,allergic contact dermatitis,1
+squamous cell carcinoma,porokeratosis of mibelli,1
+scleromyxedema,folliculitis,1
+squamous cell carcinoma,porokeratosis actinic,1
+squamous cell carcinoma,cheilitis,1
+squamous cell carcinoma,pediculosis lids,1
+squamous cell carcinoma,erythema nodosum,1
+squamous cell carcinoma,neutrophilic dermatoses,1
+squamous cell carcinoma,mycosis fungoides,1
+squamous cell carcinoma,granuloma pyogenic,1
+squamous cell carcinoma,hidradenitis,1
+squamous cell carcinoma,ichthyosis vulgaris,1
+squamous cell carcinoma,lichen planus,1
+squamous cell carcinoma,mucous cyst,1
+squamous cell carcinoma,malignant melanoma,1
+squamous cell carcinoma,becker nevus,1
+squamous cell carcinoma,tungiasis,1
+scleromyxedema,halo nevus,1
+scleromyxedema,ichthyosis vulgaris,1
+scleromyxedema,lyme disease,1
+scleromyxedema,psoriasis,1
+scleromyxedema,syringoma,1
+scleromyxedema,urticaria,1
+seborrheic dermatitis,acne,1
+seborrheic dermatitis,acne vulgaris,1
+seborrheic dermatitis,basal cell carcinoma,1
+seborrheic dermatitis,folliculitis,1
+seborrheic dermatitis,lupus erythematosus,1
+seborrheic keratosis,xeroderma pigmentosum,1
+seborrheic dermatitis,psoriasis,1
+seborrheic dermatitis,rhinophyma,1
+seborrheic dermatitis,rosacea,1
+seborrheic dermatitis,seborrheic keratosis,1
+seborrheic dermatitis,telangiectases,1
+seborrheic keratosis,acne vulgaris,1
+seborrheic keratosis,incontinentia pigmenti,1
+seborrheic keratosis,melanoma,1
+seborrheic keratosis,pityriasis rosea,1
+seborrheic keratosis,squamous cell carcinoma,1
+squamous cell carcinoma,scabies,1
+squamous cell carcinoma,sarcoidosis,1
+squamous cell carcinoma,solid cystic basal cell carcinoma,1
+psoriasis,juvenile xanthogranuloma,1
+psoriasis,kaposi sarcoma,1
+syringoma,milia,1
+psoriasis,lichen simplex,1
+syringoma,drug induced pigmentary changes,1
+psoriasis,necrobiosis lipoidica,1
+syringoma,dariers disease,1
+syringoma,acanthosis nigricans,1
+superficial spreading melanoma ssm,papilomatosis confluentes and reticulate,1
+psoriasis,nevus sebaceous of jadassohn,1
+superficial spreading melanoma ssm,neutrophilic dermatoses,1
+sarcoidosis,urticaria,1
+psoriasis,photodermatoses,1
+superficial spreading melanoma ssm,neurofibromatosis,1
+psoriasis,pityriasis rubra pilaris,1
+psoriasis,porokeratosis of mibelli,1
+psoriasis,port wine stain,1
+psoriasis,sarcoidosis,1
+psoriasis,scleroderma,1
+psoriasis,urticaria,1
+superficial spreading melanoma ssm,malignant melanoma,1
+pustular psoriasis,prurigo nodularis,1
+pustular psoriasis,psoriasis,1
+pustular psoriasis,stevens johnson syndrome,1
+psoriasis,pediculosis lids,1
+porphyria,xeroderma pigmentosum,1
+port wine stain,neutrophilic dermatoses,1
+port wine stain,photodermatoses,1
+port wine stain,psoriasis,1
+acne,psoriasis,1
+port wine stain,urticaria,1
+prurigo nodularis,acquired autoimmune bullous diseaseherpes gestationis,1
+prurigo nodularis,disseminated actinic porokeratosis,1
+acne,pityriasis rubra pilaris,1
+prurigo nodularis,halo nevus,1
+prurigo nodularis,lichen planus,1
+acne,perioral dermatitis,1
+psoriasis,incontinentia pigmenti,1
+prurigo nodularis,psoriasis,1
+prurigo nodularis,xeroderma pigmentosum,1
+acne,milia,1
+psoriasis,cheilitis,1
+psoriasis,drug eruption,1
+acne,lichen simplex,1
+psoriasis,epidermal nevus,1
+telangiectases,basal cell carcinoma,1
+telangiectases,acne vulgaris,1
+syringoma,tuberous sclerosis,1
+psoriasis,erythema nodosum,1
+psoriasis,granuloma annulare,1
+prurigo nodularis,nematode infection,1
+sarcoidosis,ehlers danlos syndrome,1
+sun damaged skin,juvenile xanthogranuloma,1
+sarcoidosis,keloid,1
+sun damaged skin,dyshidrotic eczema,1
+sarcoidosis,lichen planus,1
+sarcoidosis,livedo reticularis,1
+sun damaged skin,allergic contact dermatitis,1
+sun damaged skin,acne,1
+striae,urticaria pigmentosa,1
+striae,photodermatoses,1
+sarcoidosis,lupus subacute,1
+sarcoidosis,lyme disease,1
+pyogenic granuloma,acanthosis nigricans,1
+striae,mycosis fungoides,1
+sarcoidosis,necrobiosis lipoidica,1
+sarcoidosis,nematode infection,1
+striae,folliculitis,1
+striae,cheilitis,1
+sarcoidosis,port wine stain,1
+sarcoidosis,psoriasis,1
+sarcoidosis,seborrheic dermatitis,1
+sarcoidosis,stevens johnson syndrome,1
+sarcoidosis,syringoma,1
+sarcoidosis,tick bite,1
+sarcoidosis,tuberous sclerosis,1
+sarcoidosis,melanoma,1
+pyogenic granuloma,allergic contact dermatitis,1
+pyogenic granuloma,basal cell carcinoma,1
+pyogenic granuloma,cheilitis,1
+superficial spreading melanoma ssm,dariers disease,1
+pyogenic granuloma,erythema multiforme,1
+pyogenic granuloma,juvenile xanthogranuloma,1
+pyogenic granuloma,mucous cyst,1
+superficial spreading melanoma ssm,becker nevus,1
+superficial spreading melanoma ssm,basal cell carcinoma,1
+pyogenic granuloma,superficial spreading melanoma ssm,1
+pyogenic granuloma,tick bite,1
+rhinophyma,actinic keratosis,1
+sarcoidosis,aplasia cutis,1
+rhinophyma,porphyria,1
+sun damaged skin,rosacea,1
+rhinophyma,rosacea,1
+rosacea,dermatomyositis,1
+rosacea,lupus erythematosus,1
+rosacea,perioral dermatitis,1
+rosacea,psoriasis,1
+sun damaged skin,porokeratosis of mibelli,1
+rosacea,seborrheic dermatitis,1
+rosacea,urticaria pigmentosa,1
+sun damaged skin,perioral dermatitis,1
+sun damaged skin,mycosis fungoides,1
+rhinophyma,allergic contact dermatitis,1
+drug eruption,folliculitis,1
+drug eruption,hailey hailey disease,1
+drug eruption,keratosis pilaris,1
+drug eruption,livedo reticularis,1
+drug eruption,lyme disease,1
+drug eruption,mycosis fungoides,1
+drug eruption,nematode infection,1
+drug eruption,photodermatoses,1
+drug eruption,pilomatricoma,1
+drug eruption,pustular psoriasis,1
+drug eruption,sarcoidosis,1
+drug eruption,scabies,1
+drug eruption,seborrheic dermatitis,1
+drug induced pigmentary changes,calcinosis cutis,1
+urticaria,pityriasis lichenoides chronica,1
+drug induced pigmentary changes,drug eruption,1
+drug induced pigmentary changes,halo nevus,1
+drug induced pigmentary changes,lichen planus,1
+drug induced pigmentary changes,lupus erythematosus,1
+drug induced pigmentary changes,scleroderma,1
+drug induced pigmentary changes,urticaria pigmentosa,1
+dyshidrotic eczema,actinic keratosis,1
+dyshidrotic eczema,basal cell carcinoma,1
+dyshidrotic eczema,erythema multiforme,1
+dyshidrotic eczema,granuloma annulare,1
+dyshidrotic eczema,nematode infection,1
+dyshidrotic eczema,papilomatosis confluentes and reticulate,1
+dyshidrotic eczema,pityriasis rubra pilaris,1
+dyshidrotic eczema,scabies,1
+drug induced pigmentary changes,cheilitis,1
+dariers disease,keratosis pilaris,1
+dariers disease,lichen planus,1
+dariers disease,lymphangioma,1
+dariers disease,pilar cyst,1
+dariers disease,psoriasis,1
+dariers disease,seborrheic dermatitis,1
+dariers disease,syringoma,1
+dariers disease,xeroderma pigmentosum,1
+dermatofibroma,actinic keratosis,1
+dermatofibroma,erythema multiforme,1
+dermatofibroma,folliculitis,1
+dermatofibroma,lupus erythematosus,1
+dermatofibroma,malignant melanoma,1
+dermatofibroma,pityriasis lichenoides chronica,1
+drug eruption,ehlers danlos syndrome,1
+dermatomyositis,eczema,1
+dermatomyositis,erythema nodosum,1
+dermatomyositis,fixed eruptions,1
+dermatomyositis,folliculitis,1
+dermatomyositis,lupus erythematosus,1
+dermatomyositis,lupus subacute,1
+dermatomyositis,paronychia,1
+dermatomyositis,pityriasis rubra pilaris,1
+dermatomyositis,psoriasis,1
+dermatomyositis,rosacea,1
+dermatomyositis,telangiectases,1
+disseminated actinic porokeratosis,incontinentia pigmenti,1
+disseminated actinic porokeratosis,pityriasis lichenoides chronica,1
+drug eruption,acne vulgaris,1
+dermatofibroma,pyogenic granuloma,1
+epidermolysis bullosa,pyogenic granuloma,1
+epidermolysis bullosa,xeroderma pigmentosum,1
+erythema annulare centrifigum,drug eruption,1
+erythema annulare centrifigum,lyme disease,1
+erythema annulare centrifigum,mycosis fungoides,1
+erythema annulare centrifigum,urticaria,1
+erythema elevatum diutinum,basal cell carcinoma,1
+erythema elevatum diutinum,mucinosis,1
+erythema elevatum diutinum,pityriasis rubra pilaris,1
+erythema elevatum diutinum,psoriasis,1
+erythema multiforme,congenital nevus,1
+erythema multiforme,drug eruption,1
+erythema multiforme,folliculitis,1
+erythema multiforme,lupus subacute,1
+eczema,actinic keratosis,1
+erythema multiforme,pilar cyst,1
+erythema multiforme,pityriasis rosea,1
+erythema multiforme,pityriasis rubra pilaris,1
+erythema multiforme,striae,1
+erythema nodosum,incontinentia pigmenti,1
+erythema nodosum,photodermatoses,1
+erythema nodosum,sarcoidosis,1
+factitial dermatitis,folliculitis,1
+factitial dermatitis,necrobiosis lipoidica,1
+factitial dermatitis,photodermatoses,1
+factitial dermatitis,sarcoidosis,1
+factitial dermatitis,stasis edema,1
+fixed eruptions,acanthosis nigricans,1
+fixed eruptions,acne vulgaris,1
+erythema multiforme,lyme disease,1
+eczema,ehlers danlos syndrome,1
+eczema,erythema nodosum,1
+eczema,ichthyosis vulgaris,1
+eczema,lichen amyloidosis,1
+eczema,lichen planus,1
+eczema,necrobiosis lipoidica,1
+eczema,photodermatoses,1
+eczema,sarcoidosis,1
+eczema,scleroderma,1
+eczema,telangiectases,1
+eczema,urticaria,1
+ehlers danlos syndrome,keloid,1
+ehlers danlos syndrome,melanoma,1
+ehlers danlos syndrome,psoriasis,1
+epidermolysis bullosa,psoriasis,1
+epidermal nevus,dermatofibroma,1
+epidermal nevus,incontinentia pigmenti,1
+epidermal nevus,nematode infection,1
+epidermal nevus,nevus sebaceous of jadassohn,1
+epidermal nevus,psoriasis,1
+epidermal nevus,squamous cell carcinoma,1
+epidermal nevus,urticaria,1
+epidermolysis bullosa,cheilitis,1
+epidermolysis bullosa,ehlers danlos syndrome,1
+epidermolysis bullosa,erythema multiforme,1
+epidermolysis bullosa,fordyce spots,1
+epidermolysis bullosa,nematode infection,1
+epidermolysis bullosa,neutrophilic dermatoses,1
+epidermolysis bullosa,pityriasis rubra pilaris,1
+epidermal nevus,allergic contact dermatitis,1
+xanthomas,xeroderma pigmentosum,1
+xeroderma pigmentosum,lichen planus,1
+acne,folliculitis,1
+acrodermatitis enteropathica,dermatomyositis,1
+acrodermatitis enteropathica,folliculitis,1
+acrodermatitis enteropathica,nematode infection,1
+acrodermatitis enteropathica,rosacea,1
+acrodermatitis enteropathica,squamous cell carcinoma,1
+actinic keratosis,allergic contact dermatitis,1
+actinic keratosis,basal cell carcinoma,1
+actinic keratosis,dermatomyositis,1
+actinic keratosis,folliculitis,1
+actinic keratosis,langerhans cell histiocytosis,1
+actinic keratosis,lichen planus,1
+dariers disease,hailey hailey disease,1
+actinic keratosis,mycosis fungoides,1
+actinic keratosis,prurigo nodularis,1
+actinic keratosis,psoriasis,1
+actinic keratosis,scleroderma,1
+actinic keratosis,stevens johnson syndrome,1
+allergic contact dermatitis,actinic keratosis,1
+allergic contact dermatitis,becker nevus,1
+allergic contact dermatitis,dariers disease,1
+allergic contact dermatitis,erythema annulare centrifigum,1
+allergic contact dermatitis,erythema multiforme,1
+allergic contact dermatitis,folliculitis,1
+allergic contact dermatitis,kaposi sarcoma,1
+allergic contact dermatitis,keloid,1
+allergic contact dermatitis,lupus erythematosus,1
+actinic keratosis,lyme disease,1
+xeroderma pigmentosum,stevens johnson syndrome,1
+acanthosis nigricans,congenital nevus,1
+acanthosis nigricans,fixed eruptions,1
+acanthosis nigricans,mycosis fungoides,1
+acanthosis nigricans,papilomatosis confluentes and reticulate,1
+acanthosis nigricans,striae,1
+acne,basal cell carcinoma,1
+acne,dermatomyositis,1
+acne,eczema,1
+urticaria,rosacea,1
+urticaria,scabies,1
+urticaria,squamous cell carcinoma,1
+urticaria,urticaria pigmentosa,1
+urticaria pigmentosa,acne,1
+xanthomas,pilar cyst,1
+urticaria pigmentosa,ehlers danlos syndrome,1
+urticaria pigmentosa,incontinentia pigmenti,1
+urticaria pigmentosa,lupus subacute,1
+urticaria pigmentosa,scleroderma,1
+vitiligo,dermatomyositis,1
+vitiligo,fixed eruptions,1
+vitiligo,keloid,1
+vitiligo,lichen planus,1
+vitiligo,porphyria,1
+vitiligo,scleroderma,1
+xanthomas,allergic contact dermatitis,1
+xanthomas,dermatomyositis,1
+xanthomas,epidermal nevus,1
+xanthomas,granuloma annulare,1
+urticaria pigmentosa,drug eruption,1
+behcets disease,granuloma pyogenic,1
+behcets disease,lichen planus,1
+behcets disease,stevens johnson syndrome,1
+behcets disease,superficial spreading melanoma ssm,1
+calcinosis cutis,actinic keratosis,1
+calcinosis cutis,granuloma annulare,1
+calcinosis cutis,livedo reticularis,1
+calcinosis cutis,lupus subacute,1
+calcinosis cutis,nevocytic nevus,1
+calcinosis cutis,scleroderma,1
+calcinosis cutis,scleromyxedema,1
+calcinosis cutis,squamous cell carcinoma,1
+cheilitis,allergic contact dermatitis,1
+cheilitis,fordyce spots,1
+allergic contact dermatitis,lyme disease,1
+cheilitis,lupus erythematosus,1
+cheilitis,mucinosis,1
+cheilitis,neurofibromatosis,1
+cheilitis,prurigo nodularis,1
+congenital nevus,folliculitis,1
+congenital nevus,keloid,1
+congenital nevus,squamous cell carcinoma,1
+dariers disease,actinic keratosis,1
+dariers disease,dermatomyositis,1
+dariers disease,disseminated actinic porokeratosis,1
+dariers disease,drug eruption,1
+dariers disease,eczema,1
+dariers disease,erythema multiforme,1
+dariers disease,fordyce spots,1
+cheilitis,lichen planus,1
+allergic contact dermatitis,malignant melanoma,1
+allergic contact dermatitis,melanoma,1
+allergic contact dermatitis,mycosis fungoides,1
+allergic contact dermatitis,necrobiosis lipoidica,1
+allergic contact dermatitis,neutrophilic dermatoses,1
+allergic contact dermatitis,pediculosis lids,1
+allergic contact dermatitis,port wine stain,1
+allergic contact dermatitis,scabies,1
+aplasia cutis,erythema multiforme,1
+aplasia cutis,juvenile xanthogranuloma,1
+aplasia cutis,mycosis fungoides,1
+aplasia cutis,pediculosis lids,1
+aplasia cutis,photodermatoses,1
+aplasia cutis,scabies,1
+behcets disease,erythema nodosum,1
+basal cell carcinoma,dariers disease,1
+basal cell carcinoma,incontinentia pigmenti,1
+basal cell carcinoma,langerhans cell histiocytosis,1
+basal cell carcinoma,neutrophilic dermatoses,1
+basal cell carcinoma,pilar cyst,1
+basal cell carcinoma,pilomatricoma,1
+basal cell carcinoma,prurigo nodularis,1
+basal cell carcinoma,rhinophyma,1
+basal cell carcinoma morpheiform,aplasia cutis,1
+basal cell carcinoma morpheiform,basal cell carcinoma,1
+basal cell carcinoma morpheiform,lentigo maligna,1
+basal cell carcinoma morpheiform,lupus subacute,1
+basal cell carcinoma morpheiform,seborrheic keratosis,1
+becker nevus,neurofibromatosis,1
+becker nevus,pityriasis lichenoides chronica,1
+basal cell carcinoma,aplasia cutis,1
+lupus erythematosus,mucous cyst,1
+lupus erythematosus,necrobiosis lipoidica,1
+lupus erythematosus,neurofibromatosis,1
+lupus erythematosus,neutrophilic dermatoses,1
+lupus erythematosus,psoriasis,1
+lupus erythematosus,scabies,1
+lupus erythematosus,squamous cell carcinoma,1
+lupus erythematosus,urticaria,1
+lupus erythematosus,vitiligo,1
+lupus subacute,allergic contact dermatitis,1
+lupus subacute,cheilitis,1
+lupus subacute,dermatofibroma,1
+lupus subacute,granuloma annulare,1
+lupus subacute,lichen planus,1
+fixed eruptions,basal cell carcinoma,1
+lupus subacute,perioral dermatitis,1
+lupus subacute,pilar cyst,1
+lupus subacute,psoriasis,1
+lupus subacute,scleroderma,1
+lupus subacute,squamous cell carcinoma,1
+lyme disease,acanthosis nigricans,1
+lyme disease,basal cell carcinoma,1
+lyme disease,congenital nevus,1
+lyme disease,kaposi sarcoma,1
+lyme disease,neutrophilic dermatoses,1
+lyme disease,pityriasis rosea,1
+lyme disease,tuberous sclerosis,1
+lyme disease,tungiasis,1
+lymphangioma,allergic contact dermatitis,1
+lupus subacute,paronychia,1
+lichen planus,nevocytic nevus,1
+lichen planus,pityriasis rosea,1
+lichen planus,porphyria,1
+lichen planus,port wine stain,1
+lichen planus,pyogenic granuloma,1
+lichen planus,sarcoidosis,1
+lichen planus,scleromyxedema,1
+lichen planus,seborrheic keratosis,1
+lichen planus,squamous cell carcinoma,1
+lichen planus,stasis edema,1
+lichen simplex,actinic keratosis,1
+lichen simplex,dariers disease,1
+lichen simplex,erythema multiforme,1
+lichen simplex,lyme disease,1
+lupus erythematosus,melanoma,1
+lichen simplex,urticaria,1
+livedo reticularis,ehlers danlos syndrome,1
+livedo reticularis,erythema multiforme,1
+livedo reticularis,prurigo nodularis,1
+livedo reticularis,urticaria,1
+lupus erythematosus,acne,1
+lupus erythematosus,acne vulgaris,1
+lupus erythematosus,aplasia cutis,1
+lupus erythematosus,cheilitis,1
+lupus erythematosus,drug eruption,1
+lupus erythematosus,eczema,1
+lupus erythematosus,erythema annulare centrifigum,1
+lupus erythematosus,folliculitis,1
+lupus erythematosus,lichen planus,1
+lichen simplex,stevens johnson syndrome,1
+milia,telangiectases,1
+milia,urticaria,1
+mucinosis,allergic contact dermatitis,1
+mucinosis,aplasia cutis,1
+mucinosis,dermatomyositis,1
+mucinosis,drug eruption,1
+mucinosis,eczema,1
+mucinosis,mycosis fungoides,1
+mucinosis,pilar cyst,1
+mucous cyst,allergic contact dermatitis,1
+mucous cyst,eczema,1
+mucous cyst,folliculitis,1
+mucous cyst,hidradenitis,1
+mucous cyst,lichen planus,1
+lymphangioma,basal cell carcinoma morpheiform,1
+mucous cyst,malignant melanoma,1
+mucous cyst,psoriasis,1
+mucous cyst,squamous cell carcinoma,1
+mycosis fungoides,acanthosis nigricans,1
+mycosis fungoides,acne,1
+mycosis fungoides,acne vulgaris,1
+mycosis fungoides,actinic keratosis,1
+mycosis fungoides,allergic contact dermatitis,1
+mycosis fungoides,eczema,1
+mycosis fungoides,erythema annulare centrifigum,1
+mycosis fungoides,ichthyosis vulgaris,1
+mycosis fungoides,lupus erythematosus,1
+mycosis fungoides,lyme disease,1
+mycosis fungoides,scleroderma,1
+mucous cyst,lupus subacute,1
+lymphangioma,drug eruption,1
+lymphangioma,eczema,1
+lymphangioma,ehlers danlos syndrome,1
+lymphangioma,fordyce spots,1
+lymphangioma,melanoma,1
+lymphangioma,photodermatoses,1
+lymphangioma,pyogenic granuloma,1
+lymphangioma,scabies,1
+malignant melanoma,allergic contact dermatitis,1
+malignant melanoma,dermatomyositis,1
+malignant melanoma,hidradenitis,1
+malignant melanoma,scleroderma,1
+malignant melanoma,squamous cell carcinoma,1
+malignant melanoma,tungiasis,1
+milia,sarcoidosis,1
+melanoma,ichthyosis vulgaris,1
+melanoma,kaposi sarcoma,1
+melanoma,keloid,1
+melanoma,lupus subacute,1
+melanoma,malignant melanoma,1
+melanoma,nevocytic nevus,1
+melanoma,paronychia,1
+melanoma,porokeratosis of mibelli,1
+melanoma,tuberous sclerosis,1
+milia,acne,1
+milia,basal cell carcinoma,1
+milia,lichen planus,1
+milia,neutrophilic dermatoses,1
+milia,pityriasis lichenoides chronica,1
+milia,pityriasis rosea,1
+melanoma,folliculitis,1
+granuloma annulare,granuloma pyogenic,1
+granuloma annulare,hailey hailey disease,1
+granuloma annulare,ichthyosis vulgaris,1
+granuloma annulare,incontinentia pigmenti,1
+granuloma annulare,mycosis fungoides,1
+granuloma annulare,neutrophilic dermatoses,1
+granuloma annulare,photodermatoses,1
+granuloma annulare,prurigo nodularis,1
+granuloma annulare,xeroderma pigmentosum,1
+granuloma pyogenic,melanoma,1
+granuloma pyogenic,mucous cyst,1
+granuloma pyogenic,nematode infection,1
+granuloma pyogenic,pediculosis lids,1
+granuloma pyogenic,photodermatoses,1
+lichen planus,nematode infection,1
+hailey hailey disease,basal cell carcinoma,1
+hailey hailey disease,hidradenitis,1
+hailey hailey disease,lupus erythematosus,1
+hailey hailey disease,neutrophilic dermatoses,1
+hailey hailey disease,seborrheic dermatitis,1
+halo nevus,fixed eruptions,1
+hidradenitis,acne,1
+hidradenitis,dermatomyositis,1
+hidradenitis,fixed eruptions,1
+hidradenitis,lupus erythematosus,1
+hidradenitis,mycosis fungoides,1
+hidradenitis,nematode infection,1
+hidradenitis,psoriasis,1
+hidradenitis,scabies,1
+hailey hailey disease,acne vulgaris,1
+fixed eruptions,behcets disease,1
+fixed eruptions,dermatomyositis,1
+fixed eruptions,drug eruption,1
+fixed eruptions,erythema multiforme,1
+fixed eruptions,erythema nodosum,1
+fixed eruptions,folliculitis,1
+fixed eruptions,lyme disease,1
+fixed eruptions,urticaria,1
+folliculitis,eczema,1
+folliculitis,lichen planus,1
+folliculitis,mucinosis,1
+folliculitis,myiasis,1
+folliculitis,necrobiosis lipoidica,1
+folliculitis,pediculosis lids,1
+granuloma annulare,fixed eruptions,1
+folliculitis,pityriasis rubra pilaris,1
+folliculitis,scabies,1
+folliculitis,seborrheic dermatitis,1
+folliculitis,syringoma,1
+fordyce spots,folliculitis,1
+fordyce spots,incontinentia pigmenti,1
+fordyce spots,langerhans cell histiocytosis,1
+fordyce spots,psoriasis,1
+fordyce spots,striae,1
+granuloma annulare,becker nevus,1
+granuloma annulare,drug eruption,1
+granuloma annulare,erythema elevatum diutinum,1
+granuloma annulare,erythema multiforme,1
+granuloma annulare,erythema nodosum,1
+folliculitis,pityriasis lichenoides chronica,1
+keratosis pilaris,disseminated actinic porokeratosis,1
+keratosis pilaris,lichen amyloidosis,1
+keratosis pilaris,pityriasis rosea,1
+keratosis pilaris,scabies,1
+keratosis pilaris,scleroderma,1
+langerhans cell histiocytosis,nevus sebaceous of jadassohn,1
+langerhans cell histiocytosis,sarcoidosis,1
+langerhans cell histiocytosis,scabies,1
+lentigo maligna,pediculosis lids,1
+lentigo maligna,photodermatoses,1
+lentigo maligna,superficial spreading melanoma ssm,1
+lichen amyloidosis,acanthosis nigricans,1
+lichen amyloidosis,eczema,1
+lichen amyloidosis,folliculitis,1
+hidradenitis,tuberous sclerosis,1
+lichen amyloidosis,scleroderma,1
+lichen planus,acne vulgaris,1
+lichen planus,actinic keratosis,1
+lichen planus,allergic contact dermatitis,1
+lichen planus,aplasia cutis,1
+lichen planus,dermatofibroma,1
+lichen planus,eczema,1
+lichen planus,epidermolysis bullosa,1
+lichen planus,erythema nodosum,1
+lichen planus,folliculitis,1
+lichen planus,fordyce spots,1
+lichen planus,granuloma annulare,1
+lichen planus,kaposi sarcoma,1
+lichen planus,necrobiosis lipoidica,1
+lichen amyloidosis,nematode infection,1
+ichthyosis vulgaris,dyshidrotic eczema,1
+ichthyosis vulgaris,lichen amyloidosis,1
+ichthyosis vulgaris,porokeratosis actinic,1
+ichthyosis vulgaris,psoriasis,1
+incontinentia pigmenti,aplasia cutis,1
+incontinentia pigmenti,dyshidrotic eczema,1
+incontinentia pigmenti,nematode infection,1
+incontinentia pigmenti,rhinophyma,1
+incontinentia pigmenti,telangiectases,1
+incontinentia pigmenti,urticaria,1
+juvenile xanthogranuloma,dermatofibroma,1
+juvenile xanthogranuloma,fixed eruptions,1
+juvenile xanthogranuloma,granuloma pyogenic,1
+juvenile xanthogranuloma,nevocytic nevus,1
+keloid,xeroderma pigmentosum,1
+juvenile xanthogranuloma,sarcoidosis,1
+juvenile xanthogranuloma,scleroderma,1
+kaposi sarcoma,allergic contact dermatitis,1
+kaposi sarcoma,dermatomyositis,1
+kaposi sarcoma,lichen planus,1
+kaposi sarcoma,prurigo nodularis,1
+kaposi sarcoma,psoriasis,1
+kaposi sarcoma,pyogenic granuloma,1
+kaposi sarcoma,squamous cell carcinoma,1
+kaposi sarcoma,superficial spreading melanoma ssm,1
+keloid,folliculitis,1
+keloid,photodermatoses,1
+keloid,rhinophyma,1
+keloid,striae,1
+keloid,vitiligo,1
+juvenile xanthogranuloma,pityriasis lichenoides chronica,1

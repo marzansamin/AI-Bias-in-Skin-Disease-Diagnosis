@@ -1,0 +1,4 @@
+bias_rule,bias_characteristic,detected,severity,mitigation,techniques,decision
+R1,Skin-tone representation imbalance,Yes,Severe,M1 — Data Augmentation,Mixup; Synthetic Image Generation,Activate M1
+R2,Disease-class imbalance,Yes,Severe,M2 — Adaptive Reweighting / Resampling,Adaptive weighting; Class-aware resampling,Activate M2
+R3,Representation bias,No,Not Established,Pending DDI external validation,Not activated,Reassess during DDI external testing

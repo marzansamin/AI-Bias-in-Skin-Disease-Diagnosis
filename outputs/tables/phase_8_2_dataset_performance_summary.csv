@@ -1,0 +1,5 @@
+Model,Internal Accuracy (%),DDI Accuracy (%),Internal Balanced Accuracy (%),DDI Balanced Accuracy (%),Internal Macro F1 (%),DDI Macro F1 (%),Internal Weighted F1 (%),DDI Weighted F1 (%),Generalization Gap — Accuracy (%),Generalization Gap — Balanced Accuracy (%),Generalization Gap — Macro F1 (%),Generalization Gap — Weighted F1 (%)
+Baseline,44.5,9.05,40.65,7.93,40.510000000000005,10.24,43.56,13.02,-35.45,-32.72,-30.270000000000003,-30.540000000000003
+M2,44.0098,10.0,41.546499999999995,20.5647,40.1123,3.2453000000000003,43.8429,13.1444,-34.0098,-20.981799999999996,-36.867,-30.698500000000003
+M3,,8.09523809523809,,11.7338264918323,,10.21854198668714,,11.44516555726233,,,,
+M2 + M3,,9.523809523809524,,20.103622447143856,,18.260650639682897,,12.964660787241431,,,,

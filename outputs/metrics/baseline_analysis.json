@@ -1,0 +1,21 @@
+{
+  "model": "EfficientNet-B0",
+  "num_classes": 114,
+  "epochs": 10,
+  "batch_size": 32,
+  "initial_learning_rate": 0.0001,
+  "final": {
+    "train_loss": 1.3207422100348385,
+    "train_accuracy": 0.6804514517101748,
+    "validation_loss": 2.5520922554189163,
+    "validation_accuracy": 0.4337445284520493,
+    "accuracy_gap": 0.24670692325812554,
+    "loss_gap": 1.2313500453840778
+  },
+  "best": {
+    "validation_loss": 2.5520922554189163,
+    "validation_loss_epoch": 10,
+    "validation_accuracy": 0.4337445284520493,
+    "validation_accuracy_epoch": 10
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "model": "EfficientNet-B0",
+    "method": "M1 + M2 Combined Mitigation",
+    "test_samples": 2454,
+    "disease_classes": 114,
+    "overall": {
+        "accuracy": 0.4229828850855746,
+        "balanced_accuracy": 0.3985614418088364,
+        "macro_precision": 0.3892713680480643,
+        "macro_recall": 0.3985614418088364,
+        "macro_f1": 0.38106434077122264,
+        "weighted_f1": 0.4202896161132909
+    },
+    "fairness": {
+        "accuracy_gap": 0.23944324739331801,
+        "known_tone_accuracy_gap": 0.23944324739331801,
+        "all_group_macro_f1_gap": 0.20818426283125951,
+        "known_tone_macro_f1_gap": 0.1367912339138918
+    },
+    "effectiveness": {
+        "accuracy_gap_reduced": true,
+        "known_tone_f1_gap_reduced": true,
+        "overall_accuracy_improved": false,
+        "overall_macro_f1_improved": false,
+        "fairness_improvement": true,
+        "overall_performance_improvement": false
+    }
+}

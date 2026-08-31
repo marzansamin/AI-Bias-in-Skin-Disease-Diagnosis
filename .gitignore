@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Google Colab / Drive
+/content/
+/drive/
+
+# Large datasets
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Ignore CSVs by default
+*.csv
+
+# Keep final paper tables/results
+!outputs/phase_9/*.csv
+!outputs/tables/*.csv
+
+# Model checkpoints / weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.onnx
+
+# Temporary files
+tmp/
+temp/
+
+# Generated cache
+cache/
+
+# Runtime outputs
+runs/
+wandb/

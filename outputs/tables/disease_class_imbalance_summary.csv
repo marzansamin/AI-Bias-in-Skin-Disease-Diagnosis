@@ -1,0 +1,12 @@
+metric,value
+total_images,16574.0
+disease_classes,114.0
+maximum_class_size,653.0
+minimum_class_size,53.0
+mean_class_size,145.3859649122807
+median_class_size,102.0
+std_class_size,114.12875113954114
+max_min_ratio,12.320754716981131
+classes_below_10,0.0
+classes_below_20,0.0
+classes_below_50,0.0

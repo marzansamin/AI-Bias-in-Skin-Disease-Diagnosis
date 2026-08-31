@@ -1,0 +1,28 @@
+{
+    "model": "EfficientNet-B0",
+    "method": "M2 \u2014 Adaptive Disease-Class Reweighting",
+    "test_samples": 2454,
+    "disease_classes": 114,
+    "overall": {
+        "accuracy": 0.4400977995110024,
+        "balanced_accuracy": 0.41546493463906786,
+        "macro_precision": 0.4147949286546355,
+        "macro_recall": 0.41546493463906786,
+        "macro_f1": 0.4011234378915326,
+        "weighted_f1": 0.43842862736480986
+    },
+    "fairness": {
+        "accuracy_gap": 0.2639245421555753,
+        "known_tone_accuracy_gap": 0.2639245421555753,
+        "all_group_macro_f1_gap": 0.25461686646174286,
+        "known_tone_macro_f1_gap": 0.18299564755404024
+    },
+    "comparison": {
+        "baseline_accuracy": 0.445,
+        "baseline_macro_f1": 0.4051,
+        "baseline_accuracy_gap": 0.2436,
+        "baseline_known_f1_gap": 0.1666,
+        "fairness_improvement": false,
+        "overall_performance_improvement": false
+    }
+}

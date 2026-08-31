@@ -1,0 +1,86 @@
+{
+    "bias_status": {
+        "R1": {
+            "detected": true,
+            "severity": "Severe"
+        },
+        "R2": {
+            "detected": true,
+            "severity": "Severe"
+        },
+        "R3": {
+            "detected": false,
+            "severity": "Not Established"
+        }
+    },
+    "active_mitigations": [
+        "M1",
+        "M2"
+    ],
+    "individual_experiments": [
+        {
+            "experiment_id": "B0",
+            "experiment_name": "Baseline",
+            "target_bias": "None",
+            "strategy": "Standard EfficientNet-B0 training",
+            "status": "Reference"
+        },
+        {
+            "experiment_id": "M1",
+            "experiment_name": "Skin-tone augmentation",
+            "target_bias": "R1",
+            "strategy": "Mixup + Synthetic Image Generation",
+            "status": "Activated"
+        },
+        {
+            "experiment_id": "M2",
+            "experiment_name": "Disease-class balancing",
+            "target_bias": "R2",
+            "strategy": "Adaptive Reweighting / Resampling",
+            "status": "Activated"
+        },
+        {
+            "experiment_id": "M3",
+            "experiment_name": "Representation-bias mitigation",
+            "target_bias": "R3",
+            "strategy": "Reserved for DDI validation",
+            "status": "Pending"
+        }
+    ],
+    "combined_experiment": {
+        "experiment_id": "M1_M2",
+        "experiment_name": "Combined mitigation",
+        "target_bias": "R1 + R2",
+        "strategy": "M1: Mixup + Synthetic Image Generation + M2: Adaptive Reweighting / Resampling",
+        "status": "Activated"
+    },
+    "evaluation_criteria": [
+        {
+            "priority": 1,
+            "criterion": "Fairness improvement",
+            "metrics": "Skin-tone Accuracy Gap; Known-tone Macro-F1 Gap",
+            "desired_direction": "Lower"
+        },
+        {
+            "priority": 2,
+            "criterion": "Overall performance",
+            "metrics": "Accuracy; Balanced Accuracy; Macro-F1; Weighted-F1",
+            "desired_direction": "Higher"
+        },
+        {
+            "priority": 3,
+            "criterion": "Disease-level performance",
+            "metrics": "Mean Disease F1; Worst Disease F1; Disease-level disparity",
+            "desired_direction": "Higher F1 / Lower disparity"
+        }
+    ],
+    "decision_policy": {
+        "baseline": "Always retain as the reference model.",
+        "M1": "Activated only because R1 was detected.",
+        "M2": "Activated only because R2 was detected.",
+        "M1_M2": "Activated because both R1 and R2 were detected.",
+        "M3": "Not activated while R3 remains not established.",
+        "model_selection": "No mitigation will be selected solely on the basis of highest accuracy. Fairness, overall performance, and disease-level performance will all be evaluated.",
+        "external_validation": "R3 will be reassessed during DDI external evaluation."
+    }
+}

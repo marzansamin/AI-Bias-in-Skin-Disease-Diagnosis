@@ -1,0 +1,7 @@
+{
+    "experiment_id": "M1_M2",
+    "experiment_name": "Combined mitigation",
+    "target_bias": "R1 + R2",
+    "strategy": "M1: Mixup + Synthetic Image Generation + M2: Adaptive Reweighting / Resampling",
+    "status": "Activated"
+}

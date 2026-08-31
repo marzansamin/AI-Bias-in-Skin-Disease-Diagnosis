@@ -1,0 +1,4 @@
+method,accuracy_change_pp,macro_f1_change_pp,accuracy_gap_change_pp,f1_gap_change_pp,fairness_accuracy_improved,fairness_f1_improved,fairness_improved,accuracy_acceptable,macro_f1_acceptable,performance_acceptable,selected
+M1 — Skin-tone Data Augmentation,-0.4495000000000027,0.37399999999999656,-0.3358,-1.9101000000000008,True,True,True,True,True,True,True
+M2 — Disease-class Reweighting,-0.49020000000000175,-0.39770000000000083,2.032500000000001,1.6395999999999993,False,False,False,True,True,True,False
+M1 + M2 — Combined,-2.201711491442543,-2.4035659228777373,-0.4156752606681996,-2.980876608610819,True,True,True,False,False,False,False

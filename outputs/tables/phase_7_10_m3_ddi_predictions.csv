@@ -1,0 +1,211 @@
+predicted_class_id,confidence,predicted_disease,DDI_ID,skin_tone_group,disease,malignant,skin_tone,image_path
+16,0.7969880700111389,dermatofibroma,3,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000003.png
+103,0.6602564454078674,superficial spreading melanoma ssm,5,Light,basal-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000005.png
+56,0.4780920147895813,melanoma,6,Dark,squamous-cell-carcinoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000006.png
+98,0.6260784864425659,squamous cell carcinoma,11,Dark,squamous-cell-carcinoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000011.png
+97,0.525528609752655,solid cystic basal cell carcinoma,14,Dark,squamous-cell-carcinoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000014.png
+98,0.6612306833267212,squamous cell carcinoma,15,Dark,squamous-cell-carcinoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000015.png
+93,0.7277030944824219,scleroderma,16,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000016.png
+31,0.2587921917438507,fixed eruptions,17,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000017.png
+103,0.44334402680397034,superficial spreading melanoma ssm,18,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000018.png
+0,0.6916254162788391,acanthosis nigricans,19,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000019.png
+32,0.46237409114837646,folliculitis,20,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000020.png
+32,0.4633263647556305,folliculitis,21,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000021.png
+19,0.6682829856872559,drug eruption,22,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000022.png
+103,0.4225728213787079,superficial spreading melanoma ssm,23,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000023.png
+103,0.30454981327056885,superficial spreading melanoma ssm,24,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000024.png
+56,0.2737627923488617,melanoma,26,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000026.png
+31,0.18505048751831055,fixed eruptions,27,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000027.png
+0,0.8432821035385132,acanthosis nigricans,28,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000028.png
+49,0.1644839346408844,lichen simplex,29,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000029.png
+86,0.268354594707489,psoriasis,30,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000030.png
+32,0.9935437440872192,folliculitis,31,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000031.png
+53,0.30480292439460754,lyme disease,32,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000032.png
+69,0.3670940399169922,nevocytic nevus,33,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000033.png
+106,0.17584343254566193,tick bite,34,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000034.png
+65,0.9182379841804504,neurodermatitis,35,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000035.png
+48,0.39782559871673584,lichen planus,37,Light,basal-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000037.png
+103,0.3800940215587616,superficial spreading melanoma ssm,39,Light,squamous-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000039.png
+98,0.27498576045036316,squamous cell carcinoma,52,Light,squamous-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000052.png
+0,0.3451269268989563,acanthosis nigricans,65,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000065.png
+0,0.9525442719459534,acanthosis nigricans,66,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000066.png
+0,0.4364888668060303,acanthosis nigricans,68,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000068.png
+82,0.24087080359458923,porokeratosis of mibelli,69,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000069.png
+24,0.6368299126625061,epidermal nevus,78,Dark,epidermal-nevus,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000078.png
+41,0.13318605720996857,juvenile xanthogranuloma,82,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000082.png
+82,0.3095841705799103,porokeratosis of mibelli,85,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000085.png
+43,0.509503960609436,keloid,86,Dark,mycosis-fungoides,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000086.png
+48,0.3213675320148468,lichen planus,87,Dark,pyogenic-granuloma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000087.png
+0,0.914589524269104,acanthosis nigricans,91,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000091.png
+96,0.5284879207611084,seborrheic keratosis,96,Dark,pyogenic-granuloma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000096.png
+37,0.10391715168952942,halo nevus,104,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000104.png
+44,0.15977787971496582,keratosis pilaris,105,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000105.png
+69,0.7916823029518127,nevocytic nevus,111,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000111.png
+62,0.8289185762405396,naevus comedonicus,112,Dark,dermatofibroma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000112.png
+58,0.47000259160995483,mucinosis,114,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000114.png
+58,0.48815229535102844,mucinosis,119,Dark,prurigo-nodularis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000119.png
+62,0.5311341881752014,naevus comedonicus,125,Dark,kaposi-sarcoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000125.png
+103,0.49094435572624207,superficial spreading melanoma ssm,126,Dark,kaposi-sarcoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000126.png
+56,0.2933101952075958,melanoma,129,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000129.png
+43,0.4758809208869934,keloid,139,Dark,dermatofibroma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000139.png
+49,0.18597932159900665,lichen simplex,148,Dark,keloid,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000148.png
+62,0.72921222448349,naevus comedonicus,153,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000153.png
+8,0.5661104917526245,basal cell carcinoma,160,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000160.png
+0,0.46065884828567505,acanthosis nigricans,162,Dark,melanoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000162.png
+98,0.2639962434768677,squamous cell carcinoma,167,Dark,folliculitis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000167.png
+48,0.404144823551178,lichen planus,168,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000168.png
+70,0.20351894199848175,nevus sebaceous of jadassohn,169,Dark,squamous-cell-carcinoma,True,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000169.png
+88,0.3396153748035431,pyogenic granuloma,170,Dark,pyogenic-granuloma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000170.png
+62,0.6820283532142639,naevus comedonicus,172,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000172.png
+103,0.5793776512145996,superficial spreading melanoma ssm,174,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000174.png
+47,0.8526080250740051,lichen amyloidosis,175,Dark,dermatofibroma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000175.png
+73,0.1420525312423706,pediculosis lids,178,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000178.png
+103,0.4677879214286804,superficial spreading melanoma ssm,179,Dark,dermatofibroma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000179.png
+37,0.2656150460243225,halo nevus,180,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000180.png
+55,0.3494111895561218,malignant melanoma,190,Dark,dermatofibroma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000190.png
+82,0.29363223910331726,porokeratosis of mibelli,192,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000192.png
+77,0.5225733518600464,pilomatricoma,200,Dark,pyogenic-granuloma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000200.png
+82,0.13604849576950073,porokeratosis of mibelli,201,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000201.png
+66,0.7155376672744751,neurofibromatosis,203,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000203.png
+62,0.5013470649719238,naevus comedonicus,224,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000224.png
+35,0.2861568033695221,granuloma pyogenic,225,Dark,dermatofibroma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000225.png
+56,0.23746685683727264,melanoma,226,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000226.png
+35,0.6393569111824036,granuloma pyogenic,230,Dark,pyogenic-granuloma,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000230.png
+16,0.8013167977333069,dermatofibroma,237,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000237.png
+69,0.40276169776916504,nevocytic nevus,244,Light,squamous-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000244.png
+0,0.37897422909736633,acanthosis nigricans,247,Dark,seborrheic-keratosis,False,56,/content/drive/MyDrive/Skin Tone Fairness/DDI/000247.png
+37,0.23716270923614502,halo nevus,261,Light,melanoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000261.png
+8,0.6129319667816162,basal cell carcinoma,263,Light,melanoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000263.png
+42,0.16410212218761444,kaposi sarcoma,264,Light,actinic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000264.png
+88,0.5298575162887573,pyogenic granuloma,289,Light,basal-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000289.png
+84,0.3886380195617676,port wine stain,290,Light,basal-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000290.png
+48,0.8578418493270874,lichen planus,291,Light,basal-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000291.png
+48,0.3484559655189514,lichen planus,292,Light,basal-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000292.png
+48,0.46710535883903503,lichen planus,293,Light,basal-cell-carcinoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000293.png
+8,0.9778063893318176,basal cell carcinoma,329,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000329.png
+111,0.4467041492462158,vitiligo,330,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000330.png
+73,0.2867523431777954,pediculosis lids,331,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000331.png
+98,0.19218750298023224,squamous cell carcinoma,332,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000332.png
+43,0.37651777267456055,keloid,333,Medium,prurigo-nodularis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000333.png
+16,0.32799914479255676,dermatofibroma,334,Light,prurigo-nodularis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000334.png
+16,0.8211736083030701,dermatofibroma,335,Light,dermatofibroma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000335.png
+88,0.2675623297691345,pyogenic granuloma,354,Light,pyogenic-granuloma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000354.png
+77,0.441232293844223,pilomatricoma,355,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000355.png
+10,0.553312361240387,becker nevus,357,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000357.png
+8,0.8598562479019165,basal cell carcinoma,358,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000358.png
+0,0.12924504280090332,acanthosis nigricans,362,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000362.png
+103,0.19251637160778046,superficial spreading melanoma ssm,363,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000363.png
+16,0.928133487701416,dermatofibroma,366,Light,pyogenic-granuloma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000366.png
+35,0.2988326847553253,granuloma pyogenic,367,Light,mycosis-fungoides,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000367.png
+65,0.15250644087791443,neurodermatitis,368,Light,mycosis-fungoides,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000368.png
+38,0.949920654296875,hidradenitis,369,Light,mycosis-fungoides,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000369.png
+8,0.47693219780921936,basal cell carcinoma,381,Light,pyogenic-granuloma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000381.png
+103,0.8450543880462646,superficial spreading melanoma ssm,386,Light,kaposi-sarcoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000386.png
+8,0.9148436784744263,basal cell carcinoma,387,Light,kaposi-sarcoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000387.png
+16,0.9063747525215149,dermatofibroma,388,Light,kaposi-sarcoma,True,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000388.png
+8,0.6305528879165649,basal cell carcinoma,392,Light,dermatofibroma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000392.png
+32,0.19545869529247284,folliculitis,393,Light,dermatofibroma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000393.png
+0,0.11472537368535995,acanthosis nigricans,396,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000396.png
+56,0.1470199078321457,melanoma,399,Light,prurigo-nodularis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000399.png
+8,0.6421293616294861,basal cell carcinoma,402,Light,dermatofibroma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000402.png
+8,0.6104611754417419,basal cell carcinoma,415,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000415.png
+103,0.3760893642902374,superficial spreading melanoma ssm,416,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000416.png
+103,0.3103283643722534,superficial spreading melanoma ssm,417,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000417.png
+105,0.5936665534973145,telangiectases,418,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000418.png
+56,0.3649964928627014,melanoma,419,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000419.png
+19,0.3816729784011841,drug eruption,420,Light,dermatofibroma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000420.png
+98,0.24493344128131866,squamous cell carcinoma,423,Light,dermatofibroma,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000423.png
+91,0.14921759068965912,sarcoidosis,425,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000425.png
+8,0.2108900249004364,basal cell carcinoma,426,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000426.png
+82,0.40353044867515564,porokeratosis of mibelli,427,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000427.png
+96,0.38192617893218994,seborrheic keratosis,429,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000429.png
+56,0.5569407939910889,melanoma,432,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000432.png
+105,0.2824767529964447,telangiectases,433,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000433.png
+45,0.5770666003227234,langerhans cell histiocytosis,434,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000434.png
+20,0.3533424437046051,drug induced pigmentary changes,435,Light,seborrheic-keratosis,False,12,/content/drive/MyDrive/Skin Tone Fairness/DDI/000435.png
+43,0.6939324736595154,keloid,441,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000441.png
+105,0.4430922269821167,telangiectases,443,Medium,melanoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000443.png
+10,0.5322939157485962,becker nevus,444,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000444.png
+55,0.31076574325561523,malignant melanoma,445,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000445.png
+46,0.6245597004890442,lentigo maligna,449,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000449.png
+8,0.9352968335151672,basal cell carcinoma,451,Medium,melanoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000451.png
+93,0.5152247548103333,scleroderma,456,Medium,dermatomyositis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000456.png
+7,0.2583937644958496,aplasia cutis,468,Medium,pyogenic-granuloma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000468.png
+33,0.10954845696687698,fordyce spots,469,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000469.png
+65,0.6239053606987,neurodermatitis,474,Medium,mycosis-fungoides,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000474.png
+5,0.5590003728866577,actinic keratosis,476,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000476.png
+8,0.7845262289047241,basal cell carcinoma,478,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000478.png
+8,0.8489360809326172,basal cell carcinoma,481,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000481.png
+88,0.7024181485176086,pyogenic granuloma,482,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000482.png
+11,0.6893698573112488,behcets disease,483,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000483.png
+61,0.34764808416366577,myiasis,484,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000484.png
+98,0.6137218475341797,squamous cell carcinoma,485,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000485.png
+62,0.34084105491638184,naevus comedonicus,487,Medium,mycosis-fungoides,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000487.png
+0,0.33728286623954773,acanthosis nigricans,488,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000488.png
+66,0.5229722857475281,neurofibromatosis,493,Medium,melanoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000493.png
+103,0.22946658730506897,superficial spreading melanoma ssm,501,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000501.png
+8,0.33442986011505127,basal cell carcinoma,502,Medium,actinic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000502.png
+8,0.8195327520370483,basal cell carcinoma,503,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000503.png
+62,0.41648584604263306,naevus comedonicus,507,Medium,prurigo-nodularis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000507.png
+63,0.10679657012224197,necrobiosis lipoidica,508,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000508.png
+45,0.2697248160839081,langerhans cell histiocytosis,511,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000511.png
+38,0.31746840476989746,hidradenitis,512,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000512.png
+56,0.932866096496582,melanoma,517,Medium,pyogenic-granuloma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000517.png
+77,0.5773902535438538,pilomatricoma,519,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000519.png
+7,0.21719036996364594,aplasia cutis,530,Medium,pyogenic-granuloma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000530.png
+96,0.7520946264266968,seborrheic keratosis,532,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000532.png
+73,0.36906102299690247,pediculosis lids,534,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000534.png
+61,0.5806252956390381,myiasis,537,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000537.png
+33,0.25249671936035156,fordyce spots,538,Medium,actinic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000538.png
+98,0.6257928609848022,squamous cell carcinoma,541,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000541.png
+16,0.24267110228538513,dermatofibroma,542,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000542.png
+60,0.12761883437633514,mycosis fungoides,543,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000543.png
+73,0.1354716569185257,pediculosis lids,549,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000549.png
+91,0.22253140807151794,sarcoidosis,551,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000551.png
+38,0.12349263578653336,hidradenitis,552,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000552.png
+8,0.775875449180603,basal cell carcinoma,554,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000554.png
+5,0.17527250945568085,actinic keratosis,555,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000555.png
+64,0.41897886991500854,nematode infection,556,Medium,actinic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000556.png
+54,0.24319732189178467,lymphangioma,557,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000557.png
+0,0.4312642812728882,acanthosis nigricans,558,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000558.png
+37,0.3711708188056946,halo nevus,560,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000560.png
+2,0.26110824942588806,acne vulgaris,565,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000565.png
+8,0.23119813203811646,basal cell carcinoma,566,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000566.png
+42,0.5892705917358398,kaposi sarcoma,567,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000567.png
+96,0.6401791572570801,seborrheic keratosis,569,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000569.png
+96,0.3221970200538635,seborrheic keratosis,570,Medium,melanoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000570.png
+86,0.4633873701095581,psoriasis,577,Medium,pyogenic-granuloma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000577.png
+62,0.7436168193817139,naevus comedonicus,579,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000579.png
+76,0.4369588792324066,pilar cyst,581,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000581.png
+76,0.8437618613243103,pilar cyst,582,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000582.png
+8,0.3870217204093933,basal cell carcinoma,583,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000583.png
+48,0.18262262642383575,lichen planus,584,Medium,kaposi-sarcoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000584.png
+13,0.417802095413208,cheilitis,585,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000585.png
+68,0.2270885705947876,neutrophilic dermatoses,587,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000587.png
+48,0.4598432183265686,lichen planus,588,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000588.png
+107,0.22616997361183167,tuberous sclerosis,589,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000589.png
+76,0.30473726987838745,pilar cyst,590,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000590.png
+24,0.3408355414867401,epidermal nevus,595,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000595.png
+33,0.23266741633415222,fordyce spots,596,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000596.png
+5,0.22566242516040802,actinic keratosis,598,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000598.png
+32,0.2525235414505005,folliculitis,601,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000601.png
+69,0.6731195449829102,nevocytic nevus,602,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000602.png
+96,0.6686971187591553,seborrheic keratosis,605,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000605.png
+56,0.24570481479167938,melanoma,608,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000608.png
+91,0.27051129937171936,sarcoidosis,610,Medium,mycosis-fungoides,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000610.png
+24,0.33764925599098206,epidermal nevus,612,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000612.png
+12,0.1509837806224823,calcinosis cutis,613,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000613.png
+83,0.20052090287208557,porphyria,616,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000616.png
+8,0.8087368011474609,basal cell carcinoma,617,Medium,pyogenic-granuloma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000617.png
+16,0.23499707877635956,dermatofibroma,619,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000619.png
+75,0.8966041803359985,photodermatoses,621,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000621.png
+42,0.6901196837425232,kaposi sarcoma,623,Medium,seborrheic-keratosis,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000623.png
+57,0.2025011032819748,milia,630,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000630.png
+91,0.4965193569660187,sarcoidosis,633,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000633.png
+8,0.8777776956558228,basal cell carcinoma,634,Medium,dermatofibroma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000634.png
+91,0.21580059826374054,sarcoidosis,637,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000637.png
+76,0.4326392114162445,pilar cyst,644,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000644.png
+103,0.870106041431427,superficial spreading melanoma ssm,648,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000648.png
+42,0.258086234331131,kaposi sarcoma,652,Medium,pyogenic-granuloma,False,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000652.png
+8,0.33225810527801514,basal cell carcinoma,655,Medium,squamous-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000655.png
+55,0.46108925342559814,malignant melanoma,656,Medium,basal-cell-carcinoma,True,34,/content/drive/MyDrive/Skin Tone Fairness/DDI/000656.png

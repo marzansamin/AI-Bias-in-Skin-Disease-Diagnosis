@@ -1,0 +1,33 @@
+{
+    "model": "EfficientNet-B0",
+    "method": "M1 \u2014 Skin-tone Data Augmentation",
+    "strategy": "Mixup + Synthetic Image Generation",
+    "test_samples": 2454,
+    "disease_classes": 114,
+    "overall": {
+        "accuracy": 0.44050529747351264,
+        "balanced_accuracy": 0.41114543242122165,
+        "macro_precision": 0.4337494035943325,
+        "macro_recall": 0.41114543242122165,
+        "macro_f1": 0.4088402520950791,
+        "weighted_f1": 0.4342342615676783
+    },
+    "fairness": {
+        "accuracy_gap": 0.24024230101241162,
+        "known_tone_accuracy_gap": 0.24024230101241162,
+        "all_group_macro_f1_gap": 0.2209248614950163,
+        "known_tone_macro_f1_gap": 0.14749905298074295
+    },
+    "best_accuracy_group": "Medium",
+    "worst_accuracy_group": "Light",
+    "best_f1_group": "Medium",
+    "worst_f1_group": "Unknown",
+    "comparison": {
+        "baseline_accuracy": 0.445,
+        "baseline_macro_f1": 0.4051,
+        "baseline_accuracy_gap": 0.2436,
+        "baseline_known_f1_gap": 0.1666,
+        "fairness_improvement": true,
+        "overall_performance_improvement": true
+    }
+}

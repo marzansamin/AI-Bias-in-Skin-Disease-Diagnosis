@@ -1,0 +1,6 @@
+Figure Number,Filename,Path,Paper Use
+Phase 9 Figure 1,phase_9_3_ddi_external_performance.png,/content/skin-tone-fairness/outputs/figures/phase_9_3_ddi_external_performance.png,Paper-ready visualization
+Phase 9 Figure 2,phase_9_7_DDI_prediction_coverage.png,/content/skin-tone-fairness/outputs/figures/phase_9_7_DDI_prediction_coverage.png,Paper-ready visualization
+Phase 9 Figure 3,Fig_6_fairness_comparison_WGA_EOD_DPD_EqOD.png,/content/skin-tone-fairness/outputs/figures/Fig_6_fairness_comparison_WGA_EOD_DPD_EqOD.png,Paper-ready visualization
+Phase 9 Figure 4,Fig_7_macroF1_vs_EOD_tradeoff.png,/content/skin-tone-fairness/outputs/figures/Fig_7_macroF1_vs_EOD_tradeoff.png,Paper-ready visualization
+Phase 9 Figure 5,Fig_8_fitzpatrick17k_vs_DDI_performance.png,/content/skin-tone-fairness/outputs/figures/Fig_8_fitzpatrick17k_vs_DDI_performance.png,Paper-ready visualization

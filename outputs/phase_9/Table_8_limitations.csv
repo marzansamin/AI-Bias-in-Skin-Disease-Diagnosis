@@ -1,0 +1,8 @@
+Limitation ID,Limitation
+L1,Fitzpatrick17k and DDI use different disease label spaces.
+L2,DDI evaluation uses a harmonized 14-class space rather than the full 114-class space.
+L3,M2 + M3 has only 41.90% prediction coverage on DDI.
+L4,122 of 210 DDI predictions are outside the harmonized prediction space.
+L5,Complete internal Fitzpatrick17k performance records are not available for M3 and M2 + M3.
+L6,Fairness metrics capture different aspects of disparity and may move in different directions.
+L7,Public-dataset evaluation does not establish clinical deployment readiness.

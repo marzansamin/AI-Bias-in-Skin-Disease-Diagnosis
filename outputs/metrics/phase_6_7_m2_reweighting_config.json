@@ -1,0 +1,19 @@
+{
+    "method": "M2",
+    "target_bias": "R2 \u2014 Disease-class imbalance",
+    "strategy": "Adaptive disease-class reweighting",
+    "weight_formula": "sqrt(N / (K * n_c))",
+    "normalization": "mean_weight = 1",
+    "training_samples": 11607,
+    "disease_classes": 114,
+    "largest_disease": "psoriasis",
+    "largest_support": 456,
+    "smallest_disease": "xanthomas",
+    "smallest_support": 37,
+    "imbalance_ratio": 12.324324324324325,
+    "minimum_weight": 0.4093410997281792,
+    "maximum_weight": 1.437033562234443,
+    "weight_ratio": 3.5106017040280038,
+    "mean_weight": 1.0000000000000004,
+    "weight_validation": true
+}

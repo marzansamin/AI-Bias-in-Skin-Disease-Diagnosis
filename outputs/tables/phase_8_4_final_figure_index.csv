@@ -1,0 +1,6 @@
+Figure,Purpose,File
+Figure 8.4.1,Final external model performance comparison,/content/skin-tone-fairness/outputs/figures/phase_8_4_final_model_performance_comparison.png
+Figure 8.4.2,Fitzpatrick17k internal versus DDI external performance,/content/skin-tone-fairness/outputs/figures/phase_8_4_internal_vs_external_dataset_comparison.png
+Figure 8.4.3,Final fairness comparison,/content/skin-tone-fairness/outputs/figures/phase_8_4_final_fairness_comparison.png
+Figure 8.4.4,R3 skin-tone representation mitigation comparison,/content/skin-tone-fairness/outputs/figures/phase_8_4_r3_representation_mitigation_comparison.png
+Figure 8.4.5,Performance versus fairness trade-off,/content/skin-tone-fairness/outputs/figures/phase_8_4_performance_fairness_tradeoff.png

@@ -1,0 +1,1149 @@
+skin_tone_group,true_class_id,true_disease,predicted_class_id,predicted_disease,error_count
+Dark,111,vitiligo,80,pityriasis rubra pilaris,3
+Dark,48,lichen planus,51,lupus erythematosus,2
+Dark,56,melanoma,86,psoriasis,2
+Dark,75,photodermatoses,6,allergic contact dermatitis,2
+Dark,86,psoriasis,17,dermatomyositis,2
+Dark,86,psoriasis,48,lichen planus,2
+Dark,91,sarcoidosis,47,lichen amyloidosis,2
+Dark,98,squamous cell carcinoma,32,folliculitis,2
+Dark,0,acanthosis nigricans,14,congenital nevus,1
+Dark,0,acanthosis nigricans,31,fixed eruptions,1
+Dark,0,acanthosis nigricans,71,papilomatosis confluentes and reticulate,1
+Dark,1,acne,51,lupus erythematosus,1
+Dark,2,acne vulgaris,3,acquired autoimmune bullous diseaseherpes gestationis,1
+Dark,2,acne vulgaris,48,lichen planus,1
+Dark,2,acne vulgaris,68,neutrophilic dermatoses,1
+Dark,2,acne vulgaris,84,port wine stain,1
+Dark,4,acrodermatitis enteropathica,64,nematode infection,1
+Dark,6,allergic contact dermatitis,51,lupus erythematosus,1
+Dark,8,basal cell carcinoma,51,lupus erythematosus,1
+Dark,8,basal cell carcinoma,56,melanoma,1
+Dark,8,basal cell carcinoma,85,prurigo nodularis,1
+Dark,11,behcets disease,35,granuloma pyogenic,1
+Dark,12,calcinosis cutis,93,scleroderma,1
+Dark,15,dariers disease,2,acne vulgaris,1
+Dark,15,dariers disease,54,lymphangioma,1
+Dark,15,dariers disease,80,pityriasis rubra pilaris,1
+Dark,15,dariers disease,92,scabies,1
+Dark,15,dariers disease,95,seborrheic dermatitis,1
+Dark,15,dariers disease,113,xeroderma pigmentosum,1
+Dark,17,dermatomyositis,80,pityriasis rubra pilaris,1
+Dark,17,dermatomyositis,90,rosacea,1
+Dark,19,drug eruption,32,folliculitis,1
+Dark,19,drug eruption,64,nematode infection,1
+Dark,19,drug eruption,92,scabies,1
+Dark,20,drug induced pigmentary changes,93,scleroderma,1
+Dark,21,dyshidrotic eczema,80,pityriasis rubra pilaris,1
+Dark,22,eczema,60,mycosis fungoides,1
+Dark,22,eczema,71,papilomatosis confluentes and reticulate,1
+Dark,22,eczema,99,stasis edema,1
+Dark,24,epidermal nevus,16,dermatofibroma,1
+Dark,25,epidermolysis bullosa,68,neutrophilic dermatoses,1
+Dark,25,epidermolysis bullosa,113,xeroderma pigmentosum,1
+Dark,27,erythema elevatum diutinum,8,basal cell carcinoma,1
+Dark,27,erythema elevatum diutinum,80,pityriasis rubra pilaris,1
+Dark,28,erythema multiforme,68,neutrophilic dermatoses,1
+Dark,28,erythema multiforme,75,photodermatoses,1
+Dark,28,erythema multiforme,79,pityriasis rosea,1
+Dark,31,fixed eruptions,2,acne vulgaris,1
+Dark,31,fixed eruptions,11,behcets disease,1
+Dark,31,fixed eruptions,86,psoriasis,1
+Dark,32,folliculitis,80,pityriasis rubra pilaris,1
+Dark,34,granuloma annulare,91,sarcoidosis,1
+Dark,34,granuloma annulare,95,seborrheic dermatitis,1
+Dark,34,granuloma annulare,113,xeroderma pigmentosum,1
+Dark,38,hidradenitis,86,psoriasis,1
+Dark,38,hidradenitis,92,scabies,1
+Dark,39,ichthyosis vulgaris,80,pityriasis rubra pilaris,1
+Dark,39,ichthyosis vulgaris,86,psoriasis,1
+Dark,41,juvenile xanthogranuloma,35,granuloma pyogenic,1
+Dark,41,juvenile xanthogranuloma,93,scleroderma,1
+Dark,42,kaposi sarcoma,6,allergic contact dermatitis,1
+Dark,42,kaposi sarcoma,17,dermatomyositis,1
+Dark,42,kaposi sarcoma,48,lichen planus,1
+Dark,43,keloid,111,vitiligo,1
+Dark,45,langerhans cell histiocytosis,91,sarcoidosis,1
+Dark,48,lichen planus,29,erythema nodosum,1
+Dark,48,lichen planus,79,pityriasis rosea,1
+Dark,48,lichen planus,86,psoriasis,1
+Dark,48,lichen planus,99,stasis edema,1
+Dark,49,lichen simplex,15,dariers disease,1
+Dark,49,lichen simplex,100,stevens johnson syndrome,1
+Dark,51,lupus erythematosus,56,melanoma,1
+Dark,51,lupus erythematosus,59,mucous cyst,1
+Dark,51,lupus erythematosus,66,neurofibromatosis,1
+Dark,51,lupus erythematosus,75,photodermatoses,1
+Dark,52,lupus subacute,48,lichen planus,1
+Dark,54,lymphangioma,23,ehlers danlos syndrome,1
+Dark,56,melanoma,32,folliculitis,1
+Dark,58,mucinosis,76,pilar cyst,1
+Dark,59,mucous cyst,38,hidradenitis,1
+Dark,59,mucous cyst,48,lichen planus,1
+Dark,60,mycosis fungoides,2,acne vulgaris,1
+Dark,60,mycosis fungoides,15,dariers disease,1
+Dark,60,mycosis fungoides,53,lyme disease,1
+Dark,61,myiasis,68,neutrophilic dermatoses,1
+Dark,64,nematode infection,23,ehlers danlos syndrome,1
+Dark,66,neurofibromatosis,96,seborrheic keratosis,1
+Dark,66,neurofibromatosis,104,syringoma,1
+Dark,68,neutrophilic dermatoses,63,necrobiosis lipoidica,1
+Dark,68,neutrophilic dermatoses,88,pyogenic granuloma,1
+Dark,68,neutrophilic dermatoses,93,scleroderma,1
+Dark,70,nevus sebaceous of jadassohn,47,lichen amyloidosis,1
+Dark,75,photodermatoses,113,xeroderma pigmentosum,1
+Dark,79,pityriasis rosea,86,psoriasis,1
+Dark,79,pityriasis rosea,96,seborrheic keratosis,1
+Dark,80,pityriasis rubra pilaris,113,xeroderma pigmentosum,1
+Dark,83,porphyria,48,lichen planus,1
+Dark,83,porphyria,63,necrobiosis lipoidica,1
+Dark,84,port wine stain,91,sarcoidosis,1
+Dark,85,prurigo nodularis,3,acquired autoimmune bullous diseaseherpes gestationis,1
+Dark,85,prurigo nodularis,48,lichen planus,1
+Dark,85,prurigo nodularis,64,nematode infection,1
+Dark,86,psoriasis,6,allergic contact dermatitis,1
+Dark,86,psoriasis,49,lichen simplex,1
+Dark,87,pustular psoriasis,85,prurigo nodularis,1
+Dark,91,sarcoidosis,23,ehlers danlos syndrome,1
+Dark,91,sarcoidosis,43,keloid,1
+Dark,91,sarcoidosis,51,lupus erythematosus,1
+Dark,91,sarcoidosis,68,neutrophilic dermatoses,1
+Dark,92,scabies,32,folliculitis,1
+Dark,92,scabies,68,neutrophilic dermatoses,1
+Dark,92,scabies,75,photodermatoses,1
+Dark,93,scleroderma,113,xeroderma pigmentosum,1
+Dark,94,scleromyxedema,39,ichthyosis vulgaris,1
+Dark,95,seborrheic dermatitis,86,psoriasis,1
+Dark,96,seborrheic keratosis,103,superficial spreading melanoma ssm,1
+Dark,96,seborrheic keratosis,113,xeroderma pigmentosum,1
+Dark,98,squamous cell carcinoma,8,basal cell carcinoma,1
+Dark,98,squamous cell carcinoma,22,eczema,1
+Dark,98,squamous cell carcinoma,73,pediculosis lids,1
+Dark,99,stasis edema,42,kaposi sarcoma,1
+Dark,100,stevens johnson syndrome,40,incontinentia pigmenti,1
+Dark,101,striae,109,urticaria,1
+Dark,102,sun damaged skin,60,mycosis fungoides,1
+Dark,104,syringoma,15,dariers disease,1
+Dark,106,tick bite,96,seborrheic keratosis,1
+Dark,107,tuberous sclerosis,3,acquired autoimmune bullous diseaseherpes gestationis,1
+Dark,110,urticaria pigmentosa,23,ehlers danlos syndrome,1
+Dark,111,vitiligo,32,folliculitis,1
+Dark,112,xanthomas,111,vitiligo,1
+Dark,113,xeroderma pigmentosum,100,stevens johnson syndrome,1
+Light,8,basal cell carcinoma,98,squamous cell carcinoma,6
+Light,90,rosacea,89,rhinophyma,5
+Light,98,squamous cell carcinoma,8,basal cell carcinoma,5
+Light,1,acne,2,acne vulgaris,4
+Light,56,melanoma,103,superficial spreading melanoma ssm,4
+Light,2,acne vulgaris,1,acne,3
+Light,6,allergic contact dermatitis,86,psoriasis,3
+Light,6,allergic contact dermatitis,99,stasis edema,3
+Light,8,basal cell carcinoma,88,pyogenic granuloma,3
+Light,9,basal cell carcinoma morpheiform,98,squamous cell carcinoma,3
+Light,14,congenital nevus,110,urticaria pigmentosa,3
+Light,19,drug eruption,86,psoriasis,3
+Light,22,eczema,32,folliculitis,3
+Light,56,melanoma,93,scleroderma,3
+Light,60,mycosis fungoides,91,sarcoidosis,3
+Light,69,nevocytic nevus,103,superficial spreading melanoma ssm,3
+Light,75,photodermatoses,6,allergic contact dermatitis,3
+Light,75,photodermatoses,32,folliculitis,3
+Light,86,psoriasis,45,langerhans cell histiocytosis,3
+Light,98,squamous cell carcinoma,22,eczema,3
+Light,105,telangiectases,17,dermatomyositis,3
+Light,1,acne,6,allergic contact dermatitis,2
+Light,1,acne,92,scabies,2
+Light,1,acne,100,stevens johnson syndrome,2
+Light,2,acne vulgaris,22,eczema,2
+Light,2,acne vulgaris,32,folliculitis,2
+Light,3,acquired autoimmune bullous diseaseherpes gestationis,28,erythema multiforme,2
+Light,5,actinic keratosis,22,eczema,2
+Light,6,allergic contact dermatitis,8,basal cell carcinoma,2
+Light,6,allergic contact dermatitis,17,dermatomyositis,2
+Light,6,allergic contact dermatitis,74,perioral dermatitis,2
+Light,6,allergic contact dermatitis,91,sarcoidosis,2
+Light,8,basal cell carcinoma,5,actinic keratosis,2
+Light,8,basal cell carcinoma,6,allergic contact dermatitis,2
+Light,8,basal cell carcinoma,32,folliculitis,2
+Light,8,basal cell carcinoma,97,solid cystic basal cell carcinoma,2
+Light,13,cheilitis,74,perioral dermatitis,2
+Light,17,dermatomyositis,92,scabies,2
+Light,18,disseminated actinic porokeratosis,85,prurigo nodularis,2
+Light,19,drug eruption,100,stevens johnson syndrome,2
+Light,21,dyshidrotic eczema,22,eczema,2
+Light,28,erythema multiforme,68,neutrophilic dermatoses,2
+Light,28,erythema multiforme,100,stevens johnson syndrome,2
+Light,29,erythema nodosum,6,allergic contact dermatitis,2
+Light,32,folliculitis,68,neutrophilic dermatoses,2
+Light,34,granuloma annulare,82,porokeratosis of mibelli,2
+Light,37,halo nevus,41,juvenile xanthogranuloma,2
+Light,39,ichthyosis vulgaris,0,acanthosis nigricans,2
+Light,41,juvenile xanthogranuloma,32,folliculitis,2
+Light,42,kaposi sarcoma,28,erythema multiforme,2
+Light,44,keratosis pilaris,32,folliculitis,2
+Light,48,lichen planus,28,erythema multiforme,2
+Light,51,lupus erythematosus,17,dermatomyositis,2
+Light,51,lupus erythematosus,52,lupus subacute,2
+Light,51,lupus erythematosus,53,lyme disease,2
+Light,51,lupus erythematosus,90,rosacea,2
+Light,55,malignant melanoma,16,dermatofibroma,2
+Light,55,malignant melanoma,103,superficial spreading melanoma ssm,2
+Light,56,melanoma,98,squamous cell carcinoma,2
+Light,57,milia,53,lyme disease,2
+Light,58,mucinosis,53,lyme disease,2
+Light,63,necrobiosis lipoidica,91,sarcoidosis,2
+Light,66,neurofibromatosis,1,acne,2
+Light,68,neutrophilic dermatoses,6,allergic contact dermatitis,2
+Light,68,neutrophilic dermatoses,28,erythema multiforme,2
+Light,68,neutrophilic dermatoses,60,mycosis fungoides,2
+Light,68,neutrophilic dermatoses,84,port wine stain,2
+Light,68,neutrophilic dermatoses,98,squamous cell carcinoma,2
+Light,74,perioral dermatitis,1,acne,2
+Light,74,perioral dermatitis,90,rosacea,2
+Light,75,photodermatoses,19,drug eruption,2
+Light,75,photodermatoses,68,neutrophilic dermatoses,2
+Light,75,photodermatoses,93,scleroderma,2
+Light,76,pilar cyst,55,malignant melanoma,2
+Light,79,pityriasis rosea,64,nematode infection,2
+Light,82,porokeratosis of mibelli,86,psoriasis,2
+Light,83,porphyria,86,psoriasis,2
+Light,84,port wine stain,91,sarcoidosis,2
+Light,86,psoriasis,6,allergic contact dermatitis,2
+Light,86,psoriasis,22,eczema,2
+Light,86,psoriasis,28,erythema multiforme,2
+Light,86,psoriasis,48,lichen planus,2
+Light,87,pustular psoriasis,60,mycosis fungoides,2
+Light,88,pyogenic granuloma,25,epidermolysis bullosa,2
+Light,88,pyogenic granuloma,35,granuloma pyogenic,2
+Light,91,sarcoidosis,1,acne,2
+Light,91,sarcoidosis,28,erythema multiforme,2
+Light,92,scabies,6,allergic contact dermatitis,2
+Light,93,scleroderma,29,erythema nodosum,2
+Light,93,scleroderma,48,lichen planus,2
+Light,93,scleroderma,53,lyme disease,2
+Light,93,scleroderma,73,pediculosis lids,2
+Light,93,scleroderma,75,photodermatoses,2
+Light,98,squamous cell carcinoma,32,folliculitis,2
+Light,98,squamous cell carcinoma,86,psoriasis,2
+Light,98,squamous cell carcinoma,88,pyogenic granuloma,2
+Light,109,urticaria,79,pityriasis rosea,2
+Light,109,urticaria,93,scleroderma,2
+Light,110,urticaria pigmentosa,28,erythema multiforme,2
+Light,110,urticaria pigmentosa,45,langerhans cell histiocytosis,2
+Light,0,acanthosis nigricans,60,mycosis fungoides,1
+Light,1,acne,8,basal cell carcinoma,1
+Light,1,acne,22,eczema,1
+Light,1,acne,31,fixed eruptions,1
+Light,1,acne,57,milia,1
+Light,1,acne,74,perioral dermatitis,1
+Light,1,acne,86,psoriasis,1
+Light,2,acne vulgaris,75,photodermatoses,1
+Light,2,acne vulgaris,105,telangiectases,1
+Light,2,acne vulgaris,106,tick bite,1
+Light,2,acne vulgaris,107,tuberous sclerosis,1
+Light,3,acquired autoimmune bullous diseaseherpes gestationis,29,erythema nodosum,1
+Light,3,acquired autoimmune bullous diseaseherpes gestationis,32,folliculitis,1
+Light,3,acquired autoimmune bullous diseaseherpes gestationis,41,juvenile xanthogranuloma,1
+Light,3,acquired autoimmune bullous diseaseherpes gestationis,52,lupus subacute,1
+Light,4,acrodermatitis enteropathica,6,allergic contact dermatitis,1
+Light,4,acrodermatitis enteropathica,14,congenital nevus,1
+Light,4,acrodermatitis enteropathica,17,dermatomyositis,1
+Light,4,acrodermatitis enteropathica,32,folliculitis,1
+Light,4,acrodermatitis enteropathica,90,rosacea,1
+Light,5,actinic keratosis,6,allergic contact dermatitis,1
+Light,5,actinic keratosis,17,dermatomyositis,1
+Light,5,actinic keratosis,45,langerhans cell histiocytosis,1
+Light,5,actinic keratosis,48,lichen planus,1
+Light,5,actinic keratosis,60,mycosis fungoides,1
+Light,5,actinic keratosis,85,prurigo nodularis,1
+Light,5,actinic keratosis,86,psoriasis,1
+Light,5,actinic keratosis,93,scleroderma,1
+Light,5,actinic keratosis,98,squamous cell carcinoma,1
+Light,6,allergic contact dermatitis,5,actinic keratosis,1
+Light,6,allergic contact dermatitis,10,becker nevus,1
+Light,6,allergic contact dermatitis,22,eczema,1
+Light,6,allergic contact dermatitis,28,erythema multiforme,1
+Light,6,allergic contact dermatitis,32,folliculitis,1
+Light,6,allergic contact dermatitis,53,lyme disease,1
+Light,6,allergic contact dermatitis,55,malignant melanoma,1
+Light,6,allergic contact dermatitis,56,melanoma,1
+Light,6,allergic contact dermatitis,60,mycosis fungoides,1
+Light,6,allergic contact dermatitis,63,necrobiosis lipoidica,1
+Light,6,allergic contact dermatitis,68,neutrophilic dermatoses,1
+Light,6,allergic contact dermatitis,73,pediculosis lids,1
+Light,6,allergic contact dermatitis,84,port wine stain,1
+Light,6,allergic contact dermatitis,92,scabies,1
+Light,7,aplasia cutis,28,erythema multiforme,1
+Light,7,aplasia cutis,41,juvenile xanthogranuloma,1
+Light,7,aplasia cutis,73,pediculosis lids,1
+Light,7,aplasia cutis,75,photodermatoses,1
+Light,7,aplasia cutis,92,scabies,1
+Light,8,basal cell carcinoma,9,basal cell carcinoma morpheiform,1
+Light,8,basal cell carcinoma,15,dariers disease,1
+Light,8,basal cell carcinoma,40,incontinentia pigmenti,1
+Light,8,basal cell carcinoma,45,langerhans cell histiocytosis,1
+Light,8,basal cell carcinoma,51,lupus erythematosus,1
+Light,8,basal cell carcinoma,56,melanoma,1
+Light,8,basal cell carcinoma,68,neutrophilic dermatoses,1
+Light,9,basal cell carcinoma morpheiform,7,aplasia cutis,1
+Light,9,basal cell carcinoma morpheiform,46,lentigo maligna,1
+Light,9,basal cell carcinoma morpheiform,52,lupus subacute,1
+Light,9,basal cell carcinoma morpheiform,96,seborrheic keratosis,1
+Light,10,becker nevus,66,neurofibromatosis,1
+Light,10,becker nevus,78,pityriasis lichenoides chronica,1
+Light,11,behcets disease,48,lichen planus,1
+Light,11,behcets disease,100,stevens johnson syndrome,1
+Light,12,calcinosis cutis,5,actinic keratosis,1
+Light,12,calcinosis cutis,50,livedo reticularis,1
+Light,12,calcinosis cutis,52,lupus subacute,1
+Light,12,calcinosis cutis,69,nevocytic nevus,1
+Light,12,calcinosis cutis,94,scleromyxedema,1
+Light,12,calcinosis cutis,98,squamous cell carcinoma,1
+Light,13,cheilitis,6,allergic contact dermatitis,1
+Light,13,cheilitis,33,fordyce spots,1
+Light,13,cheilitis,51,lupus erythematosus,1
+Light,13,cheilitis,66,neurofibromatosis,1
+Light,14,congenital nevus,32,folliculitis,1
+Light,14,congenital nevus,98,squamous cell carcinoma,1
+Light,15,dariers disease,5,actinic keratosis,1
+Light,15,dariers disease,18,disseminated actinic porokeratosis,1
+Light,15,dariers disease,19,drug eruption,1
+Light,15,dariers disease,22,eczema,1
+Light,15,dariers disease,28,erythema multiforme,1
+Light,15,dariers disease,33,fordyce spots,1
+Light,15,dariers disease,48,lichen planus,1
+Light,15,dariers disease,92,scabies,1
+Light,16,dermatofibroma,5,actinic keratosis,1
+Light,16,dermatofibroma,51,lupus erythematosus,1
+Light,16,dermatofibroma,55,malignant melanoma,1
+Light,16,dermatofibroma,88,pyogenic granuloma,1
+Light,17,dermatomyositis,22,eczema,1
+Light,17,dermatomyositis,29,erythema nodosum,1
+Light,17,dermatomyositis,31,fixed eruptions,1
+Light,17,dermatomyositis,32,folliculitis,1
+Light,17,dermatomyositis,52,lupus subacute,1
+Light,17,dermatomyositis,72,paronychia,1
+Light,17,dermatomyositis,86,psoriasis,1
+Light,17,dermatomyositis,105,telangiectases,1
+Light,18,disseminated actinic porokeratosis,40,incontinentia pigmenti,1
+Light,18,disseminated actinic porokeratosis,78,pityriasis lichenoides chronica,1
+Light,19,drug eruption,50,livedo reticularis,1
+Light,19,drug eruption,53,lyme disease,1
+Light,19,drug eruption,60,mycosis fungoides,1
+Light,19,drug eruption,75,photodermatoses,1
+Light,19,drug eruption,77,pilomatricoma,1
+Light,19,drug eruption,87,pustular psoriasis,1
+Light,19,drug eruption,91,sarcoidosis,1
+Light,20,drug induced pigmentary changes,13,cheilitis,1
+Light,20,drug induced pigmentary changes,19,drug eruption,1
+Light,20,drug induced pigmentary changes,48,lichen planus,1
+Light,20,drug induced pigmentary changes,110,urticaria pigmentosa,1
+Light,21,dyshidrotic eczema,28,erythema multiforme,1
+Light,21,dyshidrotic eczema,34,granuloma annulare,1
+Light,21,dyshidrotic eczema,64,nematode infection,1
+Light,21,dyshidrotic eczema,71,papilomatosis confluentes and reticulate,1
+Light,21,dyshidrotic eczema,92,scabies,1
+Light,22,eczema,5,actinic keratosis,1
+Light,22,eczema,23,ehlers danlos syndrome,1
+Light,22,eczema,39,ichthyosis vulgaris,1
+Light,22,eczema,48,lichen planus,1
+Light,22,eczema,60,mycosis fungoides,1
+Light,22,eczema,71,papilomatosis confluentes and reticulate,1
+Light,22,eczema,75,photodermatoses,1
+Light,22,eczema,86,psoriasis,1
+Light,22,eczema,91,sarcoidosis,1
+Light,22,eczema,93,scleroderma,1
+Light,22,eczema,99,stasis edema,1
+Light,23,ehlers danlos syndrome,56,melanoma,1
+Light,23,ehlers danlos syndrome,86,psoriasis,1
+Light,24,epidermal nevus,6,allergic contact dermatitis,1
+Light,24,epidermal nevus,40,incontinentia pigmenti,1
+Light,24,epidermal nevus,64,nematode infection,1
+Light,24,epidermal nevus,70,nevus sebaceous of jadassohn,1
+Light,24,epidermal nevus,86,psoriasis,1
+Light,24,epidermal nevus,98,squamous cell carcinoma,1
+Light,25,epidermolysis bullosa,13,cheilitis,1
+Light,25,epidermolysis bullosa,28,erythema multiforme,1
+Light,25,epidermolysis bullosa,33,fordyce spots,1
+Light,25,epidermolysis bullosa,64,nematode infection,1
+Light,25,epidermolysis bullosa,86,psoriasis,1
+Light,26,erythema annulare centrifigum,19,drug eruption,1
+Light,26,erythema annulare centrifigum,109,urticaria,1
+Light,27,erythema elevatum diutinum,58,mucinosis,1
+Light,27,erythema elevatum diutinum,86,psoriasis,1
+Light,28,erythema multiforme,19,drug eruption,1
+Light,28,erythema multiforme,44,keratosis pilaris,1
+Light,28,erythema multiforme,52,lupus subacute,1
+Light,28,erythema multiforme,53,lyme disease,1
+Light,28,erythema multiforme,86,psoriasis,1
+Light,28,erythema multiforme,101,striae,1
+Light,29,erythema nodosum,40,incontinentia pigmenti,1
+Light,29,erythema nodosum,91,sarcoidosis,1
+Light,30,factitial dermatitis,32,folliculitis,1
+Light,30,factitial dermatitis,63,necrobiosis lipoidica,1
+Light,30,factitial dermatitis,75,photodermatoses,1
+Light,30,factitial dermatitis,91,sarcoidosis,1
+Light,31,fixed eruptions,0,acanthosis nigricans,1
+Light,31,fixed eruptions,8,basal cell carcinoma,1
+Light,31,fixed eruptions,28,erythema multiforme,1
+Light,31,fixed eruptions,32,folliculitis,1
+Light,31,fixed eruptions,86,psoriasis,1
+Light,32,folliculitis,48,lichen planus,1
+Light,32,folliculitis,78,pityriasis lichenoides chronica,1
+Light,32,folliculitis,92,scabies,1
+Light,32,folliculitis,95,seborrheic dermatitis,1
+Light,33,fordyce spots,45,langerhans cell histiocytosis,1
+Light,33,fordyce spots,101,striae,1
+Light,34,granuloma annulare,10,becker nevus,1
+Light,34,granuloma annulare,28,erythema multiforme,1
+Light,34,granuloma annulare,29,erythema nodosum,1
+Light,34,granuloma annulare,31,fixed eruptions,1
+Light,34,granuloma annulare,35,granuloma pyogenic,1
+Light,34,granuloma annulare,36,hailey hailey disease,1
+Light,34,granuloma annulare,40,incontinentia pigmenti,1
+Light,34,granuloma annulare,60,mycosis fungoides,1
+Light,34,granuloma annulare,68,neutrophilic dermatoses,1
+Light,34,granuloma annulare,91,sarcoidosis,1
+Light,34,granuloma annulare,95,seborrheic dermatitis,1
+Light,35,granuloma pyogenic,56,melanoma,1
+Light,35,granuloma pyogenic,59,mucous cyst,1
+Light,35,granuloma pyogenic,75,photodermatoses,1
+Light,36,hailey hailey disease,2,acne vulgaris,1
+Light,36,hailey hailey disease,38,hidradenitis,1
+Light,36,hailey hailey disease,51,lupus erythematosus,1
+Light,36,hailey hailey disease,95,seborrheic dermatitis,1
+Light,38,hidradenitis,1,acne,1
+Light,38,hidradenitis,17,dermatomyositis,1
+Light,38,hidradenitis,60,mycosis fungoides,1
+Light,38,hidradenitis,64,nematode infection,1
+Light,38,hidradenitis,107,tuberous sclerosis,1
+Light,39,ichthyosis vulgaris,21,dyshidrotic eczema,1
+Light,40,incontinentia pigmenti,7,aplasia cutis,1
+Light,40,incontinentia pigmenti,13,cheilitis,1
+Light,40,incontinentia pigmenti,89,rhinophyma,1
+Light,40,incontinentia pigmenti,105,telangiectases,1
+Light,40,incontinentia pigmenti,109,urticaria,1
+Light,41,juvenile xanthogranuloma,16,dermatofibroma,1
+Light,41,juvenile xanthogranuloma,31,fixed eruptions,1
+Light,41,juvenile xanthogranuloma,53,lyme disease,1
+Light,41,juvenile xanthogranuloma,69,nevocytic nevus,1
+Light,41,juvenile xanthogranuloma,78,pityriasis lichenoides chronica,1
+Light,41,juvenile xanthogranuloma,91,sarcoidosis,1
+Light,42,kaposi sarcoma,85,prurigo nodularis,1
+Light,42,kaposi sarcoma,86,psoriasis,1
+Light,42,kaposi sarcoma,88,pyogenic granuloma,1
+Light,42,kaposi sarcoma,103,superficial spreading melanoma ssm,1
+Light,43,keloid,75,photodermatoses,1
+Light,43,keloid,89,rhinophyma,1
+Light,43,keloid,113,xeroderma pigmentosum,1
+Light,44,keratosis pilaris,18,disseminated actinic porokeratosis,1
+Light,44,keratosis pilaris,47,lichen amyloidosis,1
+Light,44,keratosis pilaris,75,photodermatoses,1
+Light,44,keratosis pilaris,93,scleroderma,1
+Light,45,langerhans cell histiocytosis,70,nevus sebaceous of jadassohn,1
+Light,46,lentigo maligna,8,basal cell carcinoma,1
+Light,46,lentigo maligna,73,pediculosis lids,1
+Light,47,lichen amyloidosis,32,folliculitis,1
+Light,47,lichen amyloidosis,64,nematode infection,1
+Light,48,lichen planus,2,acne vulgaris,1
+Light,48,lichen planus,16,dermatofibroma,1
+Light,48,lichen planus,22,eczema,1
+Light,48,lichen planus,25,epidermolysis bullosa,1
+Light,48,lichen planus,32,folliculitis,1
+Light,48,lichen planus,33,fordyce spots,1
+Light,48,lichen planus,34,granuloma annulare,1
+Light,48,lichen planus,42,kaposi sarcoma,1
+Light,48,lichen planus,47,lichen amyloidosis,1
+Light,48,lichen planus,63,necrobiosis lipoidica,1
+Light,48,lichen planus,64,nematode infection,1
+Light,48,lichen planus,69,nevocytic nevus,1
+Light,48,lichen planus,75,photodermatoses,1
+Light,48,lichen planus,85,prurigo nodularis,1
+Light,48,lichen planus,86,psoriasis,1
+Light,48,lichen planus,88,pyogenic granuloma,1
+Light,48,lichen planus,91,sarcoidosis,1
+Light,49,lichen simplex,109,urticaria,1
+Light,50,livedo reticularis,23,ehlers danlos syndrome,1
+Light,50,livedo reticularis,28,erythema multiforme,1
+Light,50,livedo reticularis,109,urticaria,1
+Light,51,lupus erythematosus,2,acne vulgaris,1
+Light,51,lupus erythematosus,13,cheilitis,1
+Light,51,lupus erythematosus,22,eczema,1
+Light,51,lupus erythematosus,26,erythema annulare centrifigum,1
+Light,51,lupus erythematosus,63,necrobiosis lipoidica,1
+Light,51,lupus erythematosus,68,neutrophilic dermatoses,1
+Light,51,lupus erythematosus,75,photodermatoses,1
+Light,51,lupus erythematosus,86,psoriasis,1
+Light,51,lupus erythematosus,91,sarcoidosis,1
+Light,51,lupus erythematosus,92,scabies,1
+Light,52,lupus subacute,6,allergic contact dermatitis,1
+Light,52,lupus subacute,13,cheilitis,1
+Light,52,lupus subacute,16,dermatofibroma,1
+Light,52,lupus subacute,34,granuloma annulare,1
+Light,52,lupus subacute,51,lupus erythematosus,1
+Light,52,lupus subacute,72,paronychia,1
+Light,52,lupus subacute,74,perioral dermatitis,1
+Light,52,lupus subacute,86,psoriasis,1
+Light,52,lupus subacute,93,scleroderma,1
+Light,52,lupus subacute,98,squamous cell carcinoma,1
+Light,53,lyme disease,0,acanthosis nigricans,1
+Light,53,lyme disease,8,basal cell carcinoma,1
+Light,53,lyme disease,14,congenital nevus,1
+Light,53,lyme disease,42,kaposi sarcoma,1
+Light,53,lyme disease,68,neutrophilic dermatoses,1
+Light,53,lyme disease,108,tungiasis,1
+Light,54,lymphangioma,6,allergic contact dermatitis,1
+Light,54,lymphangioma,9,basal cell carcinoma morpheiform,1
+Light,54,lymphangioma,22,eczema,1
+Light,54,lymphangioma,32,folliculitis,1
+Light,54,lymphangioma,56,melanoma,1
+Light,54,lymphangioma,75,photodermatoses,1
+Light,54,lymphangioma,88,pyogenic granuloma,1
+Light,55,malignant melanoma,6,allergic contact dermatitis,1
+Light,55,malignant melanoma,8,basal cell carcinoma,1
+Light,55,malignant melanoma,17,dermatomyositis,1
+Light,55,malignant melanoma,38,hidradenitis,1
+Light,55,malignant melanoma,93,scleroderma,1
+Light,55,malignant melanoma,98,squamous cell carcinoma,1
+Light,56,melanoma,8,basal cell carcinoma,1
+Light,56,melanoma,39,ichthyosis vulgaris,1
+Light,56,melanoma,52,lupus subacute,1
+Light,56,melanoma,69,nevocytic nevus,1
+Light,56,melanoma,72,paronychia,1
+Light,56,melanoma,86,psoriasis,1
+Light,57,milia,1,acne,1
+Light,57,milia,8,basal cell carcinoma,1
+Light,57,milia,48,lichen planus,1
+Light,57,milia,68,neutrophilic dermatoses,1
+Light,57,milia,78,pityriasis lichenoides chronica,1
+Light,57,milia,91,sarcoidosis,1
+Light,57,milia,105,telangiectases,1
+Light,58,mucinosis,6,allergic contact dermatitis,1
+Light,58,mucinosis,7,aplasia cutis,1
+Light,58,mucinosis,19,drug eruption,1
+Light,58,mucinosis,22,eczema,1
+Light,59,mucous cyst,6,allergic contact dermatitis,1
+Light,59,mucous cyst,32,folliculitis,1
+Light,59,mucous cyst,52,lupus subacute,1
+Light,59,mucous cyst,55,malignant melanoma,1
+Light,59,mucous cyst,98,squamous cell carcinoma,1
+Light,60,mycosis fungoides,0,acanthosis nigricans,1
+Light,60,mycosis fungoides,1,acne,1
+Light,60,mycosis fungoides,5,actinic keratosis,1
+Light,60,mycosis fungoides,6,allergic contact dermatitis,1
+Light,60,mycosis fungoides,51,lupus erythematosus,1
+Light,60,mycosis fungoides,93,scleroderma,1
+Light,61,myiasis,65,neurodermatitis,1
+Light,62,naevus comedonicus,1,acne,1
+Light,62,naevus comedonicus,32,folliculitis,1
+Light,63,necrobiosis lipoidica,32,folliculitis,1
+Light,63,necrobiosis lipoidica,56,melanoma,1
+Light,64,nematode infection,51,lupus erythematosus,1
+Light,64,nematode infection,77,pilomatricoma,1
+Light,64,nematode infection,109,urticaria,1
+Light,65,neurodermatitis,25,epidermolysis bullosa,1
+Light,65,neurodermatitis,41,juvenile xanthogranuloma,1
+Light,65,neurodermatitis,52,lupus subacute,1
+Light,65,neurodermatitis,56,melanoma,1
+Light,65,neurodermatitis,63,necrobiosis lipoidica,1
+Light,65,neurodermatitis,75,photodermatoses,1
+Light,65,neurodermatitis,105,telangiectases,1
+Light,66,neurofibromatosis,3,acquired autoimmune bullous diseaseherpes gestationis,1
+Light,66,neurofibromatosis,40,incontinentia pigmenti,1
+Light,66,neurofibromatosis,77,pilomatricoma,1
+Light,66,neurofibromatosis,98,squamous cell carcinoma,1
+Light,67,neurotic excoriations,23,ehlers danlos syndrome,1
+Light,67,neurotic excoriations,32,folliculitis,1
+Light,67,neurotic excoriations,91,sarcoidosis,1
+Light,67,neurotic excoriations,107,tuberous sclerosis,1
+Light,68,neutrophilic dermatoses,19,drug eruption,1
+Light,68,neutrophilic dermatoses,48,lichen planus,1
+Light,68,neutrophilic dermatoses,64,nematode infection,1
+Light,68,neutrophilic dermatoses,86,psoriasis,1
+Light,68,neutrophilic dermatoses,91,sarcoidosis,1
+Light,68,neutrophilic dermatoses,92,scabies,1
+Light,69,nevocytic nevus,56,melanoma,1
+Light,69,nevocytic nevus,58,mucinosis,1
+Light,69,nevocytic nevus,76,pilar cyst,1
+Light,69,nevocytic nevus,101,striae,1
+Light,70,nevus sebaceous of jadassohn,7,aplasia cutis,1
+Light,70,nevus sebaceous of jadassohn,9,basal cell carcinoma morpheiform,1
+Light,70,nevus sebaceous of jadassohn,11,behcets disease,1
+Light,70,nevus sebaceous of jadassohn,32,folliculitis,1
+Light,70,nevus sebaceous of jadassohn,51,lupus erythematosus,1
+Light,70,nevus sebaceous of jadassohn,55,malignant melanoma,1
+Light,70,nevus sebaceous of jadassohn,97,solid cystic basal cell carcinoma,1
+Light,71,papilomatosis confluentes and reticulate,51,lupus erythematosus,1
+Light,72,paronychia,25,epidermolysis bullosa,1
+Light,72,paronychia,63,necrobiosis lipoidica,1
+Light,72,paronychia,86,psoriasis,1
+Light,72,paronychia,88,pyogenic granuloma,1
+Light,74,perioral dermatitis,22,eczema,1
+Light,75,photodermatoses,8,basal cell carcinoma,1
+Light,75,photodermatoses,22,eczema,1
+Light,75,photodermatoses,39,ichthyosis vulgaris,1
+Light,75,photodermatoses,40,incontinentia pigmenti,1
+Light,75,photodermatoses,48,lichen planus,1
+Light,75,photodermatoses,53,lyme disease,1
+Light,75,photodermatoses,60,mycosis fungoides,1
+Light,75,photodermatoses,76,pilar cyst,1
+Light,75,photodermatoses,77,pilomatricoma,1
+Light,75,photodermatoses,79,pityriasis rosea,1
+Light,75,photodermatoses,88,pyogenic granuloma,1
+Light,75,photodermatoses,95,seborrheic dermatitis,1
+Light,76,pilar cyst,15,dariers disease,1
+Light,76,pilar cyst,50,livedo reticularis,1
+Light,76,pilar cyst,93,scleroderma,1
+Light,76,pilar cyst,104,syringoma,1
+Light,77,pilomatricoma,2,acne vulgaris,1
+Light,77,pilomatricoma,14,congenital nevus,1
+Light,77,pilomatricoma,33,fordyce spots,1
+Light,77,pilomatricoma,98,squamous cell carcinoma,1
+Light,78,pityriasis lichenoides chronica,40,incontinentia pigmenti,1
+Light,78,pityriasis lichenoides chronica,79,pityriasis rosea,1
+Light,79,pityriasis rosea,32,folliculitis,1
+Light,79,pityriasis rosea,36,hailey hailey disease,1
+Light,79,pityriasis rosea,53,lyme disease,1
+Light,80,pityriasis rubra pilaris,86,psoriasis,1
+Light,80,pityriasis rubra pilaris,102,sun damaged skin,1
+Light,80,pityriasis rubra pilaris,111,vitiligo,1
+Light,81,porokeratosis actinic,8,basal cell carcinoma,1
+Light,82,porokeratosis of mibelli,64,nematode infection,1
+Light,82,porokeratosis of mibelli,93,scleroderma,1
+Light,83,porphyria,1,acne,1
+Light,83,porphyria,22,eczema,1
+Light,83,porphyria,52,lupus subacute,1
+Light,83,porphyria,90,rosacea,1
+Light,84,port wine stain,75,photodermatoses,1
+Light,84,port wine stain,86,psoriasis,1
+Light,85,prurigo nodularis,18,disseminated actinic porokeratosis,1
+Light,85,prurigo nodularis,86,psoriasis,1
+Light,85,prurigo nodularis,113,xeroderma pigmentosum,1
+Light,86,psoriasis,13,cheilitis,1
+Light,86,psoriasis,17,dermatomyositis,1
+Light,86,psoriasis,19,drug eruption,1
+Light,86,psoriasis,29,erythema nodosum,1
+Light,86,psoriasis,34,granuloma annulare,1
+Light,86,psoriasis,39,ichthyosis vulgaris,1
+Light,86,psoriasis,41,juvenile xanthogranuloma,1
+Light,86,psoriasis,42,kaposi sarcoma,1
+Light,86,psoriasis,51,lupus erythematosus,1
+Light,86,psoriasis,68,neutrophilic dermatoses,1
+Light,86,psoriasis,73,pediculosis lids,1
+Light,86,psoriasis,75,photodermatoses,1
+Light,86,psoriasis,82,porokeratosis of mibelli,1
+Light,86,psoriasis,84,port wine stain,1
+Light,86,psoriasis,91,sarcoidosis,1
+Light,86,psoriasis,93,scleroderma,1
+Light,86,psoriasis,95,seborrheic dermatitis,1
+Light,86,psoriasis,109,urticaria,1
+Light,87,pustular psoriasis,6,allergic contact dermatitis,1
+Light,87,pustular psoriasis,86,psoriasis,1
+Light,88,pyogenic granuloma,0,acanthosis nigricans,1
+Light,88,pyogenic granuloma,8,basal cell carcinoma,1
+Light,88,pyogenic granuloma,13,cheilitis,1
+Light,88,pyogenic granuloma,28,erythema multiforme,1
+Light,88,pyogenic granuloma,41,juvenile xanthogranuloma,1
+Light,88,pyogenic granuloma,59,mucous cyst,1
+Light,88,pyogenic granuloma,103,superficial spreading melanoma ssm,1
+Light,89,rhinophyma,5,actinic keratosis,1
+Light,89,rhinophyma,83,porphyria,1
+Light,89,rhinophyma,90,rosacea,1
+Light,90,rosacea,17,dermatomyositis,1
+Light,90,rosacea,51,lupus erythematosus,1
+Light,90,rosacea,86,psoriasis,1
+Light,90,rosacea,110,urticaria pigmentosa,1
+Light,91,sarcoidosis,6,allergic contact dermatitis,1
+Light,91,sarcoidosis,32,folliculitis,1
+Light,91,sarcoidosis,48,lichen planus,1
+Light,91,sarcoidosis,50,livedo reticularis,1
+Light,91,sarcoidosis,51,lupus erythematosus,1
+Light,91,sarcoidosis,52,lupus subacute,1
+Light,91,sarcoidosis,53,lyme disease,1
+Light,91,sarcoidosis,56,melanoma,1
+Light,91,sarcoidosis,64,nematode infection,1
+Light,91,sarcoidosis,68,neutrophilic dermatoses,1
+Light,91,sarcoidosis,84,port wine stain,1
+Light,91,sarcoidosis,106,tick bite,1
+Light,91,sarcoidosis,109,urticaria,1
+Light,91,sarcoidosis,113,xeroderma pigmentosum,1
+Light,92,scabies,22,eczema,1
+Light,92,scabies,28,erythema multiforme,1
+Light,92,scabies,32,folliculitis,1
+Light,92,scabies,38,hidradenitis,1
+Light,92,scabies,64,nematode infection,1
+Light,92,scabies,68,neutrophilic dermatoses,1
+Light,92,scabies,73,pediculosis lids,1
+Light,92,scabies,86,psoriasis,1
+Light,92,scabies,89,rhinophyma,1
+Light,93,scleroderma,6,allergic contact dermatitis,1
+Light,93,scleroderma,12,calcinosis cutis,1
+Light,93,scleroderma,17,dermatomyositis,1
+Light,93,scleroderma,22,eczema,1
+Light,93,scleroderma,23,ehlers danlos syndrome,1
+Light,93,scleroderma,39,ichthyosis vulgaris,1
+Light,93,scleroderma,41,juvenile xanthogranuloma,1
+Light,93,scleroderma,66,neurofibromatosis,1
+Light,93,scleroderma,74,perioral dermatitis,1
+Light,93,scleroderma,108,tungiasis,1
+Light,93,scleroderma,109,urticaria,1
+Light,93,scleroderma,111,vitiligo,1
+Light,94,scleromyxedema,32,folliculitis,1
+Light,94,scleromyxedema,37,halo nevus,1
+Light,94,scleromyxedema,86,psoriasis,1
+Light,94,scleromyxedema,104,syringoma,1
+Light,95,seborrheic dermatitis,1,acne,1
+Light,95,seborrheic dermatitis,2,acne vulgaris,1
+Light,95,seborrheic dermatitis,8,basal cell carcinoma,1
+Light,95,seborrheic dermatitis,89,rhinophyma,1
+Light,95,seborrheic dermatitis,90,rosacea,1
+Light,95,seborrheic dermatitis,96,seborrheic keratosis,1
+Light,95,seborrheic dermatitis,105,telangiectases,1
+Light,96,seborrheic keratosis,2,acne vulgaris,1
+Light,96,seborrheic keratosis,56,melanoma,1
+Light,96,seborrheic keratosis,79,pityriasis rosea,1
+Light,96,seborrheic keratosis,98,squamous cell carcinoma,1
+Light,96,seborrheic keratosis,103,superficial spreading melanoma ssm,1
+Light,97,solid cystic basal cell carcinoma,5,actinic keratosis,1
+Light,97,solid cystic basal cell carcinoma,8,basal cell carcinoma,1
+Light,97,solid cystic basal cell carcinoma,9,basal cell carcinoma morpheiform,1
+Light,97,solid cystic basal cell carcinoma,13,cheilitis,1
+Light,97,solid cystic basal cell carcinoma,56,melanoma,1
+Light,97,solid cystic basal cell carcinoma,111,vitiligo,1
+Light,98,squamous cell carcinoma,2,acne vulgaris,1
+Light,98,squamous cell carcinoma,6,allergic contact dermatitis,1
+Light,98,squamous cell carcinoma,10,becker nevus,1
+Light,98,squamous cell carcinoma,11,behcets disease,1
+Light,98,squamous cell carcinoma,29,erythema nodosum,1
+Light,98,squamous cell carcinoma,35,granuloma pyogenic,1
+Light,98,squamous cell carcinoma,38,hidradenitis,1
+Light,98,squamous cell carcinoma,39,ichthyosis vulgaris,1
+Light,98,squamous cell carcinoma,48,lichen planus,1
+Light,98,squamous cell carcinoma,55,malignant melanoma,1
+Light,98,squamous cell carcinoma,68,neutrophilic dermatoses,1
+Light,98,squamous cell carcinoma,82,porokeratosis of mibelli,1
+Light,98,squamous cell carcinoma,91,sarcoidosis,1
+Light,98,squamous cell carcinoma,97,solid cystic basal cell carcinoma,1
+Light,99,stasis edema,29,erythema nodosum,1
+Light,99,stasis edema,56,melanoma,1
+Light,99,stasis edema,68,neutrophilic dermatoses,1
+Light,99,stasis edema,88,pyogenic granuloma,1
+Light,100,stevens johnson syndrome,6,allergic contact dermatitis,1
+Light,100,stevens johnson syndrome,17,dermatomyositis,1
+Light,100,stevens johnson syndrome,28,erythema multiforme,1
+Light,100,stevens johnson syndrome,52,lupus subacute,1
+Light,100,stevens johnson syndrome,56,melanoma,1
+Light,100,stevens johnson syndrome,68,neutrophilic dermatoses,1
+Light,100,stevens johnson syndrome,88,pyogenic granuloma,1
+Light,100,stevens johnson syndrome,109,urticaria,1
+Light,101,striae,13,cheilitis,1
+Light,101,striae,32,folliculitis,1
+Light,101,striae,60,mycosis fungoides,1
+Light,101,striae,109,urticaria,1
+Light,101,striae,110,urticaria pigmentosa,1
+Light,102,sun damaged skin,6,allergic contact dermatitis,1
+Light,102,sun damaged skin,21,dyshidrotic eczema,1
+Light,102,sun damaged skin,74,perioral dermatitis,1
+Light,102,sun damaged skin,90,rosacea,1
+Light,103,superficial spreading melanoma ssm,8,basal cell carcinoma,1
+Light,103,superficial spreading melanoma ssm,10,becker nevus,1
+Light,103,superficial spreading melanoma ssm,15,dariers disease,1
+Light,103,superficial spreading melanoma ssm,66,neurofibromatosis,1
+Light,103,superficial spreading melanoma ssm,68,neutrophilic dermatoses,1
+Light,103,superficial spreading melanoma ssm,71,papilomatosis confluentes and reticulate,1
+Light,104,syringoma,57,milia,1
+Light,105,telangiectases,8,basal cell carcinoma,1
+Light,105,telangiectases,9,basal cell carcinoma morpheiform,1
+Light,105,telangiectases,19,drug eruption,1
+Light,105,telangiectases,23,ehlers danlos syndrome,1
+Light,105,telangiectases,51,lupus erythematosus,1
+Light,105,telangiectases,86,psoriasis,1
+Light,106,tick bite,16,dermatofibroma,1
+Light,106,tick bite,22,eczema,1
+Light,106,tick bite,41,juvenile xanthogranuloma,1
+Light,106,tick bite,73,pediculosis lids,1
+Light,106,tick bite,91,sarcoidosis,1
+Light,106,tick bite,95,seborrheic dermatitis,1
+Light,106,tick bite,110,urticaria pigmentosa,1
+Light,107,tuberous sclerosis,19,drug eruption,1
+Light,107,tuberous sclerosis,39,ichthyosis vulgaris,1
+Light,107,tuberous sclerosis,48,lichen planus,1
+Light,107,tuberous sclerosis,53,lyme disease,1
+Light,109,urticaria,76,pilar cyst,1
+Light,109,urticaria,78,pityriasis lichenoides chronica,1
+Light,109,urticaria,90,rosacea,1
+Light,109,urticaria,98,squamous cell carcinoma,1
+Light,110,urticaria pigmentosa,1,acne,1
+Light,110,urticaria pigmentosa,19,drug eruption,1
+Light,110,urticaria pigmentosa,52,lupus subacute,1
+Light,110,urticaria pigmentosa,93,scleroderma,1
+Light,110,urticaria pigmentosa,109,urticaria,1
+Light,111,vitiligo,17,dermatomyositis,1
+Light,111,vitiligo,93,scleroderma,1
+Light,112,xanthomas,24,epidermal nevus,1
+Light,112,xanthomas,111,vitiligo,1
+Light,112,xanthomas,113,xeroderma pigmentosum,1
+Light,113,xeroderma pigmentosum,15,dariers disease,1
+Medium,8,basal cell carcinoma,98,squamous cell carcinoma,4
+Medium,6,allergic contact dermatitis,22,eczema,3
+Medium,26,erythema annulare centrifigum,28,erythema multiforme,3
+Medium,6,allergic contact dermatitis,13,cheilitis,2
+Medium,6,allergic contact dermatitis,19,drug eruption,2
+Medium,8,basal cell carcinoma,91,sarcoidosis,2
+Medium,10,becker nevus,94,scleromyxedema,2
+Medium,20,drug induced pigmentary changes,94,scleromyxedema,2
+Medium,22,eczema,86,psoriasis,2
+Medium,34,granuloma annulare,64,nematode infection,2
+Medium,37,halo nevus,2,acne vulgaris,2
+Medium,48,lichen planus,85,prurigo nodularis,2
+Medium,51,lupus erythematosus,17,dermatomyositis,2
+Medium,52,lupus subacute,8,basal cell carcinoma,2
+Medium,56,melanoma,8,basal cell carcinoma,2
+Medium,70,nevus sebaceous of jadassohn,32,folliculitis,2
+Medium,72,paronychia,86,psoriasis,2
+Medium,75,photodermatoses,22,eczema,2
+Medium,75,photodermatoses,32,folliculitis,2
+Medium,75,photodermatoses,53,lyme disease,2
+Medium,81,porokeratosis actinic,5,actinic keratosis,2
+Medium,83,porphyria,51,lupus erythematosus,2
+Medium,86,psoriasis,51,lupus erythematosus,2
+Medium,86,psoriasis,85,prurigo nodularis,2
+Medium,86,psoriasis,95,seborrheic dermatitis,2
+Medium,88,pyogenic granuloma,98,squamous cell carcinoma,2
+Medium,91,sarcoidosis,51,lupus erythematosus,2
+Medium,98,squamous cell carcinoma,56,melanoma,2
+Medium,0,acanthosis nigricans,101,striae,1
+Medium,1,acne,2,acne vulgaris,1
+Medium,1,acne,17,dermatomyositis,1
+Medium,1,acne,32,folliculitis,1
+Medium,1,acne,49,lichen simplex,1
+Medium,1,acne,51,lupus erythematosus,1
+Medium,1,acne,80,pityriasis rubra pilaris,1
+Medium,1,acne,107,tuberous sclerosis,1
+Medium,2,acne vulgaris,32,folliculitis,1
+Medium,2,acne vulgaris,51,lupus erythematosus,1
+Medium,2,acne vulgaris,66,neurofibromatosis,1
+Medium,2,acne vulgaris,111,vitiligo,1
+Medium,3,acquired autoimmune bullous diseaseherpes gestationis,1,acne,1
+Medium,3,acquired autoimmune bullous diseaseherpes gestationis,2,acne vulgaris,1
+Medium,3,acquired autoimmune bullous diseaseherpes gestationis,66,neurofibromatosis,1
+Medium,4,acrodermatitis enteropathica,14,congenital nevus,1
+Medium,4,acrodermatitis enteropathica,98,squamous cell carcinoma,1
+Medium,5,actinic keratosis,8,basal cell carcinoma,1
+Medium,5,actinic keratosis,22,eczema,1
+Medium,5,actinic keratosis,32,folliculitis,1
+Medium,5,actinic keratosis,53,lyme disease,1
+Medium,5,actinic keratosis,98,squamous cell carcinoma,1
+Medium,5,actinic keratosis,100,stevens johnson syndrome,1
+Medium,6,allergic contact dermatitis,15,dariers disease,1
+Medium,6,allergic contact dermatitis,26,erythema annulare centrifigum,1
+Medium,6,allergic contact dermatitis,42,kaposi sarcoma,1
+Medium,6,allergic contact dermatitis,43,keloid,1
+Medium,8,basal cell carcinoma,5,actinic keratosis,1
+Medium,8,basal cell carcinoma,7,aplasia cutis,1
+Medium,8,basal cell carcinoma,9,basal cell carcinoma morpheiform,1
+Medium,8,basal cell carcinoma,51,lupus erythematosus,1
+Medium,8,basal cell carcinoma,56,melanoma,1
+Medium,8,basal cell carcinoma,76,pilar cyst,1
+Medium,8,basal cell carcinoma,77,pilomatricoma,1
+Medium,8,basal cell carcinoma,89,rhinophyma,1
+Medium,8,basal cell carcinoma,97,solid cystic basal cell carcinoma,1
+Medium,9,basal cell carcinoma morpheiform,8,basal cell carcinoma,1
+Medium,11,behcets disease,29,erythema nodosum,1
+Medium,11,behcets disease,103,superficial spreading melanoma ssm,1
+Medium,12,calcinosis cutis,34,granuloma annulare,1
+Medium,13,cheilitis,48,lichen planus,1
+Medium,13,cheilitis,58,mucinosis,1
+Medium,13,cheilitis,74,perioral dermatitis,1
+Medium,13,cheilitis,85,prurigo nodularis,1
+Medium,14,congenital nevus,43,keloid,1
+Medium,15,dariers disease,2,acne vulgaris,1
+Medium,15,dariers disease,17,dermatomyositis,1
+Medium,15,dariers disease,36,hailey hailey disease,1
+Medium,15,dariers disease,44,keratosis pilaris,1
+Medium,15,dariers disease,76,pilar cyst,1
+Medium,15,dariers disease,80,pityriasis rubra pilaris,1
+Medium,15,dariers disease,86,psoriasis,1
+Medium,15,dariers disease,104,syringoma,1
+Medium,16,dermatofibroma,28,erythema multiforme,1
+Medium,16,dermatofibroma,32,folliculitis,1
+Medium,16,dermatofibroma,78,pityriasis lichenoides chronica,1
+Medium,17,dermatomyositis,51,lupus erythematosus,1
+Medium,19,drug eruption,2,acne vulgaris,1
+Medium,19,drug eruption,23,ehlers danlos syndrome,1
+Medium,19,drug eruption,36,hailey hailey disease,1
+Medium,19,drug eruption,44,keratosis pilaris,1
+Medium,19,drug eruption,86,psoriasis,1
+Medium,19,drug eruption,95,seborrheic dermatitis,1
+Medium,20,drug induced pigmentary changes,12,calcinosis cutis,1
+Medium,20,drug induced pigmentary changes,37,halo nevus,1
+Medium,20,drug induced pigmentary changes,51,lupus erythematosus,1
+Medium,21,dyshidrotic eczema,5,actinic keratosis,1
+Medium,21,dyshidrotic eczema,8,basal cell carcinoma,1
+Medium,22,eczema,29,erythema nodosum,1
+Medium,22,eczema,32,folliculitis,1
+Medium,22,eczema,47,lichen amyloidosis,1
+Medium,22,eczema,63,necrobiosis lipoidica,1
+Medium,22,eczema,105,telangiectases,1
+Medium,22,eczema,109,urticaria,1
+Medium,23,ehlers danlos syndrome,43,keloid,1
+Medium,24,epidermal nevus,109,urticaria,1
+Medium,25,epidermolysis bullosa,23,ehlers danlos syndrome,1
+Medium,25,epidermolysis bullosa,80,pityriasis rubra pilaris,1
+Medium,25,epidermolysis bullosa,88,pyogenic granuloma,1
+Medium,26,erythema annulare centrifigum,53,lyme disease,1
+Medium,26,erythema annulare centrifigum,60,mycosis fungoides,1
+Medium,28,erythema multiforme,14,congenital nevus,1
+Medium,28,erythema multiforme,32,folliculitis,1
+Medium,28,erythema multiforme,44,keratosis pilaris,1
+Medium,28,erythema multiforme,75,photodermatoses,1
+Medium,28,erythema multiforme,76,pilar cyst,1
+Medium,28,erythema multiforme,80,pityriasis rubra pilaris,1
+Medium,28,erythema multiforme,86,psoriasis,1
+Medium,29,erythema nodosum,6,allergic contact dermatitis,1
+Medium,29,erythema nodosum,75,photodermatoses,1
+Medium,30,factitial dermatitis,99,stasis edema,1
+Medium,31,fixed eruptions,17,dermatomyositis,1
+Medium,31,fixed eruptions,19,drug eruption,1
+Medium,31,fixed eruptions,29,erythema nodosum,1
+Medium,31,fixed eruptions,53,lyme disease,1
+Medium,31,fixed eruptions,109,urticaria,1
+Medium,32,folliculitis,22,eczema,1
+Medium,32,folliculitis,58,mucinosis,1
+Medium,32,folliculitis,63,necrobiosis lipoidica,1
+Medium,32,folliculitis,73,pediculosis lids,1
+Medium,33,fordyce spots,40,incontinentia pigmenti,1
+Medium,33,fordyce spots,86,psoriasis,1
+Medium,34,granuloma annulare,19,drug eruption,1
+Medium,34,granuloma annulare,27,erythema elevatum diutinum,1
+Medium,34,granuloma annulare,39,ichthyosis vulgaris,1
+Medium,34,granuloma annulare,75,photodermatoses,1
+Medium,34,granuloma annulare,85,prurigo nodularis,1
+Medium,35,granuloma pyogenic,64,nematode infection,1
+Medium,36,hailey hailey disease,8,basal cell carcinoma,1
+Medium,36,hailey hailey disease,68,neutrophilic dermatoses,1
+Medium,37,halo nevus,31,fixed eruptions,1
+Medium,37,halo nevus,41,juvenile xanthogranuloma,1
+Medium,38,hidradenitis,31,fixed eruptions,1
+Medium,38,hidradenitis,51,lupus erythematosus,1
+Medium,39,ichthyosis vulgaris,47,lichen amyloidosis,1
+Medium,39,ichthyosis vulgaris,80,pityriasis rubra pilaris,1
+Medium,39,ichthyosis vulgaris,81,porokeratosis actinic,1
+Medium,40,incontinentia pigmenti,13,cheilitis,1
+Medium,40,incontinentia pigmenti,21,dyshidrotic eczema,1
+Medium,40,incontinentia pigmenti,64,nematode infection,1
+Medium,41,juvenile xanthogranuloma,32,folliculitis,1
+Medium,41,juvenile xanthogranuloma,53,lyme disease,1
+Medium,42,kaposi sarcoma,98,squamous cell carcinoma,1
+Medium,43,keloid,32,folliculitis,1
+Medium,43,keloid,101,striae,1
+Medium,44,keratosis pilaris,32,folliculitis,1
+Medium,44,keratosis pilaris,75,photodermatoses,1
+Medium,44,keratosis pilaris,79,pityriasis rosea,1
+Medium,44,keratosis pilaris,92,scabies,1
+Medium,45,langerhans cell histiocytosis,92,scabies,1
+Medium,46,lentigo maligna,75,photodermatoses,1
+Medium,46,lentigo maligna,103,superficial spreading melanoma ssm,1
+Medium,47,lichen amyloidosis,0,acanthosis nigricans,1
+Medium,47,lichen amyloidosis,22,eczema,1
+Medium,47,lichen amyloidosis,93,scleroderma,1
+Medium,48,lichen planus,7,aplasia cutis,1
+Medium,48,lichen planus,47,lichen amyloidosis,1
+Medium,48,lichen planus,75,photodermatoses,1
+Medium,48,lichen planus,83,porphyria,1
+Medium,48,lichen planus,84,port wine stain,1
+Medium,48,lichen planus,94,scleromyxedema,1
+Medium,48,lichen planus,96,seborrheic keratosis,1
+Medium,48,lichen planus,98,squamous cell carcinoma,1
+Medium,49,lichen simplex,5,actinic keratosis,1
+Medium,49,lichen simplex,28,erythema multiforme,1
+Medium,49,lichen simplex,53,lyme disease,1
+Medium,50,livedo reticularis,85,prurigo nodularis,1
+Medium,51,lupus erythematosus,1,acne,1
+Medium,51,lupus erythematosus,7,aplasia cutis,1
+Medium,51,lupus erythematosus,19,drug eruption,1
+Medium,51,lupus erythematosus,32,folliculitis,1
+Medium,51,lupus erythematosus,48,lichen planus,1
+Medium,51,lupus erythematosus,91,sarcoidosis,1
+Medium,51,lupus erythematosus,109,urticaria,1
+Medium,51,lupus erythematosus,111,vitiligo,1
+Medium,52,lupus subacute,51,lupus erythematosus,1
+Medium,52,lupus subacute,76,pilar cyst,1
+Medium,53,lyme disease,79,pityriasis rosea,1
+Medium,53,lyme disease,107,tuberous sclerosis,1
+Medium,54,lymphangioma,19,drug eruption,1
+Medium,54,lymphangioma,32,folliculitis,1
+Medium,54,lymphangioma,92,scabies,1
+Medium,55,malignant melanoma,8,basal cell carcinoma,1
+Medium,55,malignant melanoma,103,superficial spreading melanoma ssm,1
+Medium,56,melanoma,42,kaposi sarcoma,1
+Medium,56,melanoma,55,malignant melanoma,1
+Medium,56,melanoma,98,squamous cell carcinoma,1
+Medium,56,melanoma,103,superficial spreading melanoma ssm,1
+Medium,56,melanoma,107,tuberous sclerosis,1
+Medium,57,milia,79,pityriasis rosea,1
+Medium,57,milia,109,urticaria,1
+Medium,58,mucinosis,17,dermatomyositis,1
+Medium,58,mucinosis,60,mycosis fungoides,1
+Medium,59,mucous cyst,22,eczema,1
+Medium,59,mucous cyst,86,psoriasis,1
+Medium,60,mycosis fungoides,15,dariers disease,1
+Medium,60,mycosis fungoides,26,erythema annulare centrifigum,1
+Medium,60,mycosis fungoides,39,ichthyosis vulgaris,1
+Medium,61,myiasis,53,lyme disease,1
+Medium,62,naevus comedonicus,1,acne,1
+Medium,62,naevus comedonicus,91,sarcoidosis,1
+Medium,62,naevus comedonicus,103,superficial spreading melanoma ssm,1
+Medium,63,necrobiosis lipoidica,26,erythema annulare centrifigum,1
+Medium,63,necrobiosis lipoidica,32,folliculitis,1
+Medium,63,necrobiosis lipoidica,42,kaposi sarcoma,1
+Medium,64,nematode infection,24,epidermal nevus,1
+Medium,64,nematode infection,53,lyme disease,1
+Medium,64,nematode infection,68,neutrophilic dermatoses,1
+Medium,64,nematode infection,75,photodermatoses,1
+Medium,65,neurodermatitis,23,ehlers danlos syndrome,1
+Medium,65,neurodermatitis,34,granuloma annulare,1
+Medium,65,neurodermatitis,68,neutrophilic dermatoses,1
+Medium,66,neurofibromatosis,42,kaposi sarcoma,1
+Medium,66,neurofibromatosis,60,mycosis fungoides,1
+Medium,66,neurofibromatosis,68,neutrophilic dermatoses,1
+Medium,66,neurofibromatosis,91,sarcoidosis,1
+Medium,66,neurofibromatosis,98,squamous cell carcinoma,1
+Medium,67,neurotic excoriations,5,actinic keratosis,1
+Medium,67,neurotic excoriations,34,granuloma annulare,1
+Medium,67,neurotic excoriations,38,hidradenitis,1
+Medium,67,neurotic excoriations,64,nematode infection,1
+Medium,67,neurotic excoriations,90,rosacea,1
+Medium,68,neutrophilic dermatoses,2,acne vulgaris,1
+Medium,68,neutrophilic dermatoses,13,cheilitis,1
+Medium,68,neutrophilic dermatoses,51,lupus erythematosus,1
+Medium,68,neutrophilic dermatoses,81,porokeratosis actinic,1
+Medium,68,neutrophilic dermatoses,91,sarcoidosis,1
+Medium,69,nevocytic nevus,103,superficial spreading melanoma ssm,1
+Medium,70,nevus sebaceous of jadassohn,7,aplasia cutis,1
+Medium,71,papilomatosis confluentes and reticulate,0,acanthosis nigricans,1
+Medium,71,papilomatosis confluentes and reticulate,40,incontinentia pigmenti,1
+Medium,74,perioral dermatitis,6,allergic contact dermatitis,1
+Medium,74,perioral dermatitis,33,fordyce spots,1
+Medium,75,photodermatoses,6,allergic contact dermatitis,1
+Medium,75,photodermatoses,23,ehlers danlos syndrome,1
+Medium,75,photodermatoses,29,erythema nodosum,1
+Medium,75,photodermatoses,90,rosacea,1
+Medium,75,photodermatoses,95,seborrheic dermatitis,1
+Medium,75,photodermatoses,100,stevens johnson syndrome,1
+Medium,76,pilar cyst,90,rosacea,1
+Medium,76,pilar cyst,98,squamous cell carcinoma,1
+Medium,77,pilomatricoma,41,juvenile xanthogranuloma,1
+Medium,78,pityriasis lichenoides chronica,38,hidradenitis,1
+Medium,79,pityriasis rosea,66,neurofibromatosis,1
+Medium,79,pityriasis rosea,75,photodermatoses,1
+Medium,79,pityriasis rosea,92,scabies,1
+Medium,79,pityriasis rosea,109,urticaria,1
+Medium,79,pityriasis rosea,110,urticaria pigmentosa,1
+Medium,80,pityriasis rubra pilaris,8,basal cell carcinoma,1
+Medium,80,pityriasis rubra pilaris,75,photodermatoses,1
+Medium,81,porokeratosis actinic,8,basal cell carcinoma,1
+Medium,81,porokeratosis actinic,85,prurigo nodularis,1
+Medium,82,porokeratosis of mibelli,32,folliculitis,1
+Medium,82,porokeratosis of mibelli,78,pityriasis lichenoides chronica,1
+Medium,83,porphyria,5,actinic keratosis,1
+Medium,83,porphyria,15,dariers disease,1
+Medium,83,porphyria,19,drug eruption,1
+Medium,83,porphyria,86,psoriasis,1
+Medium,83,porphyria,113,xeroderma pigmentosum,1
+Medium,84,port wine stain,68,neutrophilic dermatoses,1
+Medium,84,port wine stain,109,urticaria,1
+Medium,85,prurigo nodularis,37,halo nevus,1
+Medium,86,psoriasis,17,dermatomyositis,1
+Medium,86,psoriasis,24,epidermal nevus,1
+Medium,86,psoriasis,28,erythema multiforme,1
+Medium,86,psoriasis,39,ichthyosis vulgaris,1
+Medium,86,psoriasis,40,incontinentia pigmenti,1
+Medium,86,psoriasis,48,lichen planus,1
+Medium,86,psoriasis,63,necrobiosis lipoidica,1
+Medium,86,psoriasis,68,neutrophilic dermatoses,1
+Medium,87,pustular psoriasis,6,allergic contact dermatitis,1
+Medium,87,pustular psoriasis,100,stevens johnson syndrome,1
+Medium,88,pyogenic granuloma,6,allergic contact dermatitis,1
+Medium,88,pyogenic granuloma,106,tick bite,1
+Medium,89,rhinophyma,6,allergic contact dermatitis,1
+Medium,90,rosacea,74,perioral dermatitis,1
+Medium,90,rosacea,89,rhinophyma,1
+Medium,90,rosacea,95,seborrheic dermatitis,1
+Medium,91,sarcoidosis,6,allergic contact dermatitis,1
+Medium,91,sarcoidosis,7,aplasia cutis,1
+Medium,91,sarcoidosis,63,necrobiosis lipoidica,1
+Medium,91,sarcoidosis,95,seborrheic dermatitis,1
+Medium,91,sarcoidosis,100,stevens johnson syndrome,1
+Medium,91,sarcoidosis,104,syringoma,1
+Medium,91,sarcoidosis,107,tuberous sclerosis,1
+Medium,92,scabies,1,acne,1
+Medium,92,scabies,64,nematode infection,1
+Medium,92,scabies,78,pityriasis lichenoides chronica,1
+Medium,92,scabies,85,prurigo nodularis,1
+Medium,92,scabies,101,striae,1
+Medium,93,scleroderma,6,allergic contact dermatitis,1
+Medium,93,scleroderma,40,incontinentia pigmenti,1
+Medium,93,scleroderma,41,juvenile xanthogranuloma,1
+Medium,93,scleroderma,56,melanoma,1
+Medium,93,scleroderma,60,mycosis fungoides,1
+Medium,93,scleroderma,77,pilomatricoma,1
+Medium,93,scleroderma,86,psoriasis,1
+Medium,93,scleroderma,110,urticaria pigmentosa,1
+Medium,94,scleromyxedema,19,drug eruption,1
+Medium,94,scleromyxedema,53,lyme disease,1
+Medium,94,scleromyxedema,109,urticaria,1
+Medium,95,seborrheic dermatitis,32,folliculitis,1
+Medium,95,seborrheic dermatitis,51,lupus erythematosus,1
+Medium,96,seborrheic keratosis,40,incontinentia pigmenti,1
+Medium,96,seborrheic keratosis,103,superficial spreading melanoma ssm,1
+Medium,97,solid cystic basal cell carcinoma,99,stasis edema,1
+Medium,97,solid cystic basal cell carcinoma,107,tuberous sclerosis,1
+Medium,98,squamous cell carcinoma,13,cheilitis,1
+Medium,98,squamous cell carcinoma,33,fordyce spots,1
+Medium,98,squamous cell carcinoma,60,mycosis fungoides,1
+Medium,98,squamous cell carcinoma,81,porokeratosis actinic,1
+Medium,98,squamous cell carcinoma,86,psoriasis,1
+Medium,98,squamous cell carcinoma,92,scabies,1
+Medium,98,squamous cell carcinoma,108,tungiasis,1
+Medium,99,stasis edema,31,fixed eruptions,1
+Medium,99,stasis edema,60,mycosis fungoides,1
+Medium,100,stevens johnson syndrome,37,halo nevus,1
+Medium,100,stevens johnson syndrome,83,porphyria,1
+Medium,100,stevens johnson syndrome,86,psoriasis,1
+Medium,101,striae,75,photodermatoses,1
+Medium,101,striae,109,urticaria,1
+Medium,102,sun damaged skin,1,acne,1
+Medium,102,sun damaged skin,41,juvenile xanthogranuloma,1
+Medium,102,sun damaged skin,82,porokeratosis of mibelli,1
+Medium,103,superficial spreading melanoma ssm,55,malignant melanoma,1
+Medium,103,superficial spreading melanoma ssm,56,melanoma,1
+Medium,104,syringoma,0,acanthosis nigricans,1
+Medium,104,syringoma,20,drug induced pigmentary changes,1
+Medium,104,syringoma,107,tuberous sclerosis,1
+Medium,105,telangiectases,2,acne vulgaris,1
+Medium,105,telangiectases,17,dermatomyositis,1
+Medium,105,telangiectases,48,lichen planus,1
+Medium,105,telangiectases,60,mycosis fungoides,1
+Medium,105,telangiectases,73,pediculosis lids,1
+Medium,106,tick bite,51,lupus erythematosus,1
+Medium,107,tuberous sclerosis,32,folliculitis,1
+Medium,107,tuberous sclerosis,37,halo nevus,1
+Medium,107,tuberous sclerosis,50,livedo reticularis,1
+Medium,107,tuberous sclerosis,86,psoriasis,1
+Medium,107,tuberous sclerosis,92,scabies,1
+Medium,109,urticaria,92,scabies,1
+Medium,109,urticaria,93,scleroderma,1
+Medium,109,urticaria,110,urticaria pigmentosa,1
+Medium,110,urticaria pigmentosa,40,incontinentia pigmenti,1
+Medium,110,urticaria pigmentosa,109,urticaria,1
+Medium,111,vitiligo,31,fixed eruptions,1
+Medium,111,vitiligo,43,keloid,1
+Medium,111,vitiligo,48,lichen planus,1
+Medium,111,vitiligo,83,porphyria,1
+Medium,112,xanthomas,6,allergic contact dermatitis,1
+Medium,112,xanthomas,17,dermatomyositis,1
+Medium,112,xanthomas,34,granuloma annulare,1
+Medium,112,xanthomas,76,pilar cyst,1
+Medium,113,xeroderma pigmentosum,15,dariers disease,1
+Medium,113,xeroderma pigmentosum,48,lichen planus,1

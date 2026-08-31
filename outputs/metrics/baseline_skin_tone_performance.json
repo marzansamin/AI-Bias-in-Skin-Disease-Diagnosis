@@ -1,0 +1,50 @@
+{
+  "groups": {
+    "Light": {
+      "sample_count": 1161,
+      "correct_predictions": 377,
+      "accuracy": 0.32472006890611543,
+      "balanced_accuracy": 0.31621027902046106,
+      "macro_precision": 0.34652588673648715,
+      "macro_recall": 0.31621027902046106,
+      "macro_f1": 0.30887472012133627,
+      "mean_confidence": 0.41075837154111455
+    },
+    "Medium": {
+      "sample_count": 915,
+      "correct_predictions": 520,
+      "accuracy": 0.5683060109289617,
+      "balanced_accuracy": 0.48477058563316366,
+      "macro_precision": 0.5121178311662017,
+      "macro_recall": 0.48477058563316366,
+      "macro_f1": 0.4754364467054953,
+      "mean_confidence": 0.5722792941506931
+    },
+    "Dark": {
+      "sample_count": 313,
+      "correct_predictions": 173,
+      "accuracy": 0.5527156549520766,
+      "balanced_accuracy": 0.4229625021635168,
+      "macro_precision": 0.39322672008842224,
+      "macro_recall": 0.3734668902082116,
+      "macro_f1": 0.3643014512320896,
+      "mean_confidence": 0.55957847105238
+    },
+    "Unknown": {
+      "sample_count": 65,
+      "correct_predictions": 22,
+      "accuracy": 0.3384615384615385,
+      "balanced_accuracy": 0.28845598845598847,
+      "macro_precision": 0.19055555555555553,
+      "macro_recall": 0.23797619047619048,
+      "macro_f1": 0.1926165501165501,
+      "mean_confidence": 0.41140849160460324
+    }
+  },
+  "best_accuracy_group": "Medium",
+  "worst_accuracy_group": "Light",
+  "accuracy_gap": 0.24358594202284628,
+  "best_f1_group": "Medium",
+  "worst_f1_group": "Unknown",
+  "f1_gap": 0.2828198965889452
+}

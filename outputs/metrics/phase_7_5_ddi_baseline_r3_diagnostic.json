@@ -1,0 +1,23 @@
+{
+    "phase": "7.5",
+    "dataset": "DDI",
+    "model": "EfficientNet-B0",
+    "diagnostic": "Frozen EfficientNet-B0 representation skin-tone probe",
+    "probe_accuracy": 0.5989847715736041,
+    "probe_balanced_accuracy": 0.6041986687147978,
+    "probe_macro_f1": 0.6051389752471329,
+    "majority_baseline": 0.3681917211328976,
+    "probe_lift": 0.23079305044070647,
+    "thresholds": {
+        "minimum_probe_accuracy": 0.5,
+        "minimum_balanced_accuracy": 0.5,
+        "minimum_lift": 0.1
+    },
+    "criteria": {
+        "accuracy": true,
+        "balanced_accuracy": true,
+        "lift": true
+    },
+    "r3_detected": true,
+    "r3_severity": "Moderate"
+}

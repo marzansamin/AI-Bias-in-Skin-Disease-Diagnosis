@@ -1,0 +1,4 @@
+priority,criterion,metrics,desired_direction
+1,Fairness improvement,Skin-tone Accuracy Gap; Known-tone Macro-F1 Gap,Lower
+2,Overall performance,Accuracy; Balanced Accuracy; Macro-F1; Weighted-F1,Higher
+3,Disease-level performance,Mean Disease F1; Worst Disease F1; Disease-level disparity,Higher F1 / Lower disparity

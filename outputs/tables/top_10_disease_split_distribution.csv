@@ -1,0 +1,11 @@
+label,Train,Validation,Test
+psoriasis,456,98,99
+squamous cell carcinoma,406,87,88
+lichen planus,343,74,74
+basal cell carcinoma,329,69,70
+allergic contact dermatitis,301,65,64
+lupus erythematosus,287,61,62
+neutrophilic dermatoses,250,54,55
+sarcoidosis,244,54,51
+photodermatoses,244,53,51
+folliculitis,239,52,51

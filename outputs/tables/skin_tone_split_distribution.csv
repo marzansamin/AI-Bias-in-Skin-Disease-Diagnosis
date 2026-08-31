@@ -1,0 +1,5 @@
+skin_tone_group,Train,Validation,Test
+Light,5425,1169,1161
+Medium,4262,912,915
+Dark,1525,330,313
+Unknown,395,102,65

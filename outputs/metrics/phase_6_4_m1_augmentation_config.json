@@ -1,0 +1,30 @@
+{
+    "method": "M1",
+    "target_bias": "R1 \u2014 Skin-tone representation imbalance",
+    "strategy": "Data Augmentation",
+    "techniques": [
+        "Controlled synthetic augmentation",
+        "Mixup during subsequent training"
+    ],
+    "target_skin_tones": [
+        "Dark",
+        "Unknown"
+    ],
+    "random_seed": 42,
+    "synthetic_size": [
+        224,
+        224
+    ],
+    "mixup": {
+        "alpha": 0.4,
+        "probability": 0.5
+    },
+    "original_samples": 11607,
+    "synthetic_samples": 3527,
+    "final_training_samples": 15134,
+    "generation_errors": 0,
+    "augmentation_targets": {
+        "Dark": 4262,
+        "Unknown": 1185
+    }
+}

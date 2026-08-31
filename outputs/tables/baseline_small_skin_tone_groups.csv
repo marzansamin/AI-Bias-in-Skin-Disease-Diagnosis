@@ -1,0 +1,2 @@
+skin_tone_group,sample_count,correct_predictions,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,mean_confidence,accuracy_percent,balanced_accuracy_percent,macro_precision_percent,macro_recall_percent,macro_f1_percent,sample_percentage
+Unknown,65,22,0.3384615384615385,0.2884559884559884,0.1905555555555555,0.2379761904761904,0.1926165501165501,0.4114084916046032,33.84615384615385,28.845598845598847,19.055555555555557,23.797619047619047,19.26165501165501,2.6487367563162185

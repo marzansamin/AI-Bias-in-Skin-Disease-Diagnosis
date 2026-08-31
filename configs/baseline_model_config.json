@@ -1,0 +1,13 @@
+{
+  "model_name": "EfficientNet-B0",
+  "pretrained": true,
+  "pretrained_dataset": "ImageNet",
+  "num_classes": 114,
+  "input_size": [
+    3,
+    224,
+    224
+  ],
+  "classifier": "Linear",
+  "device": "cuda"
+}

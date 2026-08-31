@@ -1,0 +1,4 @@
+bias_rule,bias_characteristic,evidence_type,current_status,interpretation
+R1,Skin-tone representation imbalance,Dataset distribution,Detected,Unequal representation of skin-tone groups
+R2,Disease-class imbalance,Dataset distribution,Detected,Unequal representation of disease classes
+R3,Representation bias,Model behavior / feature reliance,Requires model-level diagnostic,Requires evidence that the model relies on skin-tone-related patterns rather than clinically relevant lesion features

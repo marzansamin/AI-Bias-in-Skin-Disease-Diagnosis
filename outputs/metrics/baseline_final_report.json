@@ -1,0 +1,325 @@
+{
+  "experiment": {
+    "model": "EfficientNet-B0",
+    "pretrained": "ImageNet",
+    "num_classes": 114,
+    "input_size": "224x224"
+  },
+  "dataset": {
+    "total_test_samples": 2454,
+    "skin_tone_groups": [
+      "Light",
+      "Medium",
+      "Dark",
+      "Unknown"
+    ]
+  },
+  "overall_performance": {
+    "accuracy": 0.4449877750611247,
+    "balanced_accuracy": 0.4065045434724506,
+    "macro_precision": 0.4428742884717236,
+    "macro_recall": 0.4065045434724506,
+    "macro_f1": 0.4051294840985099,
+    "weighted_f1": 0.4355949022670253
+  },
+  "primary_fairness": {
+    "best_accuracy_group": "Medium",
+    "worst_accuracy_group": "Light",
+    "accuracy_gap_percentage_points": 24.358594202284635,
+    "known_tone_accuracy_gap_percentage_points": 24.358594202284635,
+    "known_tone_macro_f1_gap_percentage_points": 16.656172658415908
+  },
+  "skin_tone_performance": [
+    {
+      "skin_tone_group": "Light",
+      "sample_count": 1161,
+      "correct_predictions": 377,
+      "accuracy": 0.3247200689061154,
+      "balanced_accuracy": 0.316210279020461,
+      "macro_precision": 0.3465258867364871,
+      "macro_recall": 0.316210279020461,
+      "macro_f1": 0.3088747201213362,
+      "mean_confidence": 0.4107583715411145,
+      "accuracy_percent": 32.472006890611546,
+      "balanced_accuracy_percent": 31.621027902046105,
+      "macro_precision_percent": 34.652588673648715,
+      "macro_recall_percent": 31.621027902046105,
+      "macro_f1_percent": 30.887472012133628,
+      "sample_percentage": 47.31051344743276
+    },
+    {
+      "skin_tone_group": "Medium",
+      "sample_count": 915,
+      "correct_predictions": 520,
+      "accuracy": 0.5683060109289617,
+      "balanced_accuracy": 0.4847705856331636,
+      "macro_precision": 0.5121178311662017,
+      "macro_recall": 0.4847705856331636,
+      "macro_f1": 0.4754364467054953,
+      "mean_confidence": 0.5722792941506931,
+      "accuracy_percent": 56.830601092896174,
+      "balanced_accuracy_percent": 48.47705856331637,
+      "macro_precision_percent": 51.21178311662017,
+      "macro_recall_percent": 48.47705856331637,
+      "macro_f1_percent": 47.543644670549526,
+      "sample_percentage": 37.28606356968216
+    },
+    {
+      "skin_tone_group": "Dark",
+      "sample_count": 313,
+      "correct_predictions": 173,
+      "accuracy": 0.5527156549520766,
+      "balanced_accuracy": 0.4229625021635168,
+      "macro_precision": 0.3932267200884222,
+      "macro_recall": 0.3734668902082116,
+      "macro_f1": 0.3643014512320896,
+      "mean_confidence": 0.55957847105238,
+      "accuracy_percent": 55.27156549520767,
+      "balanced_accuracy_percent": 42.29625021635168,
+      "macro_precision_percent": 39.32267200884223,
+      "macro_recall_percent": 37.34668902082116,
+      "macro_f1_percent": 36.43014512320896,
+      "sample_percentage": 12.754686226568868
+    },
+    {
+      "skin_tone_group": "Unknown",
+      "sample_count": 65,
+      "correct_predictions": 22,
+      "accuracy": 0.3384615384615385,
+      "balanced_accuracy": 0.2884559884559884,
+      "macro_precision": 0.1905555555555555,
+      "macro_recall": 0.2379761904761904,
+      "macro_f1": 0.1926165501165501,
+      "mean_confidence": 0.4114084916046032,
+      "accuracy_percent": 33.84615384615385,
+      "balanced_accuracy_percent": 28.845598845598847,
+      "macro_precision_percent": 19.055555555555557,
+      "macro_recall_percent": 23.797619047619047,
+      "macro_f1_percent": 19.26165501165501,
+      "sample_percentage": 2.6487367563162185
+    }
+  ],
+  "fairness_metrics": [
+    {
+      "metric": "Accuracy",
+      "best_group": "Medium",
+      "best_value": 0.5683060109289617,
+      "worst_group": "Light",
+      "worst_value": 0.3247200689061154,
+      "gap_percentage_points": 24.358594202284635,
+      "worst_to_best_ratio": 0.5713824289405685,
+      "best_value_percent": 56.830601092896174,
+      "worst_value_percent": 32.47200689061154
+    },
+    {
+      "metric": "Balanced Accuracy",
+      "best_group": "Medium",
+      "best_value": 0.4847705856331636,
+      "worst_group": "Unknown",
+      "worst_value": 0.2884559884559884,
+      "gap_percentage_points": 19.63145971771752,
+      "worst_to_best_ratio": 0.5950360789304764,
+      "best_value_percent": 48.47705856331636,
+      "worst_value_percent": 28.84559884559884
+    },
+    {
+      "metric": "Macro Precision",
+      "best_group": "Medium",
+      "best_value": 0.5121178311662017,
+      "worst_group": "Unknown",
+      "worst_value": 0.1905555555555555,
+      "gap_percentage_points": 32.15622756106462,
+      "worst_to_best_ratio": 0.3720931862919512,
+      "best_value_percent": 51.21178311662017,
+      "worst_value_percent": 19.05555555555555
+    },
+    {
+      "metric": "Macro Recall",
+      "best_group": "Medium",
+      "best_value": 0.4847705856331636,
+      "worst_group": "Unknown",
+      "worst_value": 0.2379761904761904,
+      "gap_percentage_points": 24.67943951569732,
+      "worst_to_best_ratio": 0.4909047651176429,
+      "best_value_percent": 48.47705856331636,
+      "worst_value_percent": 23.79761904761904
+    },
+    {
+      "metric": "Macro F1",
+      "best_group": "Medium",
+      "best_value": 0.4754364467054953,
+      "worst_group": "Unknown",
+      "worst_value": 0.1926165501165501,
+      "gap_percentage_points": 28.28198965889452,
+      "worst_to_best_ratio": 0.4051362731050038,
+      "best_value_percent": 47.543644670549526,
+      "worst_value_percent": 19.26165501165501
+    }
+  ],
+  "known_tone_fairness": [
+    {
+      "metric": "Accuracy",
+      "best_group": "Medium",
+      "best_value": 0.5683060109289617,
+      "worst_group": "Light",
+      "worst_value": 0.3247200689061154,
+      "gap": 0.2435859420228463,
+      "gap_percentage_points": 24.358594202284635,
+      "worst_to_best_ratio": 0.5713824289405685
+    },
+    {
+      "metric": "Balanced Accuracy",
+      "best_group": "Medium",
+      "best_value": 0.4847705856331636,
+      "worst_group": "Light",
+      "worst_value": 0.316210279020461,
+      "gap": 0.1685603066127026,
+      "gap_percentage_points": 16.85603066127026,
+      "worst_to_best_ratio": 0.6522885018022611
+    },
+    {
+      "metric": "Macro Precision",
+      "best_group": "Medium",
+      "best_value": 0.5121178311662017,
+      "worst_group": "Light",
+      "worst_value": 0.3465258867364871,
+      "gap": 0.1655919444297146,
+      "gap_percentage_points": 16.55919444297146,
+      "worst_to_best_ratio": 0.6766526483707346
+    },
+    {
+      "metric": "Macro Recall",
+      "best_group": "Medium",
+      "best_value": 0.4847705856331636,
+      "worst_group": "Light",
+      "worst_value": 0.316210279020461,
+      "gap": 0.1685603066127026,
+      "gap_percentage_points": 16.85603066127026,
+      "worst_to_best_ratio": 0.6522885018022611
+    },
+    {
+      "metric": "Macro F1",
+      "best_group": "Medium",
+      "best_value": 0.4754364467054953,
+      "worst_group": "Light",
+      "worst_value": 0.3088747201213362,
+      "gap": 0.166561726584159,
+      "gap_percentage_points": 16.656172658415908,
+      "worst_to_best_ratio": 0.6496656330444641
+    }
+  ],
+  "top_disease_disparities": [
+    {
+      "class_id": 48,
+      "disease": "lichen planus",
+      "best_accuracy": 0.6774193548387096,
+      "worst_accuracy": 0.1739130434782608,
+      "accuracy_gap": 0.5035063113604488,
+      "gap_percentage_points": 50.35063113604488
+    },
+    {
+      "class_id": 51,
+      "disease": "lupus erythematosus",
+      "best_accuracy": 0.7142857142857143,
+      "worst_accuracy": 0.217391304347826,
+      "accuracy_gap": 0.4968944099378882,
+      "gap_percentage_points": 49.68944099378882
+    },
+    {
+      "class_id": 92,
+      "disease": "scabies",
+      "best_accuracy": 0.75,
+      "worst_accuracy": 0.3125,
+      "accuracy_gap": 0.4375,
+      "gap_percentage_points": 43.75
+    },
+    {
+      "class_id": 98,
+      "disease": "squamous cell carcinoma",
+      "best_accuracy": 0.6896551724137931,
+      "worst_accuracy": 0.3333333333333333,
+      "accuracy_gap": 0.3563218390804598,
+      "gap_percentage_points": 35.63218390804598
+    },
+    {
+      "class_id": 86,
+      "disease": "psoriasis",
+      "best_accuracy": 0.5384615384615384,
+      "worst_accuracy": 0.4423076923076923,
+      "accuracy_gap": 0.0961538461538461,
+      "gap_percentage_points": 9.615384615384617
+    }
+  ],
+  "top_error_pairs": [
+    {
+      "true_class_id": 8,
+      "true_disease": "basal cell carcinoma",
+      "predicted_class_id": 98,
+      "predicted_disease": "squamous cell carcinoma",
+      "error_count": 10
+    },
+    {
+      "true_class_id": 98,
+      "true_disease": "squamous cell carcinoma",
+      "predicted_class_id": 8,
+      "predicted_disease": "basal cell carcinoma",
+      "error_count": 7
+    },
+    {
+      "true_class_id": 90,
+      "true_disease": "rosacea",
+      "predicted_class_id": 89,
+      "predicted_disease": "rhinophyma",
+      "error_count": 6
+    },
+    {
+      "true_class_id": 75,
+      "true_disease": "photodermatoses",
+      "predicted_class_id": 6,
+      "predicted_disease": "allergic contact dermatitis",
+      "error_count": 6
+    },
+    {
+      "true_class_id": 86,
+      "true_disease": "psoriasis",
+      "predicted_class_id": 48,
+      "predicted_disease": "lichen planus",
+      "error_count": 5
+    },
+    {
+      "true_class_id": 1,
+      "true_disease": "acne",
+      "predicted_class_id": 2,
+      "predicted_disease": "acne vulgaris",
+      "error_count": 5
+    },
+    {
+      "true_class_id": 56,
+      "true_disease": "melanoma",
+      "predicted_class_id": 103,
+      "predicted_disease": "superficial spreading melanoma ssm",
+      "error_count": 5
+    },
+    {
+      "true_class_id": 75,
+      "true_disease": "photodermatoses",
+      "predicted_class_id": 32,
+      "predicted_disease": "folliculitis",
+      "error_count": 5
+    },
+    {
+      "true_class_id": 98,
+      "true_disease": "squamous cell carcinoma",
+      "predicted_class_id": 22,
+      "predicted_disease": "eczema",
+      "error_count": 4
+    },
+    {
+      "true_class_id": 98,
+      "true_disease": "squamous cell carcinoma",
+      "predicted_class_id": 32,
+      "predicted_disease": "folliculitis",
+      "error_count": 4
+    }
+  ]
+}

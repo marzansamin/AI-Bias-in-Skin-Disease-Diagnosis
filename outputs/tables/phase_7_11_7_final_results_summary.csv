@@ -1,0 +1,16 @@
+Result,Model,Value,Unit
+Best external Accuracy,M2,10.0,%
+Best external Balanced Accuracy,M2,20.5647,%
+Best external Macro-F1,M2 + M3,18.260650639682897,%
+Best external Weighted-F1,M2,13.1444,%
+Strongest R3 mitigation,M3,14.39,pp reduction
+Baseline R3 Probe BA,Baseline,60.42,%
+M3 R3 Probe BA,M3,46.03,%
+M2 + M3 R3 Probe BA,M2 + M3,52.14,%
+M3 R3 reduction vs Baseline,M3,14.39,pp
+M2 + M3 R3 reduction vs Baseline,M2 + M3,8.280000000000001,pp
+M2 + M3 vs M3 R3 Probe BA,M2 + M3,6.109999999999999,pp
+M2 Accuracy,M2,10.0,%
+M2 Balanced Accuracy,M2,20.5647,%
+M2 + M3 Macro-F1,M2 + M3,18.260650639682897,%
+M2 + M3 Prediction Coverage,M2 + M3,41.90476190476191,%

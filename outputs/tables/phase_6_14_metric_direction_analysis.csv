@@ -1,0 +1,4 @@
+Model,Accuracy,Macro_F1,WGA,EOD,DPD,EqOD
+M1,Not improved,Improved,Not improved,Not improved,Improved,Not improved
+M2,Not improved,Not improved,Not improved,Not improved,Improved,Not improved
+M1 + M2,Not improved,Not improved,Not improved,Not improved,Not improved,Not improved

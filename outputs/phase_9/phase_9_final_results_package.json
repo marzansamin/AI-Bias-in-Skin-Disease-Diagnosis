@@ -1,0 +1,127 @@
+{
+  "phase": "9",
+  "title": "Final Paper-Ready Results and Visualization Package",
+  "models": [
+    "Baseline",
+    "M1",
+    "M2",
+    "M1 + M2",
+    "M3",
+    "M2 + M3"
+  ],
+  "datasets": [
+    "Fitzpatrick17k",
+    "DDI"
+  ],
+  "key_findings": [
+    {
+      "Finding ID": "F1",
+      "Category": "Diagnostic Performance",
+      "Finding": "M2 achieved the highest DDI Accuracy and Balanced Accuracy.",
+      "Evidence": "DDI Accuracy = 10.00%; Balanced Accuracy = 20.56%",
+      "Interpretation": "Supported by the verified external evaluation."
+    },
+    {
+      "Finding ID": "F2",
+      "Category": "Diagnostic Performance",
+      "Finding": "M2 + M3 achieved the highest DDI Macro-F1.",
+      "Evidence": "DDI Macro-F1 = 18.26%",
+      "Interpretation": "Supported, but prediction coverage was only 41.90%."
+    },
+    {
+      "Finding ID": "F3",
+      "Category": "Representation Bias",
+      "Finding": "M3 produced the strongest R3 representation-bias reduction.",
+      "Evidence": "R3 probe BA decreased from 60.42% to 46.03%.",
+      "Interpretation": "14.39 percentage-point reduction."
+    },
+    {
+      "Finding ID": "F4",
+      "Category": "Combined Mitigation",
+      "Finding": "M2 + M3 retained substantial R3 reduction while improving DDI Macro-F1.",
+      "Evidence": "R3 BA = 52.14%; Macro-F1 = 18.26%.",
+      "Interpretation": "Useful combined result, but external prediction coverage limits confidence."
+    },
+    {
+      "Finding ID": "F5",
+      "Category": "Generalization",
+      "Finding": "Performance decreased substantially when moving from Fitzpatrick17k to DDI.",
+      "Evidence": "Observed negative generalization gaps for available Baseline and M2 metrics.",
+      "Interpretation": "Indicates limited cross-dataset generalization."
+    },
+    {
+      "Finding ID": "F6",
+      "Category": "External Evaluation",
+      "Finding": "DDI contains substantial out-of-space predictions under the harmonized label space.",
+      "Evidence": "M2 + M3 mapped 41.90% of predictions; 122/210 were out-of-space.",
+      "Interpretation": "External metrics must be interpreted cautiously."
+    }
+  ],
+  "limitations": [
+    {
+      "Limitation ID": "L1",
+      "Limitation": "Fitzpatrick17k and DDI use different disease label spaces."
+    },
+    {
+      "Limitation ID": "L2",
+      "Limitation": "DDI evaluation uses a harmonized 14-class space rather than the full 114-class space."
+    },
+    {
+      "Limitation ID": "L3",
+      "Limitation": "M2 + M3 has only 41.90% prediction coverage on DDI."
+    },
+    {
+      "Limitation ID": "L4",
+      "Limitation": "122 of 210 DDI predictions are outside the harmonized prediction space."
+    },
+    {
+      "Limitation ID": "L5",
+      "Limitation": "Complete internal Fitzpatrick17k performance records are not available for M3 and M2 + M3."
+    },
+    {
+      "Limitation ID": "L6",
+      "Limitation": "Fairness metrics capture different aspects of disparity and may move in different directions."
+    },
+    {
+      "Limitation ID": "L7",
+      "Limitation": "Public-dataset evaluation does not establish clinical deployment readiness."
+    }
+  ],
+  "verified_ddi_results": {
+    "best_accuracy": "M2",
+    "best_balanced_accuracy": "M2",
+    "best_macro_f1": "M2 + M3",
+    "M2_M3_prediction_coverage": 41.904762,
+    "M2_M3_out_of_space_predictions": 122,
+    "M2_M3_total_predictions": 210
+  },
+  "R3": {
+    "baseline_probe_BA": 60.42,
+    "M3_probe_BA": 46.03,
+    "M2_M3_probe_BA": 52.14,
+    "M3_reduction_pp": 14.39,
+    "M2_M3_reduction_pp": 8.28
+  },
+  "outputs": {
+    "figures": [
+      "/content/skin-tone-fairness/outputs/figures/phase_9_3_ddi_external_performance.png",
+      "/content/skin-tone-fairness/outputs/figures/phase_9_7_DDI_prediction_coverage.png",
+      "/content/skin-tone-fairness/outputs/figures/Fig_6_fairness_comparison_WGA_EOD_DPD_EqOD.png",
+      "/content/skin-tone-fairness/outputs/figures/Fig_7_macroF1_vs_EOD_tradeoff.png",
+      "/content/skin-tone-fairness/outputs/figures/Fig_8_fitzpatrick17k_vs_DDI_performance.png"
+    ],
+    "tables": [
+      "/content/skin-tone-fairness/outputs/phase_9/Table_1_final_overall_model_performance.csv",
+      "/content/skin-tone-fairness/outputs/phase_9/Table_2_final_fairness_comparison.csv",
+      "/content/skin-tone-fairness/outputs/phase_9/Table_3_final_R3_representation_comparison.csv",
+      "/content/skin-tone-fairness/outputs/phase_9/Table_4_Fitzpatrick17k_vs_DDI_comparison.csv",
+      "/content/skin-tone-fairness/outputs/phase_9/Table_5_generalization_gap.csv",
+      "/content/skin-tone-fairness/outputs/phase_9/Table_6_mitigation_effectiveness.csv",
+      "/content/skin-tone-fairness/outputs/phase_9/Table_7_key_findings.csv",
+      "/content/skin-tone-fairness/outputs/phase_9/Table_8_limitations.csv"
+    ],
+    "figure_index": "/content/skin-tone-fairness/outputs/phase_9/phase_9_final_figure_index.csv",
+    "table_index": "/content/skin-tone-fairness/outputs/phase_9/phase_9_final_table_index.csv",
+    "report_ready_interpretation": "/content/skin-tone-fairness/outputs/phase_9/phase_9_report_ready_final_interpretation.txt"
+  }
+}

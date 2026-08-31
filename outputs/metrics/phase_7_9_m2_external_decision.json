@@ -1,0 +1,18 @@
+{
+    "phase": "7.9",
+    "dataset": "DDI",
+    "mitigation": "M2 \u2014 Adaptive Reweighting / Resampling",
+    "evaluation_samples": 210,
+    "disease_classes": 14,
+    "diagnostic_metrics_improved": 3,
+    "diagnostic_metrics_degraded": 3,
+    "fairness_metrics_improved": 3,
+    "fairness_metrics_degraded": 1,
+    "baseline_EOD": 0.20320261437908496,
+    "baseline_DPD": 0.03546033798134639,
+    "baseline_EqOD": 0.20993746286393344,
+    "m2_EOD": 0.157781217750258,
+    "m2_DPD": 0.030908517253055,
+    "m2_EqOD": 0.1651253715873503,
+    "decision": "MIXED EXTERNAL FAIRNESS EVIDENCE"
+}

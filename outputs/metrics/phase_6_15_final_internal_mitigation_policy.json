@@ -1,0 +1,13 @@
+{
+    "phase": "6.15",
+    "internal_conclusion": "No evaluated mitigation demonstrates consistent improvement across all formal fairness metrics.",
+    "M1_decision": "CONDITIONAL / MIXED EVIDENCE",
+    "M2_decision": "MIXED / PARTIAL EVIDENCE",
+    "M1_M2_decision": "NOT SUPPORTED BY FORMAL FAIRNESS METRICS",
+    "R3_internal_status": "Not Established",
+    "R3_external_status": "Pending DDI external validation",
+    "M3_status": "Not activated at this stage",
+    "decision_threshold_added": false,
+    "arbitrary_selection_rule_added": false,
+    "next_phase": "Phase 7 \u2014 DDI External Validation"
+}

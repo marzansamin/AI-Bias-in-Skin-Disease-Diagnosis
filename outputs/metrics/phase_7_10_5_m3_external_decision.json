@@ -1,0 +1,15 @@
+{
+    "dataset": "DDI",
+    "baseline_model": "EfficientNet-B0",
+    "m3_model": "EfficientNet-B0 + M3",
+    "evaluation_samples": 210,
+    "diagnostic_metrics_improved": 2,
+    "diagnostic_metrics_degraded": 4,
+    "fairness_metrics_improved": 4,
+    "fairness_metrics_degraded": 1,
+    "baseline_r3_probe_balanced_accuracy": 0.6042,
+    "m3_r3_probe_balanced_accuracy": 0.4603,
+    "r3_probe_reduction": 0.14389999999999997,
+    "r3_mitigation_supported": true,
+    "external_decision": "SUPPORTED EXTERNAL R3 MITIGATION"
+}

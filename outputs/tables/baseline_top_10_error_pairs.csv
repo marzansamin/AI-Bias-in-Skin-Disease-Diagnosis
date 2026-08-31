@@ -1,0 +1,11 @@
+true_disease,predicted_disease,error_count,error_pair
+lupus erythematosus,dermatomyositis,4,lupus erythematosus → dermatomyositis
+telangiectases,dermatomyositis,4,telangiectases → dermatomyositis
+photodermatoses,folliculitis,5,photodermatoses → folliculitis
+melanoma,superficial spreading melanoma ssm,5,melanoma → superficial spreading melanoma ssm
+acne,acne vulgaris,5,acne → acne vulgaris
+psoriasis,lichen planus,5,psoriasis → lichen planus
+rosacea,rhinophyma,6,rosacea → rhinophyma
+photodermatoses,allergic contact dermatitis,6,photodermatoses → allergic contact dermatitis
+squamous cell carcinoma,basal cell carcinoma,7,squamous cell carcinoma → basal cell carcinoma
+basal cell carcinoma,squamous cell carcinoma,10,basal cell carcinoma → squamous cell carcinoma

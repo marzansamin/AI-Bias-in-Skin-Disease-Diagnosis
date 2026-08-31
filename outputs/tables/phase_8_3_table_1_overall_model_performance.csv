@@ -1,0 +1,5 @@
+Model,Accuracy (%),Balanced Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1 (%),Weighted F1 (%)
+Baseline,9.05,7.93,22.25,7.93,10.24,13.02
+M2,10.0,20.56,4.96,4.5,3.25,13.14
+M3,8.1,11.73,16.58,11.73,10.22,11.45
+M2 + M3,9.52,20.1,37.6,20.1,18.26,12.96

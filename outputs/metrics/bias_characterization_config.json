@@ -1,0 +1,44 @@
+{
+    "thresholds": {
+        "R1": {
+            "moderate_below_percent": 20.0,
+            "severe_below_percent": 10.0
+        },
+        "R2": {
+            "moderate_ratio": 5.0,
+            "severe_ratio": 10.0
+        },
+        "R3": {
+            "moderate_gap_pp": 10.0,
+            "severe_gap_pp": 20.0
+        }
+    },
+    "results": {
+        "R1": {
+            "detected": true,
+            "severity": "Severe",
+            "minimum_group": "Unknown",
+            "minimum_percentage": 3.4031188076160936
+        },
+        "R2": {
+            "detected": true,
+            "severity": "Severe",
+            "largest_disease": "psoriasis",
+            "largest_count": 456,
+            "smallest_disease": "xanthomas",
+            "smallest_count": 37,
+            "ratio": 12.324324324324325
+        },
+        "R3": {
+            "detected": false,
+            "severity": "Requires model-level diagnostic",
+            "accuracy_gap_pp": 0.0,
+            "f1_gap_pp": 0.0
+        }
+    },
+    "detected_rules": [
+        "R1",
+        "R2"
+    ],
+    "number_of_detected_biases": 2
+}
